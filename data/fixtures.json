@@ -98,7 +98,10 @@
       "matchImportance": 5,
       "rivalryScore": 5,
       "whyWatch": "Qatar is making their second straight appearance where they hoped to fare better than last time where home pressure seemed to get to them. Switzerland are making their sixth straight appearance at the World Cup, where they've made it out of the group stage every time except in 2010 (where ironically they dealt Spain's only loss in their successful campaign).",
-      "kickoffUTC": "2026-06-13T19:00:00Z"
+      "kickoffUTC": "2026-06-13T19:00:00Z",
+      "status": "completed",
+      "finalScore": "1-1",
+      "actualExcitementScore": null
     },
     {
       "matchId": 9,
