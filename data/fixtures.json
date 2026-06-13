@@ -1,0 +1,1049 @@
+{
+  "fixtures": [
+    {
+      "matchId": 1,
+      "homeTeam": "Mexico",
+      "awayTeam": "South Africa",
+      "homeTeamKey": "mexico",
+      "awayTeamKey": "south africa",
+      "matchImportance": 6,
+      "rivalryScore": 5,
+      "whyWatch": "The opening match which is also a repeat of the opening match of the 2010 edition (a 1-1 draw then). Not much too say other than that the atmosphere in Estadio Azteca should be phenomenal.",
+      "kickoffUTC": "2026-06-11T19:00:00Z",
+      "status": "completed",
+      "finalScore": "2-0",
+      "actualExcitementScore": 72.5
+    },
+    {
+      "matchId": 2,
+      "homeTeam": "South Korea",
+      "awayTeam": "Czechia",
+      "homeTeamKey": "south korea",
+      "awayTeamKey": "czechia",
+      "matchImportance": 5,
+      "rivalryScore": 4,
+      "whyWatch": "Neither team are fancied to go far, but to make it out of the group a win in the first game would be ideal, especially with South Korea facing the much-fancied and well-supported host, Mexico, in the second game.",
+      "kickoffUTC": "2026-06-12T02:00:00Z",
+      "status": "completed",
+      "finalScore": "2-1",
+      "actualExcitementScore": null
+    },
+    {
+      "matchId": 3,
+      "homeTeam": "Canada",
+      "awayTeam": "Bosnia and Herzegovina",
+      "homeTeamKey": "canada",
+      "awayTeamKey": "bosnia",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "whyWatch": "Canada had a disappointing campaign last time around in Qatar, losing all three of their games. They are desperate to start on the right foot and look for their first win ever in the World Cup. Bosnia might not have flashy superstars, but underestimate them at your own peril, as they upset both Wales and Italy en route to the World Cup despite being unfancied.",
+      "kickoffUTC": "2026-06-11T19:00:00Z",
+      "status": "completed",
+      "finalScore": "1-1",
+      "actualExcitementScore": null
+    },
+    {
+      "matchId": 4,
+      "homeTeam": "United States",
+      "awayTeam": "Paraguay",
+      "homeTeamKey": "united states",
+      "awayTeamKey": "paraguay",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "whyWatch": "All the talk, hype, pressure, and expectation surrounding the US would not cease unless they start with a positive result against Paraguay, making their first appearance since 2010. La Albirroja finished sixth among the 10 South American countries, but can play spoiler to the host.",
+      "kickoffUTC": "2026-06-12T01:00:00Z",
+      "status": "completed",
+      "finalScore": "4-1",
+      "actualExcitementScore": null
+    },
+    {
+      "matchId": 5,
+      "homeTeam": "Haiti",
+      "awayTeam": "Scotland",
+      "homeTeamKey": "haiti",
+      "awayTeamKey": "scotland",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "whyWatch": "After 28 years away, Scotland are making their World Cup return. They must start strong against arguably the weakest side of the group. The midfield duo of McGinn and McTominay must be in their best form for The Tartan Army to have a hope of progressing, which they haven't accomplished in their history. Haiti can spring a surprise, they are a well-drilled side able to defend resolutely. Frustrating the Scotland attack and trying to nick a goal maybe their best route here.",
+      "kickoffUTC": "2026-06-14T01:00:00Z"
+    },
+    {
+      "matchId": 6,
+      "homeTeam": "Australia",
+      "awayTeam": "Turkey",
+      "homeTeamKey": "australia",
+      "awayTeamKey": "turkey",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-14T04:00:00Z",
+      "whyWatch": "Turkey are making their first appearance in 24 years where they made it all the way to the semifinals en route to a third-place finish. They were considered as dark horses in Euro 2020 and 2024. They certainly did not live up to the billing in the former, losing all three group games and scoring only one goal. In the latter, they made it to the quarterfinals, and were unlucky to lose against the Netherlands. The Socceroos will not be an easy opponent as they have a strong defensive spine coupled with exciting young attackers in Mo Toure and Nestory Irakunda."
+    },
+    {
+      "matchId": 7,
+      "homeTeam": "Brazil",
+      "awayTeam": "Morocco",
+      "homeTeamKey": "brazil",
+      "awayTeamKey": "morocco",
+      "matchImportance": 6,
+      "rivalryScore": 5,
+      "whyWatch": "Since last winning the World Cup for a record fifth time in 2002, Brazil has been knocked out in the quarterfinals four times. Their only semifinal appearance in 2014 has its own Wikipedia entry (for all the wrong reasons). Carlo Ancelotti will be expected to bring his trademark man-management and break their World Cup hoodoo. Morocco has been on a rise since becoming the first African-Arab nation to make the World Cup semifinal in 2022. They've won the African Cup of Nations (scratch that, awarded the trophy) and will not cower against the Selecao.",
+      "kickoffUTC": "2026-06-13T22:00:00Z"
+    },
+    {
+      "matchId": 8,
+      "homeTeam": "Qatar",
+      "awayTeam": "Switzerland",
+      "homeTeamKey": "qatar",
+      "awayTeamKey": "switzerland",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "whyWatch": "Qatar is making their second straight appearance where they hoped to fare better than last time where home pressure seemed to get to them. Switzerland are making their sixth straight appearance at the World Cup, where they've made it out of the group stage every time except in 2010 (where ironically they dealt Spain's only loss in their successful campaign).",
+      "kickoffUTC": "2026-06-13T19:00:00Z"
+    },
+    {
+      "matchId": 9,
+      "homeTeam": "Ivory Coast",
+      "awayTeam": "Ecuador",
+      "homeTeamKey": "ivory coast",
+      "awayTeamKey": "ecuador",
+      "matchImportance": 6,
+      "rivalryScore": 5,
+      "whyWatch": "Ivory Coast will look to make it to the knockout stage for the first time in their history. To do that they will be relying on veterans such as Franck Kessie, Nicolas Pepe, and Jean-Michael Seri, along with some exciting young attackers in Simon Adingra, Amad Diallo, and Yan Diomande. Ecuador have a strong defense marshalled by Piero Hincapie and Willian Pacheco, with Moises Caicedo as the midfield general. Whoever emerge victorious will be favorite to make it to the next round.",
+      "kickoffUTC": "2026-06-14T23:00:00Z"
+    },
+    {
+      "matchId": 10,
+      "homeTeam": "Germany",
+      "awayTeam": "Cura\u00e7ao",
+      "homeTeamKey": "germany",
+      "awayTeamKey": "cura\u00e7ao",
+      "matchImportance": 3,
+      "rivalryScore": 3,
+      "whyWatch": "Since winning the World Cup in 2014, Germany has suffered back-to-back elimination in the group stage. Entering this World Cup, they will be considered as one of the favorite, but a convincing start against debutant Cura\u00e7o is a must. Cura\u00e7o, the smallest nation by area and population to qualify for the World Cup will look to keep the game close and avoid heavy defeat.",
+      "kickoffUTC": "2026-06-14T17:00:00Z"
+    },
+    {
+      "matchId": 11,
+      "homeTeam": "Netherlands",
+      "awayTeam": "Japan",
+      "homeTeamKey": "netherlands",
+      "awayTeamKey": "japan",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "whyWatch": "Whisper it quietly, but Japan seem to have changed their mindset of being happy to be a perennial participant, into one that is seeking to be considered as a serious contender. A positive start against the Netherlands will only strengthen their credentials. The Netherlands are not the Netherlands of yore where Johann Cruyff, Ruud Gullit, Marco van Basten, or Dennis Bergkamp play a scintillating style of football. It remains to be seen whether a more functional approach championed by Ronald Koeman will lead to a World Cup glory for the Oranje.",
+      "kickoffUTC": "2026-06-14T20:00:00Z"
+    },
+    {
+      "matchId": 12,
+      "homeTeam": "Sweden",
+      "awayTeam": "Tunisia",
+      "homeTeamKey": "sweden",
+      "awayTeamKey": "tunisia",
+      "matchImportance": 5,
+      "rivalryScore": 3,
+      "whyWatch": "The team that won none of their games in the group stage but still made it to the World Cup play-offs by virtue of  their Nations League performance, Sweden could well be a team to keep an eye on. They have two top strikers in Alexander Isak and Viktor Gyokeres, though they had contrasting fortunes last season. Gyokeres helped Arsenal won their first Premier League title in 22 years and made it all the way to the Champions League final, while Isak struggled with injuries and barely made an impact after a record breaking summer move to Liverpool. Tunisia did not concede a goal in qualifying, but this is a rather inexperienced squad, which might struggle in this stage.",
+      "kickoffUTC": "2026-06-15T02:00:00Z"
+    },
+    {
+      "matchId": 13,
+      "homeTeam": "Saudi Arabia",
+      "awayTeam": "Uruguay",
+      "homeTeamKey": "saudi arabia",
+      "awayTeamKey": "uruguay",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "whyWatch": "Uruguay must heed the lesson of Argentina in 2022 where they lost their opening game of the group stage against Saudi Arabia, led by Salem Al-Dawsari. The Green Falcons did not convince in qualifying, their initial campaign was led by Roberto Mancini. But the Italian resigned in October 2024 after earning only five points in their first four games. Frenchman Herve Renard returned for a second spell and safely navigated the last stage of the qualification round before getting the boot in April 2026. Current coach Georgios Donis named a squad without ever competing in a competitive fixture.",
+      "kickoffUTC": "2026-06-15T22:00:00Z"
+    },
+    {
+      "matchId": 14,
+      "homeTeam": "Spain",
+      "awayTeam": "Cape Verde",
+      "homeTeamKey": "spain",
+      "awayTeamKey": "cape verde",
+      "matchImportance": 4,
+      "rivalryScore": 3,
+      "whyWatch": "Spain would be overwhelming favorite to win this match despite missing their best attacking talent in Lamine Yamal. Debutant Cape Verde has a well-settled squad, but the talent gap means damage limitation might be the order of the day.",
+      "kickoffUTC": "2026-06-15T16:00:00Z"
+    },
+    {
+      "matchId": 15,
+      "homeTeam": "Iran",
+      "awayTeam": "New Zealand",
+      "homeTeamKey": "iran",
+      "awayTeamKey": "new zealand",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "whyWatch": "Iran enters this World Cup with a lot of off-field issues which are beyond their control. Whether this plays into the hand of New Zealand remains to be seen, who will be relying on the fit-again Chris Wood to drive them past the group stage for the first time ever.",
+      "kickoffUTC": "2026-06-16T01:00:00Z"
+    },
+    {
+      "matchId": 16,
+      "homeTeam": "Belgium",
+      "awayTeam": "Egypt",
+      "homeTeamKey": "belgium",
+      "awayTeamKey": "egypt",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "whyWatch": "The so-called Golden Generation is no more, with Thibaut Courtois, Kevin De Bruyne, Romelu Lukaku, and Axel Witsel the only remaining members of the 2014 World Cup squad. This is a team in transition, and now is the time for the likes of Jeremy Doku, Charles De Ketelaere, and Alexis Saelemakers to make their mark on this team. Egypt will rely on the brilliance of Mohamed Salah, who will be determined to improve upon their last showing, a winless campaign in 2018.",
+      "kickoffUTC": "2026-06-15T19:00:00Z"
+    },
+    {
+      "matchId": 17,
+      "homeTeam": "France",
+      "awayTeam": "Senegal",
+      "homeTeamKey": "france",
+      "awayTeamKey": "senegal",
+      "matchImportance": 8,
+      "rivalryScore": 7,
+      "whyWatch": "Perhaps the most intriguing matchup among the opening group matches, Senegal, then making their World Cup debut, shocked the defending champion back in 2002 in the tournament's first game thanks to a goal from the late Papa Bouba Diop. The French imploded afterwards as injury took their toll en route to a group stage exit. A Senegal win now would not be considered as much as an upset as 24 years ago, with the Lions of Teranga possessing multiple stars that plays in Europe's top five leagues.",
+      "kickoffUTC": "2026-06-16T19:00:00Z"
+    },
+    {
+      "matchId": 18,
+      "homeTeam": "Iraq",
+      "awayTeam": "Norway",
+      "homeTeamKey": "iraq",
+      "awayTeamKey": "norway",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "whyWatch": "This World Cup marks Norway's first appearance in a major tournament since Euro 2000. There is a hint of Golden Generation surroinding Norway, which could be a blessing and a curse. Erling Haaland and Martin Odegaard will be their key players, with the latter memorably scoring nine goals in an U-20 World Cup fixtures back in 2019. Iraq are no pushover though, showing mental resilience and strength to qualify for the World Cup despite 29 hours of journey by bus and plane to make it to Mexico for the playoffs where they prevailed 2-1 over Bolivia to cap off a 21 game qualifying odyssey.",
+      "kickoffUTC": "2026-06-16T22:00:00Z"
+    },
+    {
+      "matchId": 19,
+      "homeTeam": "Argentina",
+      "awayTeam": "Algeria",
+      "homeTeamKey": "argentina",
+      "awayTeamKey": "algeria",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "whyWatch": "The defending champs will begin their title defense against Algeria, who qualified easily for this tournament. There are several European-based talents in their starting XI, which will be led by 35-years old Riyad Mahrez. Argentina would be looking to avoid a shock in the opening game like in 2022, although it did turned out well for them in the end.",
+      "kickoffUTC": "2026-06-17T01:00:00Z"
+    },
+    {
+      "matchId": 20,
+      "homeTeam": "Austria",
+      "awayTeam": "Jordan",
+      "homeTeamKey": "austria",
+      "awayTeamKey": "jordan",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "whyWatch": "Austria are a more expansive squad these days, a well-drilled high-pressing machine under the guidance of Ralf Rangnick. Their squad may lack true star power, but they will fancy their chance against debutant Jordan.",
+      "kickoffUTC": "2026-06-17T04:00:00Z"
+    },
+    {
+      "matchId": 21,
+      "homeTeam": "Ghana",
+      "awayTeam": "Panama",
+      "homeTeamKey": "ghana",
+      "awayTeamKey": "panama",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "whyWatch": "A strong, positive start will be the aim for both nations, as they will face tougher opponents in their next two games. Antoine Semenyo will lead the attack along with the experienced Inaki Williams and the speedster Kamaldeen Sulemana. Panama is a well-organized squad and have plenty of experience and physicality. They will look to build on strong showings from the 2023 Gold Cup and the 2024 Copa America.",
+      "kickoffUTC": "2026-06-17T23:00:00Z"
+    },
+    {
+      "matchId": 22,
+      "homeTeam": "England",
+      "awayTeam": "Croatia",
+      "homeTeamKey": "england",
+      "awayTeamKey": "croatia",
+      "matchImportance": 6,
+      "rivalryScore": 7,
+      "kickoffUTC": "2026-06-17T20:00:00Z",
+      "whyWatch": "The tireless and ageless Luka Modric aiming for one last shot of glory against an England side aiming to end 60 years of hurt. England are not short on stars but can they start off on the right foot?"
+    },
+    {
+      "matchId": 23,
+      "homeTeam": "Portugal",
+      "awayTeam": "DR Congo",
+      "homeTeamKey": "portugal",
+      "awayTeamKey": "dr congo",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "whyWatch": "The last time DR Congo made the World Cup, they were still called Zaire. The Leopards have a strong, well-organized defense, but lacking in attack despite boasting experienced players in Cedric Bakambu and Yoanne Wissa. The latter will look to put a nightmare season behind him, where he struggled because of injuries and lack of form with Newcastle after moving from Brentford. Portugal have a strong group of players and were the most recent Nations League winner, and with Ronaldo in the squad, anything can happen.",
+      "kickoffUTC": "2026-06-17T17:00:00Z"
+    },
+    {
+      "matchId": 24,
+      "homeTeam": "Uzbekistan",
+      "awayTeam": "Colombia",
+      "homeTeamKey": "uzbekistan",
+      "awayTeamKey": "colombia",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "whyWatch": "The debutant from Central Asia will look to cause an upset, with by a sturdy defense led by Abdukodir Khusanov, who can learn a thing or two from his coach, the 2006 World Cup winning captain of Italy, Fabio Cannavaro. Colombia should be considered as a dark horse, with Luises, Diaz and Suarez looking to start the tournament with a win.",
+      "kickoffUTC": "2026-06-18T02:00:00Z"
+    },
+    {
+      "matchId": 25,
+      "homeTeam": "Czechia",
+      "awayTeam": "South Africa",
+      "homeTeamKey": "czechia",
+      "awayTeamKey": "south africa",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-18T16:00:00Z"
+    },
+    {
+      "matchId": 26,
+      "homeTeam": "Switzerland",
+      "awayTeam": "Bosnia and Herzegovina",
+      "homeTeamKey": "switzerland",
+      "awayTeamKey": "bosnia",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-18T19:00:00Z"
+    },
+    {
+      "matchId": 27,
+      "homeTeam": "Canada",
+      "awayTeam": "Qatar",
+      "homeTeamKey": "canada",
+      "awayTeamKey": "qatar",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-18T22:00:00Z"
+    },
+    {
+      "matchId": 28,
+      "homeTeam": "Mexico",
+      "awayTeam": "South Korea",
+      "homeTeamKey": "mexico",
+      "awayTeamKey": "south korea",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-19T01:00:00Z"
+    },
+    {
+      "matchId": 29,
+      "homeTeam": "Brazil",
+      "awayTeam": "Haiti",
+      "homeTeamKey": "brazil",
+      "awayTeamKey": "haiti",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-20T00:30:00Z"
+    },
+    {
+      "matchId": 30,
+      "homeTeam": "Scotland",
+      "awayTeam": "Morocco",
+      "homeTeamKey": "scotland",
+      "awayTeamKey": "morocco",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-19T22:00:00Z"
+    },
+    {
+      "matchId": 31,
+      "homeTeam": "Turkey",
+      "awayTeam": "Paraguay",
+      "homeTeamKey": "turkey",
+      "awayTeamKey": "paraguay",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-20T03:00:00Z"
+    },
+    {
+      "matchId": 32,
+      "homeTeam": "United States",
+      "awayTeam": "Australia",
+      "homeTeamKey": "united states",
+      "awayTeamKey": "australia",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-19T19:00:00Z"
+    },
+    {
+      "matchId": 33,
+      "homeTeam": "Germany",
+      "awayTeam": "Ivory Coast",
+      "homeTeamKey": "germany",
+      "awayTeamKey": "ivory coast",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-20T20:00:00Z"
+    },
+    {
+      "matchId": 34,
+      "homeTeam": "Ecuador",
+      "awayTeam": "Cura\u00e7ao",
+      "homeTeamKey": "ecuador",
+      "awayTeamKey": "cura\u00e7ao",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-21T00:00:00Z"
+    },
+    {
+      "matchId": 35,
+      "homeTeam": "Netherlands",
+      "awayTeam": "Sweden",
+      "homeTeamKey": "netherlands",
+      "awayTeamKey": "sweden",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-20T17:00:00Z"
+    },
+    {
+      "matchId": 36,
+      "homeTeam": "Tunisia",
+      "awayTeam": "Japan",
+      "homeTeamKey": "tunisia",
+      "awayTeamKey": "japan",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-21T04:00:00Z"
+    },
+    {
+      "matchId": 37,
+      "homeTeam": "Uruguay",
+      "awayTeam": "Cape Verde",
+      "homeTeamKey": "uruguay",
+      "awayTeamKey": "cape verde",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-21T22:00:00Z"
+    },
+    {
+      "matchId": 38,
+      "homeTeam": "Spain",
+      "awayTeam": "Saudi Arabia",
+      "homeTeamKey": "spain",
+      "awayTeamKey": "saudi arabia",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-21T16:00:00Z"
+    },
+    {
+      "matchId": 39,
+      "homeTeam": "Belgium",
+      "awayTeam": "Iran",
+      "homeTeamKey": "belgium",
+      "awayTeamKey": "iran",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-21T19:00:00Z"
+    },
+    {
+      "matchId": 40,
+      "homeTeam": "New Zealand",
+      "awayTeam": "Egypt",
+      "homeTeamKey": "new zealand",
+      "awayTeamKey": "egypt",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-22T01:00:00Z"
+    },
+    {
+      "matchId": 41,
+      "homeTeam": "Norway",
+      "awayTeam": "Senegal",
+      "homeTeamKey": "norway",
+      "awayTeamKey": "senegal",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-23T00:00:00Z"
+    },
+    {
+      "matchId": 42,
+      "homeTeam": "France",
+      "awayTeam": "Iraq",
+      "homeTeamKey": "france",
+      "awayTeamKey": "iraq",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-22T21:00:00Z"
+    },
+    {
+      "matchId": 43,
+      "homeTeam": "Argentina",
+      "awayTeam": "Austria",
+      "homeTeamKey": "argentina",
+      "awayTeamKey": "austria",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-22T17:00:00Z"
+    },
+    {
+      "matchId": 44,
+      "homeTeam": "Jordan",
+      "awayTeam": "Algeria",
+      "homeTeamKey": "jordan",
+      "awayTeamKey": "algeria",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-23T01:00:00Z"
+    },
+    {
+      "matchId": 45,
+      "homeTeam": "England",
+      "awayTeam": "Ghana",
+      "homeTeamKey": "england",
+      "awayTeamKey": "ghana",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-23T20:00:00Z"
+    },
+    {
+      "matchId": 46,
+      "homeTeam": "Panama",
+      "awayTeam": "Croatia",
+      "homeTeamKey": "panama",
+      "awayTeamKey": "croatia",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-23T23:00:00Z"
+    },
+    {
+      "matchId": 47,
+      "homeTeam": "Portugal",
+      "awayTeam": "Uzbekistan",
+      "homeTeamKey": "portugal",
+      "awayTeamKey": "uzbekistan",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-23T17:00:00Z"
+    },
+    {
+      "matchId": 48,
+      "homeTeam": "Colombia",
+      "awayTeam": "DR Congo",
+      "homeTeamKey": "colombia",
+      "awayTeamKey": "dr congo",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-24T00:00:00Z"
+    },
+    {
+      "matchId": 49,
+      "homeTeam": "Scotland",
+      "awayTeam": "Brazil",
+      "homeTeamKey": "scotland",
+      "awayTeamKey": "brazil",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-24T22:00:00Z"
+    },
+    {
+      "matchId": 50,
+      "homeTeam": "Morocco",
+      "awayTeam": "Haiti",
+      "homeTeamKey": "morocco",
+      "awayTeamKey": "haiti",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-24T22:00:00Z"
+    },
+    {
+      "matchId": 51,
+      "homeTeam": "Switzerland",
+      "awayTeam": "Canada",
+      "homeTeamKey": "switzerland",
+      "awayTeamKey": "canada",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-24T19:00:00Z"
+    },
+    {
+      "matchId": 52,
+      "homeTeam": "Bosnia and Herzegovina",
+      "awayTeam": "Qatar",
+      "homeTeamKey": "bosnia",
+      "awayTeamKey": "qatar",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-24T19:00:00Z"
+    },
+    {
+      "matchId": 53,
+      "homeTeam": "Czechia",
+      "awayTeam": "Mexico",
+      "homeTeamKey": "czechia",
+      "awayTeamKey": "mexico",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-25T01:00:00Z"
+    },
+    {
+      "matchId": 54,
+      "homeTeam": "South Africa",
+      "awayTeam": "South Korea",
+      "homeTeamKey": "south africa",
+      "awayTeamKey": "south korea",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-25T01:00:00Z"
+    },
+    {
+      "matchId": 55,
+      "homeTeam": "Cura\u00e7ao",
+      "awayTeam": "Ivory Coast",
+      "homeTeamKey": "cura\u00e7ao",
+      "awayTeamKey": "ivory coast",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-25T20:00:00Z"
+    },
+    {
+      "matchId": 56,
+      "homeTeam": "Ecuador",
+      "awayTeam": "Germany",
+      "homeTeamKey": "ecuador",
+      "awayTeamKey": "germany",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-25T20:00:00Z"
+    },
+    {
+      "matchId": 57,
+      "homeTeam": "Japan",
+      "awayTeam": "Sweden",
+      "homeTeamKey": "japan",
+      "awayTeamKey": "sweden",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-25T23:00:00Z"
+    },
+    {
+      "matchId": 58,
+      "homeTeam": "Tunisia",
+      "awayTeam": "Netherlands",
+      "homeTeamKey": "tunisia",
+      "awayTeamKey": "netherlands",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-25T23:00:00Z"
+    },
+    {
+      "matchId": 59,
+      "homeTeam": "Turkey",
+      "awayTeam": "United States",
+      "homeTeamKey": "turkey",
+      "awayTeamKey": "united states",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-26T02:00:00Z"
+    },
+    {
+      "matchId": 60,
+      "homeTeam": "Paraguay",
+      "awayTeam": "Australia",
+      "homeTeamKey": "paraguay",
+      "awayTeamKey": "australia",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-26T02:00:00Z"
+    },
+    {
+      "matchId": 61,
+      "homeTeam": "Norway",
+      "awayTeam": "France",
+      "homeTeamKey": "norway",
+      "awayTeamKey": "france",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-26T19:00:00Z"
+    },
+    {
+      "matchId": 62,
+      "homeTeam": "Senegal",
+      "awayTeam": "Iraq",
+      "homeTeamKey": "senegal",
+      "awayTeamKey": "iraq",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-26T19:00:00Z"
+    },
+    {
+      "matchId": 63,
+      "homeTeam": "Egypt",
+      "awayTeam": "Iran",
+      "homeTeamKey": "egypt",
+      "awayTeamKey": "iran",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-27T03:00:00Z"
+    },
+    {
+      "matchId": 64,
+      "homeTeam": "New Zealand",
+      "awayTeam": "Belgium",
+      "homeTeamKey": "new zealand",
+      "awayTeamKey": "belgium",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-27T03:00:00Z"
+    },
+    {
+      "matchId": 65,
+      "homeTeam": "Cape Verde",
+      "awayTeam": "Saudi Arabia",
+      "homeTeamKey": "cape verde",
+      "awayTeamKey": "saudi arabia",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-27T00:00:00Z"
+    },
+    {
+      "matchId": 66,
+      "homeTeam": "Uruguay",
+      "awayTeam": "Spain",
+      "homeTeamKey": "uruguay",
+      "awayTeamKey": "spain",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-27T00:00:00Z"
+    },
+    {
+      "matchId": 67,
+      "homeTeam": "Panama",
+      "awayTeam": "England",
+      "homeTeamKey": "panama",
+      "awayTeamKey": "england",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-27T21:00:00Z"
+    },
+    {
+      "matchId": 68,
+      "homeTeam": "Croatia",
+      "awayTeam": "Ghana",
+      "homeTeamKey": "croatia",
+      "awayTeamKey": "ghana",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-27T21:00:00Z"
+    },
+    {
+      "matchId": 69,
+      "homeTeam": "Algeria",
+      "awayTeam": "Austria",
+      "homeTeamKey": "algeria",
+      "awayTeamKey": "austria",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-28T02:00:00Z"
+    },
+    {
+      "matchId": 70,
+      "homeTeam": "Jordan",
+      "awayTeam": "Argentina",
+      "homeTeamKey": "jordan",
+      "awayTeamKey": "argentina",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-28T02:00:00Z"
+    },
+    {
+      "matchId": 71,
+      "homeTeam": "Colombia",
+      "awayTeam": "Portugal",
+      "homeTeamKey": "colombia",
+      "awayTeamKey": "portugal",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-27T23:30:00Z",
+      "whyWatch": "Depending on how the two teams get on in their first two games, this could be the group decider, can Ronaldo get the one trophy that has eluded him? Or will the star power of Luis Diaz proves too much Portugal?"
+    },
+    {
+      "matchId": 72,
+      "homeTeam": "DR Congo",
+      "awayTeam": "Uzbekistan",
+      "homeTeamKey": "dr congo",
+      "awayTeamKey": "uzbekistan",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-27T23:30:00Z"
+    },
+    {
+      "matchId": 73,
+      "homeTeam": "Runner-up Group A",
+      "awayTeam": "Runner-up Group B",
+      "homeTeamKey": "runner-up_group_a",
+      "awayTeamKey": "runner-up_group_b",
+      "matchImportance": 5,
+      "rivalryScore": 5
+    },
+    {
+      "matchId": 74,
+      "homeTeam": "Winner Group E",
+      "awayTeam": "3rd Group A/B/C/D/F",
+      "homeTeamKey": "winner_group_e",
+      "awayTeamKey": "3rd_group_a/b/c/d/f",
+      "matchImportance": 5,
+      "rivalryScore": 5
+    },
+    {
+      "matchId": 75,
+      "homeTeam": "Winner Group F",
+      "awayTeam": "Runner-up Group C",
+      "homeTeamKey": "winner_group_f",
+      "awayTeamKey": "runner-up_group_c",
+      "matchImportance": 5,
+      "rivalryScore": 5
+    },
+    {
+      "matchId": 76,
+      "homeTeam": "Winner Group C",
+      "awayTeam": "Runner-up Group F",
+      "homeTeamKey": "winner_group_c",
+      "awayTeamKey": "runner-up_group_f",
+      "matchImportance": 5,
+      "rivalryScore": 5
+    },
+    {
+      "matchId": 77,
+      "homeTeam": "Winner Group I",
+      "awayTeam": "3rd Group C/D/F/G/H",
+      "homeTeamKey": "winner_group_i",
+      "awayTeamKey": "3rd_group_c/d/f/g/h",
+      "matchImportance": 5,
+      "rivalryScore": 5
+    },
+    {
+      "matchId": 78,
+      "homeTeam": "Runner-up Group E",
+      "awayTeam": "Runner-up Group I",
+      "homeTeamKey": "runner-up_group_e",
+      "awayTeamKey": "runner-up_group_i",
+      "matchImportance": 5,
+      "rivalryScore": 5
+    },
+    {
+      "matchId": 79,
+      "homeTeam": "Winner Group A",
+      "awayTeam": "3rd Group C/E/F/H/I",
+      "homeTeamKey": "winner_group_a",
+      "awayTeamKey": "3rd_group_c/e/f/h/i",
+      "matchImportance": 5,
+      "rivalryScore": 5
+    },
+    {
+      "matchId": 80,
+      "homeTeam": "Winner Group L",
+      "awayTeam": "3rd Group E/H/I/J/K",
+      "homeTeamKey": "winner_group_l",
+      "awayTeamKey": "3rd_group_e/h/i/j/k",
+      "matchImportance": 5,
+      "rivalryScore": 5
+    },
+    {
+      "matchId": 81,
+      "homeTeam": "Winner Group D",
+      "awayTeam": "3rd Group B/E/F/I/J",
+      "homeTeamKey": "winner_group_d",
+      "awayTeamKey": "3rd_group_b/e/f/i/j",
+      "matchImportance": 5,
+      "rivalryScore": 5
+    },
+    {
+      "matchId": 82,
+      "homeTeam": "Winner Group G",
+      "awayTeam": "3rd Group A/E/H/I/J",
+      "homeTeamKey": "winner_group_g",
+      "awayTeamKey": "3rd_group_a/e/h/i/j",
+      "matchImportance": 5,
+      "rivalryScore": 5
+    },
+    {
+      "matchId": 83,
+      "homeTeam": "Runner-up Group K",
+      "awayTeam": "Runner-up Group L",
+      "homeTeamKey": "runner-up_group_k",
+      "awayTeamKey": "runner-up_group_l",
+      "matchImportance": 5,
+      "rivalryScore": 5
+    },
+    {
+      "matchId": 84,
+      "homeTeam": "Winner Group H",
+      "awayTeam": "Runner-up Group J",
+      "homeTeamKey": "winner_group_h",
+      "awayTeamKey": "runner-up_group_j",
+      "matchImportance": 5,
+      "rivalryScore": 5
+    },
+    {
+      "matchId": 85,
+      "homeTeam": "Winner Group B",
+      "awayTeam": "3rd Group E/F/G/I/J",
+      "homeTeamKey": "winner_group_b",
+      "awayTeamKey": "3rd_group_e/f/g/i/j",
+      "matchImportance": 5,
+      "rivalryScore": 5
+    },
+    {
+      "matchId": 86,
+      "homeTeam": "Winner Group J",
+      "awayTeam": "Runner-up Group H",
+      "homeTeamKey": "winner_group_j",
+      "awayTeamKey": "runner-up_group_h",
+      "matchImportance": 5,
+      "rivalryScore": 5
+    },
+    {
+      "matchId": 87,
+      "homeTeam": "Winner Group K",
+      "awayTeam": "3rd Group D/E/I/J/L",
+      "homeTeamKey": "winner_group_k",
+      "awayTeamKey": "3rd_group_d/e/i/j/l",
+      "matchImportance": 5,
+      "rivalryScore": 5
+    },
+    {
+      "matchId": 88,
+      "homeTeam": "Runner-up Group D",
+      "awayTeam": "Runner-up Group G",
+      "homeTeamKey": "runner-up_group_d",
+      "awayTeamKey": "runner-up_group_g",
+      "matchImportance": 5,
+      "rivalryScore": 5
+    },
+    {
+      "matchId": 89,
+      "homeTeam": "Winner Match 74",
+      "awayTeam": "Winner Match 77",
+      "homeTeamKey": "winner_match_74",
+      "awayTeamKey": "winner_match_77",
+      "matchImportance": 5,
+      "rivalryScore": 5
+    },
+    {
+      "matchId": 90,
+      "homeTeam": "Winner Match 73",
+      "awayTeam": "Winner Match 75",
+      "homeTeamKey": "winner_match_73",
+      "awayTeamKey": "winner_match_75",
+      "matchImportance": 5,
+      "rivalryScore": 5
+    },
+    {
+      "matchId": 91,
+      "homeTeam": "Winner Match 76",
+      "awayTeam": "Winner Match 78",
+      "homeTeamKey": "winner_match_76",
+      "awayTeamKey": "winner_match_78",
+      "matchImportance": 5,
+      "rivalryScore": 5
+    },
+    {
+      "matchId": 92,
+      "homeTeam": "Winner Match 79",
+      "awayTeam": "Winner Match 80",
+      "homeTeamKey": "winner_match_79",
+      "awayTeamKey": "winner_match_80",
+      "matchImportance": 5,
+      "rivalryScore": 5
+    },
+    {
+      "matchId": 93,
+      "homeTeam": "Winner Match 83",
+      "awayTeam": "Winner Match 84",
+      "homeTeamKey": "winner_match_83",
+      "awayTeamKey": "winner_match_84",
+      "matchImportance": 5,
+      "rivalryScore": 5
+    },
+    {
+      "matchId": 94,
+      "homeTeam": "Winner Match 81",
+      "awayTeam": "Winner Match 82",
+      "homeTeamKey": "winner_match_81",
+      "awayTeamKey": "winner_match_82",
+      "matchImportance": 5,
+      "rivalryScore": 5
+    },
+    {
+      "matchId": 95,
+      "homeTeam": "Winner Match 86",
+      "awayTeam": "Winner Match 88",
+      "homeTeamKey": "winner_match_86",
+      "awayTeamKey": "winner_match_88",
+      "matchImportance": 5,
+      "rivalryScore": 5
+    },
+    {
+      "matchId": 96,
+      "homeTeam": "Winner Match 85",
+      "awayTeam": "Winner Match 87",
+      "homeTeamKey": "winner_match_85",
+      "awayTeamKey": "winner_match_87",
+      "matchImportance": 5,
+      "rivalryScore": 5
+    },
+    {
+      "matchId": 97,
+      "homeTeam": "Winner Match 89",
+      "awayTeam": "Winner Match 90",
+      "homeTeamKey": "winner_match_89",
+      "awayTeamKey": "winner_match_90",
+      "matchImportance": 5,
+      "rivalryScore": 5
+    },
+    {
+      "matchId": 98,
+      "homeTeam": "Winner Match 93",
+      "awayTeam": "Winner Match 94",
+      "homeTeamKey": "winner_match_93",
+      "awayTeamKey": "winner_match_94",
+      "matchImportance": 5,
+      "rivalryScore": 5
+    },
+    {
+      "matchId": 99,
+      "homeTeam": "Winner Match 91",
+      "awayTeam": "Winner Match 92",
+      "homeTeamKey": "winner_match_91",
+      "awayTeamKey": "winner_match_92",
+      "matchImportance": 5,
+      "rivalryScore": 5
+    },
+    {
+      "matchId": 100,
+      "homeTeam": "Winner Match 95",
+      "awayTeam": "Winner Match 96",
+      "homeTeamKey": "winner_match_95",
+      "awayTeamKey": "winner_match_96",
+      "matchImportance": 5,
+      "rivalryScore": 5
+    },
+    {
+      "matchId": 101,
+      "homeTeam": "Winner Match 97",
+      "awayTeam": "Winner Match 98",
+      "homeTeamKey": "winner_match_97",
+      "awayTeamKey": "winner_match_98",
+      "matchImportance": 5,
+      "rivalryScore": 5
+    },
+    {
+      "matchId": 102,
+      "homeTeam": "Winner Match 99",
+      "awayTeam": "Winner Match 100",
+      "homeTeamKey": "winner_match_99",
+      "awayTeamKey": "winner_match_100",
+      "matchImportance": 5,
+      "rivalryScore": 5
+    },
+    {
+      "matchId": 103,
+      "homeTeam": "Loser Match 101",
+      "awayTeam": "Loser Match 102",
+      "homeTeamKey": "loser_match_101",
+      "awayTeamKey": "loser_match_102",
+      "matchImportance": 5,
+      "rivalryScore": 5
+    },
+    {
+      "matchId": 104,
+      "homeTeam": "Winner Match 101",
+      "awayTeam": "Winner Match 102",
+      "homeTeamKey": "winner_match_101",
+      "awayTeamKey": "winner_match_102",
+      "matchImportance": 5,
+      "rivalryScore": 5
+    }
+  ]
+}
