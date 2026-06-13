@@ -3,7 +3,7 @@ let chronologicalFixtures = [];
 let topFixtures = [];
 
 async function loadData() {
-  const response = await fetch("../data/scored_fixtures.json");
+  const response = await fetch("./data/scored_fixtures.json");
   const data = await response.json();
   fixtures = data.fixtures;
   window.fixtures = fixtures;
