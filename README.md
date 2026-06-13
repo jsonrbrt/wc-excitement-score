@@ -8,7 +8,7 @@ https://jsonrbrt.github.io/wc-excitement-score/
 ## Screenshots
 
 ### Netherlands v Japan excitement score
-![Netherlands v Japan](./screenshots/netherlands_v_japan.png)
+![Netherlands v Japan](./assets/netherlands_v_japan.png)
 
 ## How It Works
 
