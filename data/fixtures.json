@@ -65,6 +65,9 @@
       "matchImportance": 5,
       "rivalryScore": 5,
       "whyWatch": "After 28 years away, Scotland are making their World Cup return. They must start strong against arguably the weakest side of the group. The midfield duo of McGinn and McTominay must be in their best form for The Tartan Army to have a hope of progressing, which they haven't accomplished in their history. Haiti can spring a surprise, they are a well-drilled side able to defend resolutely. Frustrating the Scotland attack and trying to nick a goal maybe their best route here.",
+      "status": "completed",
+      "finalScore": "0-1",
+      "actualExcitementScore": null,
       "kickoffUTC": "2026-06-14T01:00:00Z"
     },
     {
@@ -76,7 +79,10 @@
       "matchImportance": 5,
       "rivalryScore": 5,
       "kickoffUTC": "2026-06-14T04:00:00Z",
-      "whyWatch": "Turkey are making their first appearance in 24 years where they made it all the way to the semifinals en route to a third-place finish. They were considered as dark horses in Euro 2020 and 2024. They certainly did not live up to the billing in the former, losing all three group games and scoring only one goal. In the latter, they made it to the quarterfinals, and were unlucky to lose against the Netherlands. The Socceroos will not be an easy opponent as they have a strong defensive spine coupled with exciting young attackers in Mo Toure and Nestory Irakunda."
+      "whyWatch": "Turkey are making their first appearance in 24 years where they made it all the way to the semifinals en route to a third-place finish. They were considered as dark horses in Euro 2020 and 2024. They certainly did not live up to the billing in the former, losing all three group games and scoring only one goal. In the latter, they made it to the quarterfinals, and were unlucky to lose against the Netherlands. The Socceroos will not be an easy opponent as they have a strong defensive spine coupled with exciting young attackers in Mo Toure and Nestory Irakunda.",
+      "status": "completed",
+      "finalScore": "2-0",
+      "actualExcitementScore": null
     },
     {
       "matchId": 7,
@@ -87,7 +93,10 @@
       "matchImportance": 6,
       "rivalryScore": 5,
       "whyWatch": "Since last winning the World Cup for a record fifth time in 2002, Brazil has been knocked out in the quarterfinals four times. Their only semifinal appearance in 2014 has its own Wikipedia entry (for all the wrong reasons). Carlo Ancelotti will be expected to bring his trademark man-management and break their World Cup hoodoo. Morocco has been on a rise since becoming the first African-Arab nation to make the World Cup semifinal in 2022. They've won the African Cup of Nations (scratch that, awarded the trophy) and will not cower against the Selecao.",
-      "kickoffUTC": "2026-06-13T22:00:00Z"
+      "kickoffUTC": "2026-06-13T22:00:00Z",
+      "status": "completed",
+      "finalScore": "1-1",
+      "actualExcitementScore": null
     },
     {
       "matchId": 8,
