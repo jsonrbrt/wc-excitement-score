@@ -28,7 +28,7 @@
         "attackingScore": 8.17,
         "chaosScore": 3.67,
         "starPowerScore": 8.0,
-        "upsetPotential": 9.93,
+        "competitiveBalance": 9.93,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -62,7 +62,7 @@
         "attackingScore": 10,
         "chaosScore": 0.83,
         "starPowerScore": 8.0,
-        "upsetPotential": 8.17,
+        "competitiveBalance": 8.17,
         "matchImportance": 6,
         "rivalryScore": 7
       }
@@ -97,7 +97,7 @@
         "attackingScore": 10,
         "chaosScore": 2.17,
         "starPowerScore": 8.5,
-        "upsetPotential": 7.52,
+        "competitiveBalance": 7.52,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -132,7 +132,7 @@
         "attackingScore": 10,
         "chaosScore": 1.5,
         "starPowerScore": 7.5,
-        "upsetPotential": 9.22,
+        "competitiveBalance": 9.22,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -147,6 +147,9 @@
       "rivalryScore": 5,
       "whyWatch": "Whisper it quietly, but Japan seem to have changed their mindset of being happy to be a perennial participant, into one that is seeking to be considered as a serious contender. A positive start against the Netherlands will only strengthen their credentials. The Netherlands are not the Netherlands of yore where Johann Cruyff, Ruud Gullit, Marco van Basten, or Dennis Bergkamp play a scintillating style of football. It remains to be seen whether a more functional approach championed by Ronald Koeman will lead to a World Cup glory for the Oranje.",
       "kickoffUTC": "2026-06-14T20:00:00Z",
+      "status": "completed",
+      "finalScore": "2-2",
+      "actualExcitementScore": null,
       "homeTeamName": "Netherlands",
       "awayTeamName": "Japan",
       "homeElo": 1948,
@@ -167,7 +170,7 @@
         "attackingScore": 10,
         "chaosScore": 1.33,
         "starPowerScore": 7.0,
-        "upsetPotential": 9.3,
+        "competitiveBalance": 9.3,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -204,7 +207,7 @@
         "attackingScore": 7.67,
         "chaosScore": 1.67,
         "starPowerScore": 8.0,
-        "upsetPotential": 6.73,
+        "competitiveBalance": 6.73,
         "matchImportance": 8,
         "rivalryScore": 7
       }
@@ -237,7 +240,7 @@
         "attackingScore": 9.65,
         "chaosScore": 2.75,
         "starPowerScore": 5.5,
-        "upsetPotential": 7.98,
+        "competitiveBalance": 7.98,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -269,7 +272,7 @@
         "attackingScore": 7.17,
         "chaosScore": 4.33,
         "starPowerScore": 7.0,
-        "upsetPotential": 6.93,
+        "competitiveBalance": 6.93,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -303,7 +306,7 @@
         "attackingScore": 7.83,
         "chaosScore": 4.0,
         "starPowerScore": 7.0,
-        "upsetPotential": 6.07,
+        "competitiveBalance": 6.07,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -337,7 +340,7 @@
         "attackingScore": 8.85,
         "chaosScore": 2.18,
         "starPowerScore": 7.0,
-        "upsetPotential": 6.72,
+        "competitiveBalance": 6.72,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -372,7 +375,7 @@
         "attackingScore": 7.97,
         "chaosScore": 3.23,
         "starPowerScore": 6.0,
-        "upsetPotential": 7.78,
+        "competitiveBalance": 7.78,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -406,7 +409,7 @@
         "attackingScore": 5.08,
         "chaosScore": 2.45,
         "starPowerScore": 8.0,
-        "upsetPotential": 9.9,
+        "competitiveBalance": 9.9,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -442,7 +445,7 @@
         "attackingScore": 5.4,
         "chaosScore": 2.65,
         "starPowerScore": 8.0,
-        "upsetPotential": 5.58,
+        "competitiveBalance": 5.58,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -478,7 +481,7 @@
         "attackingScore": 7.08,
         "chaosScore": 3.95,
         "starPowerScore": 7.5,
-        "upsetPotential": 6.05,
+        "competitiveBalance": 6.05,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -510,7 +513,7 @@
         "attackingScore": 10,
         "chaosScore": 1.02,
         "starPowerScore": 5.5,
-        "upsetPotential": 7.77,
+        "competitiveBalance": 7.77,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -544,7 +547,7 @@
         "attackingScore": 7.17,
         "chaosScore": 3.67,
         "starPowerScore": 7.0,
-        "upsetPotential": 6.77,
+        "competitiveBalance": 6.77,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -578,7 +581,7 @@
         "attackingScore": 6.58,
         "chaosScore": 3.47,
         "starPowerScore": 6.0,
-        "upsetPotential": 9.7,
+        "competitiveBalance": 9.7,
         "matchImportance": 5,
         "rivalryScore": 4
       }
@@ -610,7 +613,7 @@
         "attackingScore": 8.22,
         "chaosScore": 2.05,
         "starPowerScore": 5.5,
-        "upsetPotential": 8.83,
+        "competitiveBalance": 8.83,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -641,7 +644,7 @@
         "attackingScore": 7.13,
         "chaosScore": 2.57,
         "starPowerScore": 6.0,
-        "upsetPotential": 9.15,
+        "competitiveBalance": 9.15,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -674,7 +677,7 @@
         "attackingScore": 8.32,
         "chaosScore": 3.15,
         "starPowerScore": 6.5,
-        "upsetPotential": 5.47,
+        "competitiveBalance": 5.47,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -706,7 +709,7 @@
         "attackingScore": 10,
         "chaosScore": 2.15,
         "starPowerScore": 5.5,
-        "upsetPotential": 5.07,
+        "competitiveBalance": 5.07,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -737,7 +740,7 @@
         "attackingScore": 8.67,
         "chaosScore": 1.67,
         "starPowerScore": 5.5,
-        "upsetPotential": 6.98,
+        "competitiveBalance": 6.98,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -770,7 +773,7 @@
         "attackingScore": 5.33,
         "chaosScore": 3.5,
         "starPowerScore": 6.5,
-        "upsetPotential": 8.72,
+        "competitiveBalance": 8.72,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -803,7 +806,7 @@
         "attackingScore": 10,
         "chaosScore": 1.83,
         "starPowerScore": 5.5,
-        "upsetPotential": 4.48,
+        "competitiveBalance": 4.48,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -836,7 +839,7 @@
         "attackingScore": 8.67,
         "chaosScore": 3.33,
         "starPowerScore": 5.5,
-        "upsetPotential": 4.67,
+        "competitiveBalance": 4.67,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -871,7 +874,7 @@
         "attackingScore": 7.5,
         "chaosScore": 1.83,
         "starPowerScore": 7.5,
-        "upsetPotential": 5.27,
+        "competitiveBalance": 5.27,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -905,7 +908,7 @@
         "attackingScore": 8.5,
         "chaosScore": 1.0,
         "starPowerScore": 7.5,
-        "upsetPotential": 1.48,
+        "competitiveBalance": 1.48,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -937,7 +940,7 @@
         "attackingScore": 5.17,
         "chaosScore": 5.67,
         "starPowerScore": 5.5,
-        "upsetPotential": 8.6,
+        "competitiveBalance": 8.6,
         "matchImportance": 5,
         "rivalryScore": 3
       }
@@ -969,7 +972,7 @@
         "attackingScore": 8.0,
         "chaosScore": 1.33,
         "starPowerScore": 5.5,
-        "upsetPotential": 8.28,
+        "competitiveBalance": 8.28,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -1002,7 +1005,7 @@
         "attackingScore": 7.8,
         "chaosScore": 2.93,
         "starPowerScore": 7.0,
-        "upsetPotential": 4.43,
+        "competitiveBalance": 4.43,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -1033,7 +1036,7 @@
         "attackingScore": 10,
         "chaosScore": 1.58,
         "starPowerScore": 4.0,
-        "upsetPotential": 6.5,
+        "competitiveBalance": 6.5,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -1065,7 +1068,7 @@
         "attackingScore": 5.83,
         "chaosScore": 2.5,
         "starPowerScore": 6.0,
-        "upsetPotential": 9.25,
+        "competitiveBalance": 9.25,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -1098,7 +1101,7 @@
         "attackingScore": 6.5,
         "chaosScore": 2.83,
         "starPowerScore": 6.0,
-        "upsetPotential": 7.75,
+        "competitiveBalance": 7.75,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -1130,7 +1133,7 @@
         "attackingScore": 8.0,
         "chaosScore": 2.08,
         "starPowerScore": 5.0,
-        "upsetPotential": 7.5,
+        "competitiveBalance": 7.5,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -1164,7 +1167,7 @@
         "attackingScore": 5.83,
         "chaosScore": 3.5,
         "starPowerScore": 7.0,
-        "upsetPotential": 6.52,
+        "competitiveBalance": 6.52,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -1199,7 +1202,7 @@
         "attackingScore": 7.0,
         "chaosScore": 4.17,
         "starPowerScore": 5.0,
-        "upsetPotential": 6.1,
+        "competitiveBalance": 6.1,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -1232,7 +1235,7 @@
         "attackingScore": 8.0,
         "chaosScore": 3.0,
         "starPowerScore": 5.5,
-        "upsetPotential": 5.37,
+        "competitiveBalance": 5.37,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -1263,7 +1266,7 @@
         "attackingScore": 9.33,
         "chaosScore": 1.83,
         "starPowerScore": 6.5,
-        "upsetPotential": 3.32,
+        "competitiveBalance": 3.32,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -1295,7 +1298,7 @@
         "attackingScore": 6.5,
         "chaosScore": 1.93,
         "starPowerScore": 5.5,
-        "upsetPotential": 8.73,
+        "competitiveBalance": 8.73,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -1326,7 +1329,7 @@
         "attackingScore": 6.88,
         "chaosScore": 2.47,
         "starPowerScore": 4.5,
-        "upsetPotential": 8.67,
+        "competitiveBalance": 8.67,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -1360,7 +1363,7 @@
         "attackingScore": 7.33,
         "chaosScore": 2.33,
         "starPowerScore": 5.0,
-        "upsetPotential": 6.78,
+        "competitiveBalance": 6.78,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -1394,7 +1397,7 @@
         "attackingScore": 8.0,
         "chaosScore": 2.83,
         "starPowerScore": 4.5,
-        "upsetPotential": 5.65,
+        "competitiveBalance": 5.65,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -1427,7 +1430,7 @@
         "attackingScore": 5.75,
         "chaosScore": 2.3,
         "starPowerScore": 6.0,
-        "upsetPotential": 8.05,
+        "competitiveBalance": 8.05,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -1463,7 +1466,7 @@
         "attackingScore": 4.33,
         "chaosScore": 2.0,
         "starPowerScore": 7.0,
-        "upsetPotential": 7.27,
+        "competitiveBalance": 7.27,
         "matchImportance": 6,
         "rivalryScore": 5
       }
@@ -1497,7 +1500,7 @@
         "attackingScore": 6.38,
         "chaosScore": 2.22,
         "starPowerScore": 7.0,
-        "upsetPotential": 4.1,
+        "competitiveBalance": 4.1,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -1531,7 +1534,7 @@
         "attackingScore": 4.73,
         "chaosScore": 2.82,
         "starPowerScore": 7.0,
-        "upsetPotential": 0.2,
+        "competitiveBalance": 0.2,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -1562,7 +1565,7 @@
         "attackingScore": 5.83,
         "chaosScore": 3.67,
         "starPowerScore": 5.5,
-        "upsetPotential": 6.3,
+        "competitiveBalance": 6.3,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -1597,7 +1600,7 @@
         "attackingScore": 4.5,
         "chaosScore": 2.83,
         "starPowerScore": 6.5,
-        "upsetPotential": 8.22,
+        "competitiveBalance": 8.22,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -1631,7 +1634,7 @@
         "attackingScore": 7.83,
         "chaosScore": 0.83,
         "starPowerScore": 6.5,
-        "upsetPotential": 5.15,
+        "competitiveBalance": 5.15,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -1663,7 +1666,7 @@
         "attackingScore": 5.3,
         "chaosScore": 1.73,
         "starPowerScore": 5.5,
-        "upsetPotential": 9.07,
+        "competitiveBalance": 9.07,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -1694,7 +1697,7 @@
         "attackingScore": 7.0,
         "chaosScore": 1.83,
         "starPowerScore": 5.0,
-        "upsetPotential": 6.33,
+        "competitiveBalance": 6.33,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -1726,7 +1729,7 @@
         "attackingScore": 7.0,
         "chaosScore": 2.0,
         "starPowerScore": 5.5,
-        "upsetPotential": 5.07,
+        "competitiveBalance": 5.07,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -1741,6 +1744,9 @@
       "rivalryScore": 5,
       "whyWatch": "Ivory Coast will look to make it to the knockout stage for the first time in their history. To do that they will be relying on veterans such as Franck Kessie, Nicolas Pepe, and Jean-Michael Seri, along with some exciting young attackers in Simon Adingra, Amad Diallo, and Yan Diomande. Ecuador have a strong defense marshalled by Piero Hincapie and Willian Pacheco, with Moises Caicedo as the midfield general. Whoever emerge victorious will be favorite to make it to the next round.",
       "kickoffUTC": "2026-06-14T23:00:00Z",
+      "status": "completed",
+      "finalScore": "1-0",
+      "actualExcitementScore": null,
       "homeTeamName": "Ivory Coast",
       "awayTeamName": "Ecuador",
       "homeElo": 1695,
@@ -1759,7 +1765,7 @@
         "attackingScore": 4.67,
         "chaosScore": 2.5,
         "starPowerScore": 6.5,
-        "upsetPotential": 5.95,
+        "competitiveBalance": 5.95,
         "matchImportance": 6,
         "rivalryScore": 5
       }
@@ -1790,7 +1796,7 @@
         "attackingScore": 5.12,
         "chaosScore": 2.08,
         "starPowerScore": 4.5,
-        "upsetPotential": 8.97,
+        "competitiveBalance": 8.97,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -1821,7 +1827,7 @@
         "attackingScore": 5.08,
         "chaosScore": 3.13,
         "starPowerScore": 5.5,
-        "upsetPotential": 6.0,
+        "competitiveBalance": 6.0,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -1855,7 +1861,7 @@
         "attackingScore": 6.17,
         "chaosScore": 2.25,
         "starPowerScore": 6.5,
-        "upsetPotential": 2.77,
+        "competitiveBalance": 2.77,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -1886,7 +1892,7 @@
         "attackingScore": 5.48,
         "chaosScore": 2.82,
         "starPowerScore": 5.5,
-        "upsetPotential": 5.53,
+        "competitiveBalance": 5.53,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -1920,7 +1926,7 @@
         "attackingScore": 7.22,
         "chaosScore": 2.32,
         "starPowerScore": 6.0,
-        "upsetPotential": 2.58,
+        "competitiveBalance": 2.58,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -1951,7 +1957,7 @@
         "attackingScore": 4.0,
         "chaosScore": 2.67,
         "starPowerScore": 4.0,
-        "upsetPotential": 9.85,
+        "competitiveBalance": 9.85,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -1966,6 +1972,9 @@
       "rivalryScore": 3,
       "whyWatch": "Since winning the World Cup in 2014, Germany has suffered back-to-back elimination in the group stage. Entering this World Cup, they will be considered as one of the favorite, but a convincing start against debutant Cura\u00e7o is a must. Cura\u00e7o, the smallest nation by area and population to qualify for the World Cup will look to keep the game close and avoid heavy defeat.",
       "kickoffUTC": "2026-06-14T17:00:00Z",
+      "status": "completed",
+      "finalScore": "7-1",
+      "actualExcitementScore": null,
       "homeTeamName": "Germany",
       "awayTeamName": "Cura\u00e7ao",
       "homeElo": 1932,
@@ -1986,7 +1995,7 @@
         "attackingScore": 8.42,
         "chaosScore": 2.78,
         "starPowerScore": 6.0,
-        "upsetPotential": 1.7,
+        "competitiveBalance": 1.7,
         "matchImportance": 3,
         "rivalryScore": 3
       }
@@ -2017,7 +2026,7 @@
         "attackingScore": 5.5,
         "chaosScore": 2.67,
         "starPowerScore": 5.0,
-        "upsetPotential": 5.35,
+        "competitiveBalance": 5.35,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -2050,7 +2059,7 @@
         "attackingScore": 5.5,
         "chaosScore": 3.67,
         "starPowerScore": 6.0,
-        "upsetPotential": 2.62,
+        "competitiveBalance": 2.62,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -2084,7 +2093,7 @@
         "attackingScore": 5.88,
         "chaosScore": 1.65,
         "starPowerScore": 5.0,
-        "upsetPotential": 5.85,
+        "competitiveBalance": 5.85,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -2115,7 +2124,7 @@
         "attackingScore": 3.67,
         "chaosScore": 4.33,
         "starPowerScore": 4.0,
-        "upsetPotential": 7.1,
+        "competitiveBalance": 7.1,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -2146,7 +2155,7 @@
         "attackingScore": 4.97,
         "chaosScore": 2.6,
         "starPowerScore": 6.0,
-        "upsetPotential": 4.5,
+        "competitiveBalance": 4.5,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -2182,7 +2191,7 @@
         "attackingScore": 5.0,
         "chaosScore": 2.5,
         "starPowerScore": 5.5,
-        "upsetPotential": 4.05,
+        "competitiveBalance": 4.05,
         "matchImportance": 6,
         "rivalryScore": 5
       }
@@ -2215,7 +2224,7 @@
         "attackingScore": 3.33,
         "chaosScore": 2.5,
         "starPowerScore": 6.0,
-        "upsetPotential": 4.62,
+        "competitiveBalance": 4.62,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -2249,7 +2258,7 @@
         "attackingScore": 6.07,
         "chaosScore": 2.82,
         "starPowerScore": 6.0,
-        "upsetPotential": 0.35,
+        "competitiveBalance": 0.35,
         "matchImportance": 4,
         "rivalryScore": 3
       }
@@ -2282,7 +2291,7 @@
         "attackingScore": 4.67,
         "chaosScore": 2.5,
         "starPowerScore": 5.0,
-        "upsetPotential": 4.77,
+        "competitiveBalance": 4.77,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -2313,7 +2322,7 @@
         "attackingScore": 4.67,
         "chaosScore": 3.67,
         "starPowerScore": 4.0,
-        "upsetPotential": 3.88,
+        "competitiveBalance": 3.88,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -2345,7 +2354,7 @@
         "attackingScore": 6.0,
         "chaosScore": 1.33,
         "starPowerScore": 5.0,
-        "upsetPotential": 1.6,
+        "competitiveBalance": 1.6,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -2380,7 +2389,7 @@
         "attackingScore": 4.33,
         "chaosScore": 3.33,
         "starPowerScore": 4.5,
-        "upsetPotential": 2.17,
+        "competitiveBalance": 2.17,
         "matchImportance": 5,
         "rivalryScore": 5
       }

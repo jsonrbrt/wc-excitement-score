@@ -121,7 +121,10 @@
       "matchImportance": 6,
       "rivalryScore": 5,
       "whyWatch": "Ivory Coast will look to make it to the knockout stage for the first time in their history. To do that they will be relying on veterans such as Franck Kessie, Nicolas Pepe, and Jean-Michael Seri, along with some exciting young attackers in Simon Adingra, Amad Diallo, and Yan Diomande. Ecuador have a strong defense marshalled by Piero Hincapie and Willian Pacheco, with Moises Caicedo as the midfield general. Whoever emerge victorious will be favorite to make it to the next round.",
-      "kickoffUTC": "2026-06-14T23:00:00Z"
+      "kickoffUTC": "2026-06-14T23:00:00Z",
+      "status": "completed",
+      "finalScore": "1-0",
+      "actualExcitementScore": null
     },
     {
       "matchId": 10,
@@ -132,7 +135,10 @@
       "matchImportance": 3,
       "rivalryScore": 3,
       "whyWatch": "Since winning the World Cup in 2014, Germany has suffered back-to-back elimination in the group stage. Entering this World Cup, they will be considered as one of the favorite, but a convincing start against debutant Cura\u00e7o is a must. Cura\u00e7o, the smallest nation by area and population to qualify for the World Cup will look to keep the game close and avoid heavy defeat.",
-      "kickoffUTC": "2026-06-14T17:00:00Z"
+      "kickoffUTC": "2026-06-14T17:00:00Z",
+      "status": "completed",
+      "finalScore": "7-1",
+      "actualExcitementScore": null
     },
     {
       "matchId": 11,
@@ -143,7 +149,10 @@
       "matchImportance": 5,
       "rivalryScore": 5,
       "whyWatch": "Whisper it quietly, but Japan seem to have changed their mindset of being happy to be a perennial participant, into one that is seeking to be considered as a serious contender. A positive start against the Netherlands will only strengthen their credentials. The Netherlands are not the Netherlands of yore where Johann Cruyff, Ruud Gullit, Marco van Basten, or Dennis Bergkamp play a scintillating style of football. It remains to be seen whether a more functional approach championed by Ronald Koeman will lead to a World Cup glory for the Oranje.",
-      "kickoffUTC": "2026-06-14T20:00:00Z"
+      "kickoffUTC": "2026-06-14T20:00:00Z",
+      "status": "completed",
+      "finalScore": "2-2",
+      "actualExcitementScore": null
     },
     {
       "matchId": 12,

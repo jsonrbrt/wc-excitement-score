@@ -2,6 +2,48 @@ let fixtures = [];
 let chronologicalFixtures = [];
 let topFixtures = [];
 
+const breakdownDescriptions = {
+  attackingScore: {
+    label: "Attacking Score",
+    description: "How much attacking output both teams usually produce.",
+    low: "Less Attacking",
+    high: "More Attacking",
+  },
+  chaosScore: {
+    label: "Chaos Score",
+    description:
+      "How open the match would be based on goals concded by both teams.",
+    low: "More Controlled",
+    high: "More Chaotic",
+  },
+  starPowerScore: {
+    label: "Star Players",
+    description:
+      "How many recognizable stars and high-impact players from both teams.",
+    low: "Fewer Stars",
+    high: "More Stars",
+  },
+  competitiveBalance: {
+    label: "Competitive Balance",
+    description:
+      "How balanced the matchup is based on Elo ratings and rank difference.",
+    low: "One-sided",
+    high: "Evenly Matched",
+  },
+  matchImportance: {
+    label: "Match Importance",
+    description: "How important the game is for both sides.",
+    low: "Less Important",
+    high: "More Important",
+  },
+  rivalryScore: {
+    label: "Rivalry/Narrative",
+    description: "Extra narrative from history, rivalry, or storyline.",
+    low: "Low Rivalry",
+    high: "Intense Rivalry",
+  },
+};
+
 async function loadData() {
   const response = await fetch("./data/scored_fixtures.json");
   const data = await response.json();
@@ -17,6 +59,53 @@ async function loadData() {
   populateDropdown();
   renderTopMatches();
   renderMatch(chronologicalFixtures[0]);
+}
+
+function formatDateForICS(date) {
+  return date.toISOString().replace(/[-:]/g, "").split(".")[0] + "Z";
+}
+
+function escapeICSText(text) {
+  return String(text)
+    .replace(/\\/g, "\\\\")
+    .replace(/,/g, "\\,")
+    .replace(/;/g, "\\;")
+    .replace(/\n/g, "\\n");
+}
+
+function downloadCalendarEvent(fixture) {
+  const start = new Date(fixture.kickoffUTC);
+  const end = new Date(start.getTime() + 2 * 60 * 60 * 1000);
+  const title = `${fixture.homeTeamName} vs ${fixture.awayTeamName}`;
+
+  const lines = [
+    "BEGIN:VCALENDAR",
+    "VERSION:2.0",
+    "PRODID:-//World Cup Excitement Score//EN",
+    "CALSCALE:GREGORIAN",
+    "METHOD:PUBLISH",
+    "BEGIN:VEVENT",
+    `UID:${fixture.matchId}@wc-excitement-score`,
+    `DTSTAMP:${formatDateForICS(new Date())}`,
+    `DTSTART:${formatDateForICS(start)}`,
+    `DTEND:${formatDateForICS(end)}`,
+    `SUMMARY:${escapeICSText(title)}`,
+    `DESCRIPTION:${escapeICSText(`Excitement Score: ${fixture.excitementScore} - ${fixture.watchTier}`)}`,
+    "END:VEVENT",
+    "END:VCALENDAR",
+  ];
+
+  const icsContent = lines.join("\r\n");
+
+  const blob = new Blob([icsContent], { type: "text/calendar;charset=utf-8" });
+  const url = URL.createObjectURL(blob);
+
+  const link = document.createElement("a");
+  link.href = url;
+  link.download = `${fixture.homeTeamName}-vs-${fixture.awayTeamName}.ics`;
+  link.click();
+
+  URL.revokeObjectURL(url);
 }
 
 function populateDropdown() {
@@ -80,14 +169,17 @@ function renderMatch(selectedFixture) {
   const kickoffElement = document.getElementById("kickoff-time");
   const finalScore = document.getElementById("final-score");
   const actualExcitement = document.getElementById("actual-excitement");
+  const calendarButton = document.getElementById("calendar-button");
 
   matchName.textContent = `${selectedFixture.homeTeamName} vs ${selectedFixture.awayTeamName}`;
   score.textContent = `Excitement Score: ${selectedFixture.excitementScore}`;
   watchTier.textContent = `Watchability: ${selectedFixture.watchTier}`;
   starPlayers.textContent = `${selectedFixture.starPlayers?.join(", ") || "Coming Soon"}`;
   whyWatch.textContent = `${selectedFixture.whyWatch || "Check back after 6/17"}`;
+
   if (selectedFixture.kickoffUTC) {
     const kickoff = new Date(selectedFixture.kickoffUTC);
+    const now = new Date();
 
     kickoffElement.textContent = kickoff.toLocaleString([], {
       weekday: "short",
@@ -96,49 +188,47 @@ function renderMatch(selectedFixture) {
       hour: "numeric",
       minute: "2-digit",
     });
+
+    calendarButton.style.display = kickoff > now ? "inline-block" : "none";
   } else {
     kickoffElement.textContent = "Kickoff time TBA";
+    calendarButton.style.display = "none";
   }
+
+  const kickoff = new Date(selectedFixture.kickoffUTC);
+  const now = new Date();
+
+  calendarButton.onclick = () => {
+    downloadCalendarEvent(selectedFixture);
+  };
 
   const breakdownContainer = document.getElementById("score-breakdown");
   const breakdown = selectedFixture.scoreBreakdown;
-
-  const breakdownLabels = {
-    attackingScore: "Attacking Score",
-    chaosScore: "Chaos Score",
-    starPowerScore: "Star Power",
-    upsetPotential: "Upset Potential",
-    matchImportance: "Match Importance",
-    rivalryScore: "Rivalry / Narrative",
-  };
-
-  const breakdownExplanations = {
-    attackingScore: "How much attacking output both teams usually produce.",
-    chaosScore: "How open the match could be based on goals conceded.",
-    starPowerScore:
-      "How many recognizable or high-impact players are involved.",
-    upsetPotential: "How balanced the matchup is based on Elo gap.",
-    matchImportance: "How meaningful the fixture is in the tournament context.",
-    rivalryScore: "Extra narrative from history, rivalry, or storyline.",
-  };
 
   breakdownContainer.innerHTML = "";
 
   Object.entries(breakdown).forEach(([key, value]) => {
     const row = document.createElement("div");
 
-    const label = breakdownLabels[key] || key;
-    const explanation =
-      breakdownExplanations[key] || "No description available";
+    const metric = breakdownDescriptions[key];
+
+    if (!metric) return;
+
     const width = Math.min(value * 10, 100);
 
     row.innerHTML = `
-    <div class="breakdown-row">
-        <span>
-            ${label}
-            <span class="info-icon" title="${explanation}">i</span>
-        </span>
+    <div class="metric-header">
+        <span>${metric.label}</span>
         <span>${value}</span>
+    </div>
+
+    <p class="metric-description">
+      ${metric.description}
+    </p>
+
+    <div class="metric-scale-labels">
+      <span>${metric.low}</span>
+      <span>${metric.high}</span>
     </div>
 
     <div class="progress-track">
