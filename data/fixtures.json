@@ -174,7 +174,10 @@
       "matchImportance": 5,
       "rivalryScore": 5,
       "whyWatch": "Uruguay must heed the lesson of Argentina in 2022 where they lost their opening game of the group stage against Saudi Arabia, led by Salem Al-Dawsari. The Green Falcons did not convince in qualifying, their initial campaign was led by Roberto Mancini. But the Italian resigned in October 2024 after earning only five points in their first four games. Frenchman Herve Renard returned for a second spell and safely navigated the last stage of the qualification round before getting the boot in April 2026. Current coach Georgios Donis named a squad without ever competing in a competitive fixture.",
-      "kickoffUTC": "2026-06-15T22:00:00Z"
+      "kickoffUTC": "2026-06-15T22:00:00Z",
+      "status": "completed",
+      "finalScore": "1-1",
+      "actualExcitementScore": null
     },
     {
       "matchId": 14,
@@ -185,7 +188,10 @@
       "matchImportance": 4,
       "rivalryScore": 3,
       "whyWatch": "Spain would be overwhelming favorite to win this match despite missing their best attacking talent in Lamine Yamal. Debutant Cape Verde has a well-settled squad, but the talent gap means damage limitation might be the order of the day.",
-      "kickoffUTC": "2026-06-15T16:00:00Z"
+      "kickoffUTC": "2026-06-15T16:00:00Z",
+      "status": "completed",
+      "finalScore": "0-0",
+      "actualExcitementScore": null
     },
     {
       "matchId": 15,
@@ -196,7 +202,10 @@
       "matchImportance": 5,
       "rivalryScore": 5,
       "whyWatch": "Iran enters this World Cup with a lot of off-field issues which are beyond their control. Whether this plays into the hand of New Zealand remains to be seen, who will be relying on the fit-again Chris Wood to drive them past the group stage for the first time ever.",
-      "kickoffUTC": "2026-06-16T01:00:00Z"
+      "kickoffUTC": "2026-06-16T01:00:00Z",
+      "status": "completed",
+      "finalScore": "2-2",
+      "actualExcitementScore": null
     },
     {
       "matchId": 16,
@@ -207,7 +216,10 @@
       "matchImportance": 5,
       "rivalryScore": 5,
       "whyWatch": "The so-called Golden Generation is no more, with Thibaut Courtois, Kevin De Bruyne, Romelu Lukaku, and Axel Witsel the only remaining members of the 2014 World Cup squad. This is a team in transition, and now is the time for the likes of Jeremy Doku, Charles De Ketelaere, and Alexis Saelemakers to make their mark on this team. Egypt will rely on the brilliance of Mohamed Salah, who will be determined to improve upon their last showing, a winless campaign in 2018.",
-      "kickoffUTC": "2026-06-15T19:00:00Z"
+      "kickoffUTC": "2026-06-15T19:00:00Z",
+      "status": "completed",
+      "finalScore": "1-1",
+      "actualExcitementScore": null
     },
     {
       "matchId": 17,
