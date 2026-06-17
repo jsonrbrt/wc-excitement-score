@@ -296,8 +296,11 @@
       "awayTeamKey": "croatia",
       "matchImportance": 6,
       "rivalryScore": 7,
+      "whyWatch": "The tireless and ageless Luka Modric aiming for one last shot of glory against an England side aiming to end 60 years of hurt. England are not short on stars but can they start off on the right foot?",
       "kickoffUTC": "2026-06-17T20:00:00Z",
-      "whyWatch": "The tireless and ageless Luka Modric aiming for one last shot of glory against an England side aiming to end 60 years of hurt. England are not short on stars but can they start off on the right foot?"
+      "status": "completed",
+      "finalScore": "4-2",
+      "actualExcitementScore": null
     },
     {
       "matchId": 23,
@@ -308,7 +311,10 @@
       "matchImportance": 5,
       "rivalryScore": 5,
       "whyWatch": "The last time DR Congo made the World Cup, they were still called Zaire. The Leopards have a strong, well-organized defense, but lacking in attack despite boasting experienced players in Cedric Bakambu and Yoanne Wissa. The latter will look to put a nightmare season behind him, where he struggled because of injuries and lack of form with Newcastle after moving from Brentford. Portugal have a strong group of players and were the most recent Nations League winner, and with Ronaldo in the squad, anything can happen.",
-      "kickoffUTC": "2026-06-17T17:00:00Z"
+      "kickoffUTC": "2026-06-17T17:00:00Z",
+      "status": "completed",
+      "finalScore": "1-1",
+      "actualExcitementScore": null
     },
     {
       "matchId": 24,
@@ -327,8 +333,9 @@
       "awayTeam": "South Africa",
       "homeTeamKey": "czechia",
       "awayTeamKey": "south africa",
-      "matchImportance": 5,
+      "matchImportance": 7,
       "rivalryScore": 5,
+      "whyWatch": "Two teams that opened their World Cup campaign with a loss, Czezchia and South Africa must win this game to keep alive their hope of progressing to the knockout stage. Both teams saw little of the ball in their respective matches, with Czechia being more comfortable with this particular style, hitting South Korea in counters and utilizing set-pieces. Bafana Bafana must take the initiative be more expansive, something they failed to do against Mexico.",
       "kickoffUTC": "2026-06-18T16:00:00Z"
     },
     {
@@ -337,8 +344,9 @@
       "awayTeam": "Bosnia and Herzegovina",
       "homeTeamKey": "switzerland",
       "awayTeamKey": "bosnia",
-      "matchImportance": 5,
+      "matchImportance": 6,
       "rivalryScore": 5,
+      "whyWatch": "Group B remains for the taking after all countries involved drew 1-1 in their opening games. Switzerland will rue their wastefulness against Qatar, delivering 26 shots but only scoring one goal. Bosnia have shown that they can absorb pressure and hit the opponent with a sucker punch.",
       "kickoffUTC": "2026-06-18T19:00:00Z"
     },
     {
@@ -347,8 +355,9 @@
       "awayTeam": "Qatar",
       "homeTeamKey": "canada",
       "awayTeamKey": "qatar",
-      "matchImportance": 5,
+      "matchImportance": 6,
       "rivalryScore": 5,
+      "whyWatch": "Canada earned their first ever point at the World Cup, and will seek to go one better by getting their first win. Canada must put away their chances as Qatar have shown that they could defend and will not go away even after going a goal down. The 2022 World Cup host is also seeking their first ever win in this stage.",
       "kickoffUTC": "2026-06-18T22:00:00Z"
     },
     {
@@ -359,6 +368,7 @@
       "awayTeamKey": "south korea",
       "matchImportance": 5,
       "rivalryScore": 5,
+      "whyWatch": "This match will determine who can seize control of the group and book their ticket to the knockout stage. South Korea displayed tremendous poise by winning from behind against Czechia in their opening game. Both sides will rely on veteran attackers, with Son Heung-min leading South Korea, while El Tri will look to Raul Jimenez, who scored his first ever World Cup goal against South Africa.",
       "kickoffUTC": "2026-06-19T01:00:00Z"
     },
     {
@@ -397,8 +407,9 @@
       "awayTeam": "Australia",
       "homeTeamKey": "united states",
       "awayTeamKey": "australia",
-      "matchImportance": 5,
-      "rivalryScore": 5,
+      "matchImportance": 7,
+      "rivalryScore": 6,
+      "whyWatch": "With both teams winning their first group games, a defeat should not be terminal for their prospect of progressing through the group. However, comments from US pundits, calling Australia \"average\" and this match would be a \"layup\" have added some spice.",
       "kickoffUTC": "2026-06-19T19:00:00Z"
     },
     {
