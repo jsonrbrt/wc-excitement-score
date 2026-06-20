@@ -367,7 +367,10 @@
       "matchImportance": 6,
       "rivalryScore": 5,
       "whyWatch": "Canada earned their first ever point at the World Cup, and will seek to go one better by getting their first win. Canada must put away their chances as Qatar have shown that they could defend and will not go away even after going a goal down. The 2022 World Cup host is also seeking their first ever win in this stage.",
-      "kickoffUTC": "2026-06-18T22:00:00Z"
+      "kickoffUTC": "2026-06-18T22:00:00Z",
+      "status": "completed",
+      "finalScore": "6-0",
+      "actualExcitementScore": null
     },
     {
       "matchId": 28,
@@ -378,7 +381,10 @@
       "matchImportance": 5,
       "rivalryScore": 5,
       "whyWatch": "This match will determine who can seize control of the group and book their ticket to the knockout stage. South Korea displayed tremendous poise by winning from behind against Czechia in their opening game. Both sides will rely on veteran attackers, with Son Heung-min leading South Korea, while El Tri will look to Raul Jimenez, who scored his first ever World Cup goal against South Africa.",
-      "kickoffUTC": "2026-06-19T01:00:00Z"
+      "kickoffUTC": "2026-06-19T01:00:00Z",
+      "status": "completed",
+      "finalScore": "1-0",
+      "actualExcitementScore": null
     },
     {
       "matchId": 29,
@@ -388,7 +394,11 @@
       "awayTeamKey": "haiti",
       "matchImportance": 5,
       "rivalryScore": 5,
-      "kickoffUTC": "2026-06-20T00:30:00Z"
+      "whyWatch": "Brazil needed to get their campaign going by picking up a win after being held to a draw in their first game against Morocco. Haiti showed grit in their first game defeat against Scotland. The good news for Brazil? They've never lost to an opponent from the CONCACAF region.",
+      "kickoffUTC": "2026-06-20T00:30:00Z",
+      "status": "completed",
+      "finalScore": "3-0",
+      "actualExcitementScore": null
     },
     {
       "matchId": 30,
@@ -398,7 +408,11 @@
       "awayTeamKey": "morocco",
       "matchImportance": 5,
       "rivalryScore": 5,
-      "kickoffUTC": "2026-06-19T22:00:00Z"
+      "kickoffUTC": "2026-06-19T22:00:00Z",
+      "whyWatch": "Scotland will seek to clinch their ticket to the knockout stage as soon as possible, but they will come up against a very impressice Morocco side, the (legally) reigning champions of Africa.",
+      "status": "completed",
+      "finalScore": "0-1",
+      "actualExcitementScore": null
     },
     {
       "matchId": 31,
@@ -408,7 +422,11 @@
       "awayTeamKey": "paraguay",
       "matchImportance": 5,
       "rivalryScore": 5,
-      "kickoffUTC": "2026-06-20T03:00:00Z"
+      "kickoffUTC": "2026-06-20T03:00:00Z",
+      "whyWatch": "Two teams that will be desperate to win after a disappointing result in the first game. Turkey should be encouraged by their domination against Australia, but they are sorely lacking ideas in the final third. If Paraguay can weather the onslaught of attacks, they might land a sucker punch and leave with all three points.",
+      "status": "completed",
+      "finalScore": "0-1",
+      "actualExcitementScore": null
     },
     {
       "matchId": 32,
@@ -419,7 +437,10 @@
       "matchImportance": 7,
       "rivalryScore": 6,
       "whyWatch": "With both teams winning their first group games, a defeat should not be terminal for their prospect of progressing through the group. However, comments from US pundits, calling Australia \"average\" and this match would be a \"layup\" have added some spice.",
-      "kickoffUTC": "2026-06-19T19:00:00Z"
+      "kickoffUTC": "2026-06-19T19:00:00Z",
+      "status": "completed",
+      "finalScore": "2-0",
+      "actualExcitementScore": null
     },
     {
       "matchId": 33,
@@ -429,6 +450,7 @@
       "awayTeamKey": "ivory coast",
       "matchImportance": 5,
       "rivalryScore": 5,
+      "whyWatch": "Germany were ruthless against Cura\u00e7ao, but will face sterner test against Ivory Coast. Yan Diomande will seek to build on his impressive outing in Ivory Coast's win against Ecuador.",
       "kickoffUTC": "2026-06-20T20:00:00Z"
     },
     {
@@ -437,8 +459,9 @@
       "awayTeam": "Cura\u00e7ao",
       "homeTeamKey": "ecuador",
       "awayTeamKey": "cura\u00e7ao",
-      "matchImportance": 5,
-      "rivalryScore": 5,
+      "matchImportance": 6,
+      "rivalryScore": 3,
+      "whyWatch": "This is potentially an elimination game for both sides. Cura\u00e7ao were impressive until they scored against Germany, which seem to have woken up their opponent. Ecuador need to show more offensively if they want to avoid an early exit from the tournament.",
       "kickoffUTC": "2026-06-21T00:00:00Z"
     },
     {
@@ -447,7 +470,8 @@
       "awayTeam": "Sweden",
       "homeTeamKey": "netherlands",
       "awayTeamKey": "sweden",
-      "matchImportance": 5,
+      "matchImportance": 6,
+      "whyWatch": "Sweden were impressive against a very poor Tunisia side, but they will be up against it in the form of Group F favorites, Netherlands. Alexander Isak brilliant display (two assists and one goal) will be key for Sweden. Netherlands were pegged back twice against Japan, with Ronald Koeman's subsitutions failing to generate any momentum.",
       "rivalryScore": 5,
       "kickoffUTC": "2026-06-20T17:00:00Z"
     },
@@ -458,7 +482,8 @@
       "homeTeamKey": "tunisia",
       "awayTeamKey": "japan",
       "matchImportance": 5,
-      "rivalryScore": 5,
+      "rivalryScore": 3,
+      "whyWatch": "Tunisia made one change already before the game, sacking Sabri Lamouchi and replacing him with Herve Renard. The Frenchman is taking part in his third World Cup and will seek to improve the team's defensive organization. They will need all the help they can get as Japan looked threatening and will be determined in getting their first win of the tournament.",
       "kickoffUTC": "2026-06-21T04:00:00Z"
     },
     {
@@ -467,8 +492,9 @@
       "awayTeam": "Cape Verde",
       "homeTeamKey": "uruguay",
       "awayTeamKey": "cape verde",
-      "matchImportance": 5,
-      "rivalryScore": 5,
+      "matchImportance": 6,
+      "rivalryScore": 4,
+      "whyWatch": "With all four teams having one point each, it is all to play for in Group H. Cape Verde defensive organization against Spain, where they only committed one foul, will be studied by future generations, and they will be asked to do more of the same against Uruguay. Federico Valverde and co will need to be sharper in front of goal if they want to avoid coming unstuck just like Spain.",
       "kickoffUTC": "2026-06-21T22:00:00Z"
     },
     {
@@ -477,9 +503,10 @@
       "awayTeam": "Saudi Arabia",
       "homeTeamKey": "spain",
       "awayTeamKey": "saudi arabia",
-      "matchImportance": 5,
-      "rivalryScore": 5,
-      "kickoffUTC": "2026-06-21T16:00:00Z"
+      "matchImportance": 7,
+      "rivalryScore": 4,
+      "kickoffUTC": "2026-06-21T16:00:00Z",
+      "whyWatch": "Will the pre-tournament favorite head for the exit? Alarm bells are ringing after Spain failed to score against Cape Verde. They will be facing more of the same against Saudi Arabia, although the Asian side have shown that they have the offensive firepower to hurt bigger nations (see Argentina at the last World Cup). The good news for Spain is that Lamine Yamal should be fit to start."
     },
     {
       "matchId": 39,
@@ -487,8 +514,9 @@
       "awayTeam": "Iran",
       "homeTeamKey": "belgium",
       "awayTeamKey": "iran",
-      "matchImportance": 5,
-      "rivalryScore": 5,
+      "matchImportance": 6,
+      "rivalryScore": 4,
+      "whyWatch": "Another group where it's still wide open, Belgium will aim for all three points against an Iran side that shown a lot of grit despite off-field factors affecting their preparation. Belgium started slowly against Egypt, something that Iran can take advantage of.",
       "kickoffUTC": "2026-06-21T19:00:00Z"
     },
     {
@@ -497,8 +525,9 @@
       "awayTeam": "Egypt",
       "homeTeamKey": "new zealand",
       "awayTeamKey": "egypt",
-      "matchImportance": 5,
-      "rivalryScore": 5,
+      "matchImportance": 6,
+      "rivalryScore": 3,
+      "whyWatch": "A double from Elijah Just was not enough for The Kiwis as they were held to a 2-2 draw against Iran in their first game. Their quest for a first World Cup win ever continues against Egypt, also looking for their first tournament win ever. Omar Marmoush (five shots v Belgium) and Mohamed Salah (one assist, three chances created) will be the ones to watch for New Zealand.",
       "kickoffUTC": "2026-06-22T01:00:00Z"
     },
     {
@@ -597,7 +626,7 @@
       "awayTeam": "Haiti",
       "homeTeamKey": "morocco",
       "awayTeamKey": "haiti",
-      "matchImportance": 5,
+      "matchImportance": 3,
       "rivalryScore": 5,
       "kickoffUTC": "2026-06-24T22:00:00Z"
     },
@@ -607,7 +636,7 @@
       "awayTeam": "Canada",
       "homeTeamKey": "switzerland",
       "awayTeamKey": "canada",
-      "matchImportance": 5,
+      "matchImportance": 3,
       "rivalryScore": 5,
       "kickoffUTC": "2026-06-24T19:00:00Z"
     },
@@ -617,7 +646,7 @@
       "awayTeam": "Qatar",
       "homeTeamKey": "bosnia",
       "awayTeamKey": "qatar",
-      "matchImportance": 5,
+      "matchImportance": 3,
       "rivalryScore": 5,
       "kickoffUTC": "2026-06-24T19:00:00Z"
     },
@@ -627,7 +656,7 @@
       "awayTeam": "Mexico",
       "homeTeamKey": "czechia",
       "awayTeamKey": "mexico",
-      "matchImportance": 5,
+      "matchImportance": 4,
       "rivalryScore": 5,
       "kickoffUTC": "2026-06-25T01:00:00Z"
     },
@@ -637,7 +666,7 @@
       "awayTeam": "South Korea",
       "homeTeamKey": "south africa",
       "awayTeamKey": "south korea",
-      "matchImportance": 5,
+      "matchImportance": 4,
       "rivalryScore": 5,
       "kickoffUTC": "2026-06-25T01:00:00Z"
     },
@@ -687,7 +716,7 @@
       "awayTeam": "United States",
       "homeTeamKey": "turkey",
       "awayTeamKey": "united states",
-      "matchImportance": 5,
+      "matchImportance": 2,
       "rivalryScore": 5,
       "kickoffUTC": "2026-06-26T02:00:00Z"
     },
