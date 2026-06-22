@@ -135,6 +135,11 @@ function renderTopMatches() {
   topMatchesContainer.innerHTML = "";
 
   topFixtures.slice(0, 10).forEach((fixture, index) => {
+    const resultText =
+      fixture.status === "completed" && fixture.finalScore
+        ? `FT ${fixture.finalScore}`
+        : fixture.watchTier;
+
     const item = document.createElement("button");
 
     item.classList.add("top-match-item");
@@ -144,6 +149,9 @@ function renderTopMatches() {
     <span class="top-match-rank">#${index + 1}</span>
     <span class="top-match-name">
         ${fixture.homeTeamName} vs ${fixture.awayTeamName}
+    </span>
+    <span class="top-match-meta">
+      ${resultText}
     </span>
     <span class="top-match-score">${fixture.excitementScore}</span>
     `;
@@ -175,7 +183,7 @@ function renderMatch(selectedFixture) {
   score.textContent = `Excitement Score: ${selectedFixture.excitementScore}`;
   watchTier.textContent = `Watchability: ${selectedFixture.watchTier}`;
   starPlayers.textContent = `${selectedFixture.starPlayers?.join(", ") || "Coming Soon"}`;
-  whyWatch.textContent = `${selectedFixture.whyWatch || "Check back after 6/17"}`;
+  whyWatch.textContent = `${selectedFixture.whyWatch || "Check back after 6/23"}`;
 
   if (selectedFixture.kickoffUTC) {
     const kickoff = new Date(selectedFixture.kickoffUTC);

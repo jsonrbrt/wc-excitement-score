@@ -50,6 +50,16 @@ body {
   font-weight: 600;
 }
 
+.top-match-meta {
+  font-size: 0.85rem;
+  color: #9ca3af;
+  white-space: nowrap;
+}
+
+.top-match-score {
+  font-weight: 800;
+}
+
 .top-match-score {
   font-weight: 800;
   font-size: 1.1rem;

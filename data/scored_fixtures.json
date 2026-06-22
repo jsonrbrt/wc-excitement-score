@@ -71,6 +71,41 @@
       }
     },
     {
+      "matchId": 41,
+      "homeTeam": "Norway",
+      "awayTeam": "Senegal",
+      "homeTeamKey": "norway",
+      "awayTeamKey": "senegal",
+      "matchImportance": 6,
+      "rivalryScore": 5,
+      "whyWatch": "Senegal showed that they can frustrate France even if their defense was breached in the end. But with Erling Braut Haaland in squad, Norway could book their passage to the knockout stage with a win. Sadio Mane and co must avoid defeat to have any hope of progressing from the group of death.",
+      "kickoffUTC": "2026-06-23T00:00:00Z",
+      "homeTeamName": "Norway",
+      "awayTeamName": "Senegal",
+      "homeElo": 1914,
+      "awayElo": 1867,
+      "homeStarPower": 8,
+      "awayStarPower": 7,
+      "starPlayers": [
+        "Erling Haaland",
+        "Martin Odegaard",
+        "Lamine Camara",
+        "Sadio Mane",
+        "Edouard Mendy",
+        "Ismaila Sarr"
+      ],
+      "excitementScore": 67.8,
+      "watchTier": "Must watch",
+      "scoreBreakdown": {
+        "attackingScore": 10,
+        "chaosScore": 1.5,
+        "starPowerScore": 7.5,
+        "competitiveBalance": 9.22,
+        "matchImportance": 6,
+        "rivalryScore": 5
+      }
+    },
+    {
       "matchId": 61,
       "homeTeam": "Norway",
       "awayTeam": "France",
@@ -101,41 +136,6 @@
         "chaosScore": 2.17,
         "starPowerScore": 8.5,
         "competitiveBalance": 7.52,
-        "matchImportance": 5,
-        "rivalryScore": 5
-      }
-    },
-    {
-      "matchId": 41,
-      "homeTeam": "Norway",
-      "awayTeam": "Senegal",
-      "homeTeamKey": "norway",
-      "awayTeamKey": "senegal",
-      "matchImportance": 5,
-      "rivalryScore": 5,
-      "kickoffUTC": "2026-06-23T00:00:00Z",
-      "homeTeamName": "Norway",
-      "awayTeamName": "Senegal",
-      "homeElo": 1914,
-      "awayElo": 1867,
-      "homeStarPower": 8,
-      "awayStarPower": 7,
-      "starPlayers": [
-        "Erling Haaland",
-        "Martin Odegaard",
-        "Lamine Camara",
-        "Sadio Mane",
-        "Edouard Mendy",
-        "Ismaila Sarr"
-      ],
-      "whyWatch": "",
-      "excitementScore": 66.8,
-      "watchTier": "Must watch",
-      "scoreBreakdown": {
-        "attackingScore": 10,
-        "chaosScore": 1.5,
-        "starPowerScore": 7.5,
-        "competitiveBalance": 9.22,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -228,6 +228,9 @@
       "rivalryScore": 4,
       "whyWatch": "Another group where it's still wide open, Belgium will aim for all three points against an Iran side that shown a lot of grit despite off-field factors affecting their preparation. Belgium started slowly against Egypt, something that Iran can take advantage of.",
       "kickoffUTC": "2026-06-21T19:00:00Z",
+      "status": "completed",
+      "finalScore": "0-0",
+      "actualExcitementScore": null,
       "homeTeamName": "Belgium",
       "awayTeamName": "Iran",
       "homeElo": 1893,
@@ -295,6 +298,9 @@
       "whyWatch": "Sweden were impressive against a very poor Tunisia side, but they will be up against it in the form of Group F favorites, Netherlands. Alexander Isak brilliant display (two assists and one goal) will be key for Sweden. Netherlands were pegged back twice against Japan, with Ronald Koeman's subsitutions failing to generate any momentum.",
       "rivalryScore": 5,
       "kickoffUTC": "2026-06-20T17:00:00Z",
+      "status": "completed",
+      "finalScore": "5-1",
+      "actualExcitementScore": null,
       "homeTeamName": "Netherlands",
       "awayTeamName": "Sweden",
       "homeElo": 1948,
@@ -471,6 +477,9 @@
       "rivalryScore": 5,
       "whyWatch": "Germany were ruthless against Cura\u00e7ao, but will face sterner test against Ivory Coast. Yan Diomande will seek to build on his impressive outing in Ivory Coast's win against Ecuador.",
       "kickoffUTC": "2026-06-20T20:00:00Z",
+      "status": "completed",
+      "finalScore": "2-1",
+      "actualExcitementScore": null,
       "homeTeamName": "Germany",
       "awayTeamName": "Ivory Coast",
       "homeElo": 1932,
@@ -607,6 +616,9 @@
       "rivalryScore": 3,
       "whyWatch": "A double from Elijah Just was not enough for The Kiwis as they were held to a 2-2 draw against Iran in their first game. Their quest for a first World Cup win ever continues against Egypt, also looking for their first tournament win ever. Omar Marmoush (five shots v Belgium) and Mohamed Salah (one assist, three chances created) will be the ones to watch for New Zealand.",
       "kickoffUTC": "2026-06-22T01:00:00Z",
+      "status": "completed",
+      "finalScore": "1-3",
+      "actualExcitementScore": null,
       "homeTeamName": "New Zealand",
       "awayTeamName": "Egypt",
       "homeElo": 1562,
@@ -637,6 +649,7 @@
       "awayTeamKey": "uzbekistan",
       "matchImportance": 5,
       "rivalryScore": 5,
+      "whyWatch": "Roberto Martinez must think of a solution quickly if Portugal wants to avoid an early exit. In Uzbekistan, they will face a resolute defence, so the question is will they persevere with a legend of the game that has not scored in 10 straight games in major tournaments (and registered zero shots on target against DR Congo)?",
       "kickoffUTC": "2026-06-23T17:00:00Z",
       "homeTeamName": "Portugal",
       "awayTeamName": "Uzbekistan",
@@ -650,7 +663,6 @@
         "Vitinha",
         "Abdukodir Khusanov"
       ],
-      "whyWatch": "",
       "excitementScore": 58.3,
       "watchTier": "Background watch",
       "scoreBreakdown": {
@@ -737,6 +749,7 @@
       "awayTeamKey": "croatia",
       "matchImportance": 5,
       "rivalryScore": 5,
+      "whyWatch": "Is this truly the end for Modric's generation? The 40-year old was overrun by England in the first game, but showed why they can't be taken lightly by pegging The Three Lions twice. They might just have too much for Panama in the end.",
       "kickoffUTC": "2026-06-23T23:00:00Z",
       "homeTeamName": "Panama",
       "awayTeamName": "Croatia",
@@ -748,7 +761,6 @@
         "Michael Murillo",
         "Luka Modric"
       ],
-      "whyWatch": "",
       "excitementScore": 56.5,
       "watchTier": "Background watch",
       "scoreBreakdown": {
@@ -868,8 +880,9 @@
       "awayTeam": "Austria",
       "homeTeamKey": "argentina",
       "awayTeamKey": "austria",
-      "matchImportance": 5,
+      "matchImportance": 4,
       "rivalryScore": 5,
+      "whyWatch": "Two teams that started their tournament with a win lock horns for control of the group. Argentina barely got out of second gear and dominated Algeria. They will face tougher opposition in Austria, a team that is willing to press and bring the game to the Argentinians.",
       "kickoffUTC": "2026-06-22T17:00:00Z",
       "homeTeamName": "Argentina",
       "awayTeamName": "Austria",
@@ -885,7 +898,6 @@
         "David Alaba",
         "Konrad Laimer"
       ],
-      "whyWatch": "",
       "excitementScore": 56.2,
       "watchTier": "Background watch",
       "scoreBreakdown": {
@@ -893,7 +905,7 @@
         "chaosScore": 1.83,
         "starPowerScore": 7.5,
         "competitiveBalance": 5.27,
-        "matchImportance": 5,
+        "matchImportance": 4,
         "rivalryScore": 5
       }
     },
@@ -905,6 +917,7 @@
       "awayTeamKey": "ghana",
       "matchImportance": 5,
       "rivalryScore": 5,
+      "whyWatch": "England did not look fully-formed just yet against Croatia but still prevailed by two goals. Ghana needed a late goal to win against Panama and did not create a lot of opportunities. Expect England to get another win, even if they don't fully convinced.",
       "kickoffUTC": "2026-06-23T20:00:00Z",
       "homeTeamName": "England",
       "awayTeamName": "Ghana",
@@ -919,7 +932,6 @@
         "Bukayo Saka",
         "Antoine Semenyo"
       ],
-      "whyWatch": "",
       "excitementScore": 56.2,
       "watchTier": "Background watch",
       "scoreBreakdown": {
@@ -1138,6 +1150,37 @@
       }
     },
     {
+      "matchId": 44,
+      "homeTeam": "Jordan",
+      "awayTeam": "Algeria",
+      "homeTeamKey": "jordan",
+      "awayTeamKey": "algeria",
+      "matchImportance": 6,
+      "rivalryScore": 5,
+      "whyWatch": "Whoever loses this game will likely be knocked out of the compeititon. Algeria should have more quality to overcome Jordan, but the debutant will not be overrun as they shown against Austria.",
+      "kickoffUTC": "2026-06-23T01:00:00Z",
+      "homeTeamName": "Jordan",
+      "awayTeamName": "Algeria",
+      "homeElo": 1680,
+      "awayElo": 1760,
+      "homeStarPower": 4,
+      "awayStarPower": 5,
+      "starPlayers": [
+        "Musa Al-Taamari",
+        "Riyad Mahrez"
+      ],
+      "excitementScore": 55.1,
+      "watchTier": "Background watch",
+      "scoreBreakdown": {
+        "attackingScore": 6.88,
+        "chaosScore": 2.47,
+        "starPowerScore": 4.5,
+        "competitiveBalance": 8.67,
+        "matchImportance": 6,
+        "rivalryScore": 5
+      }
+    },
+    {
       "matchId": 5,
       "homeTeam": "Haiti",
       "awayTeam": "Scotland",
@@ -1303,37 +1346,6 @@
       }
     },
     {
-      "matchId": 44,
-      "homeTeam": "Jordan",
-      "awayTeam": "Algeria",
-      "homeTeamKey": "jordan",
-      "awayTeamKey": "algeria",
-      "matchImportance": 5,
-      "rivalryScore": 5,
-      "kickoffUTC": "2026-06-23T01:00:00Z",
-      "homeTeamName": "Jordan",
-      "awayTeamName": "Algeria",
-      "homeElo": 1680,
-      "awayElo": 1760,
-      "homeStarPower": 4,
-      "awayStarPower": 5,
-      "starPlayers": [
-        "Musa Al-Taamari",
-        "Riyad Mahrez"
-      ],
-      "whyWatch": "",
-      "excitementScore": 54.1,
-      "watchTier": "Background watch",
-      "scoreBreakdown": {
-        "attackingScore": 6.88,
-        "chaosScore": 2.47,
-        "starPowerScore": 4.5,
-        "competitiveBalance": 8.67,
-        "matchImportance": 5,
-        "rivalryScore": 5
-      }
-    },
-    {
       "matchId": 51,
       "homeTeam": "Switzerland",
       "awayTeam": "Canada",
@@ -1479,6 +1491,9 @@
       "rivalryScore": 3,
       "whyWatch": "Tunisia made one change already before the game, sacking Sabri Lamouchi and replacing him with Herve Renard. The Frenchman is taking part in his third World Cup and will seek to improve the team's defensive organization. They will need all the help they can get as Japan looked threatening and will be determined in getting their first win of the tournament.",
       "kickoffUTC": "2026-06-21T04:00:00Z",
+      "status": "completed",
+      "finalScore": "0-4",
+      "actualExcitementScore": null,
       "homeTeamName": "Tunisia",
       "awayTeamName": "Japan",
       "homeElo": 1628,
@@ -1585,6 +1600,9 @@
       "rivalryScore": 4,
       "kickoffUTC": "2026-06-21T16:00:00Z",
       "whyWatch": "Will the pre-tournament favorite head for the exit? Alarm bells are ringing after Spain failed to score against Cape Verde. They will be facing more of the same against Saudi Arabia, although the Asian side have shown that they have the offensive firepower to hurt bigger nations (see Argentina at the last World Cup). The good news for Spain is that Lamine Yamal should be fit to start.",
+      "status": "completed",
+      "finalScore": "4-0",
+      "actualExcitementScore": null,
       "homeTeamName": "Spain",
       "awayTeamName": "Saudi Arabia",
       "homeElo": 2157,
@@ -1912,40 +1930,6 @@
       }
     },
     {
-      "matchId": 42,
-      "homeTeam": "France",
-      "awayTeam": "Iraq",
-      "homeTeamKey": "france",
-      "awayTeamKey": "iraq",
-      "matchImportance": 5,
-      "rivalryScore": 5,
-      "kickoffUTC": "2026-06-22T21:00:00Z",
-      "homeTeamName": "France",
-      "awayTeamName": "Iraq",
-      "homeElo": 2063,
-      "awayElo": 1618,
-      "homeStarPower": 9,
-      "awayStarPower": 3,
-      "starPlayers": [
-        "Ousmane Dembele",
-        "Desire Doue",
-        "Kylian Mbappe",
-        "Michael Olise",
-        "Aymen Hussein"
-      ],
-      "whyWatch": "",
-      "excitementScore": 48.6,
-      "watchTier": "Skippable unless you support them",
-      "scoreBreakdown": {
-        "attackingScore": 7.22,
-        "chaosScore": 2.32,
-        "starPowerScore": 6.0,
-        "competitiveBalance": 2.58,
-        "matchImportance": 5,
-        "rivalryScore": 5
-      }
-    },
-    {
       "matchId": 65,
       "homeTeam": "Cape Verde",
       "awayTeam": "Saudi Arabia",
@@ -2116,6 +2100,40 @@
       }
     },
     {
+      "matchId": 42,
+      "homeTeam": "France",
+      "awayTeam": "Iraq",
+      "homeTeamKey": "france",
+      "awayTeamKey": "iraq",
+      "matchImportance": 4,
+      "rivalryScore": 4,
+      "whyWatch": "France was made to work for their victory, but their firepower proved to be too much in the end. Iraq will be desperate to avoid a heavy defeat like in their opening game.",
+      "kickoffUTC": "2026-06-22T21:00:00Z",
+      "homeTeamName": "France",
+      "awayTeamName": "Iraq",
+      "homeElo": 2063,
+      "awayElo": 1618,
+      "homeStarPower": 9,
+      "awayStarPower": 3,
+      "starPlayers": [
+        "Ousmane Dembele",
+        "Desire Doue",
+        "Kylian Mbappe",
+        "Michael Olise",
+        "Aymen Hussein"
+      ],
+      "excitementScore": 46.6,
+      "watchTier": "Skippable unless you support them",
+      "scoreBreakdown": {
+        "attackingScore": 7.22,
+        "chaosScore": 2.32,
+        "starPowerScore": 6.0,
+        "competitiveBalance": 2.58,
+        "matchImportance": 4,
+        "rivalryScore": 4
+      }
+    },
+    {
       "matchId": 48,
       "homeTeam": "Colombia",
       "awayTeam": "DR Congo",
@@ -2123,6 +2141,7 @@
       "awayTeamKey": "dr congo",
       "matchImportance": 5,
       "rivalryScore": 5,
+      "whyWatch": "DR Congo opened their campaign with a creditable draw against Portugal. To get a win against Colombia they will need to be better in front of goal, and a lot closer too, as they registered the most shots from outside the box (six out of eight) with only two shots on target. Colombia will look to rely on Luis Diaz once again, who recorded an assist and a goal against Uzbekistan.",
       "kickoffUTC": "2026-06-24T00:00:00Z",
       "homeTeamName": "Colombia",
       "awayTeamName": "DR Congo",
@@ -2134,7 +2153,6 @@
         "Luis Diaz",
         "Yoanne Wissa"
       ],
-      "whyWatch": "",
       "excitementScore": 46.4,
       "watchTier": "Skippable unless you support them",
       "scoreBreakdown": {
@@ -2361,6 +2379,9 @@
       "rivalryScore": 4,
       "whyWatch": "With all four teams having one point each, it is all to play for in Group H. Cape Verde defensive organization against Spain, where they only committed one foul, will be studied by future generations, and they will be asked to do more of the same against Uruguay. Federico Valverde and co will need to be sharper in front of goal if they want to avoid coming unstuck just like Spain.",
       "kickoffUTC": "2026-06-21T22:00:00Z",
+      "status": "completed",
+      "finalScore": "2-2",
+      "actualExcitementScore": null,
       "homeTeamName": "Uruguay",
       "awayTeamName": "Cape Verde",
       "homeElo": 1892,
@@ -2429,6 +2450,9 @@
       "rivalryScore": 3,
       "whyWatch": "This is potentially an elimination game for both sides. Cura\u00e7ao were impressive until they scored against Germany, which seem to have woken up their opponent. Ecuador need to show more offensively if they want to avoid an early exit from the tournament.",
       "kickoffUTC": "2026-06-21T00:00:00Z",
+      "status": "completed",
+      "finalScore": "0-0",
+      "actualExcitementScore": null,
       "homeTeamName": "Ecuador",
       "awayTeamName": "Cura\u00e7ao",
       "homeElo": 1938,
