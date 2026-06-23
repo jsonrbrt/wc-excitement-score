@@ -563,7 +563,10 @@
       "matchImportance": 6,
       "rivalryScore": 5,
       "whyWatch": "Senegal showed that they can frustrate France even if their defense was breached in the end. But with Erling Braut Haaland in squad, Norway could book their passage to the knockout stage with a win. Sadio Mane and co must avoid defeat to have any hope of progressing from the group of death.",
-      "kickoffUTC": "2026-06-23T00:00:00Z"
+      "kickoffUTC": "2026-06-23T00:00:00Z",
+      "status": "completed",
+      "finalScore": "3-2",
+      "actualExcitementScore": null
     },
     {
       "matchId": 42,
@@ -574,7 +577,10 @@
       "matchImportance": 4,
       "rivalryScore": 4,
       "whyWatch": "France was made to work for their victory, but their firepower proved to be too much in the end. Iraq will be desperate to avoid a heavy defeat like in their opening game.",
-      "kickoffUTC": "2026-06-22T21:00:00Z"
+      "kickoffUTC": "2026-06-22T21:00:00Z",
+      "status": "completed",
+      "finalScore": "3-0",
+      "actualExcitementScore": null
     },
     {
       "matchId": 43,
@@ -585,7 +591,10 @@
       "matchImportance": 4,
       "rivalryScore": 5,
       "whyWatch": "Two teams that started their tournament with a win lock horns for control of the group. Argentina barely got out of second gear and dominated Algeria. They will face tougher opposition in Austria, a team that is willing to press and bring the game to the Argentinians.",
-      "kickoffUTC": "2026-06-22T17:00:00Z"
+      "kickoffUTC": "2026-06-22T17:00:00Z",
+      "status": "completed",
+      "finalScore": "2-0",
+      "actualExcitementScore": null
     },
     {
       "matchId": 44,
@@ -596,7 +605,10 @@
       "matchImportance": 6,
       "rivalryScore": 5,
       "whyWatch": "Whoever loses this game will likely be knocked out of the compeititon. Algeria should have more quality to overcome Jordan, but the debutant will not be overrun as they shown against Austria.",
-      "kickoffUTC": "2026-06-23T01:00:00Z"
+      "kickoffUTC": "2026-06-23T01:00:00Z",
+      "status": "completed",
+      "finalScore": "1-2",
+      "actualExcitementScore": null
     },
     {
       "matchId": 45,
