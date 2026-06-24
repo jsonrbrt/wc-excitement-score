@@ -58,6 +58,7 @@ async function loadData() {
   console.log(fixtures[0]);
   populateDropdown();
   renderTopMatches();
+  renderKnockoutStage();
   renderMatch(chronologicalFixtures[0]);
 }
 
@@ -254,6 +255,43 @@ function renderMatch(selectedFixture) {
     finalScore.textContent = "Final Score: Not played yet";
     //actualExcitement.textContent = "TBC";
   }
+}
+
+function renderKnockoutStage() {
+  const roundOf32 = fixtures.filter(
+    fixture => fixture.stage === "Round of 32"
+  );
+  const roundOf16 = fixtures.filter(
+    (fixture) => fixture.stage === "Round of 16",
+  );
+  const quarterfinals = fixtures.filter(
+    (fixture) => fixture.stage === "Quarterfinals",
+  );
+
+  renderKnockoutCards(roundOf32, "round-of-32");
+}
+
+function renderKnockoutCards(stageFixtures, containerId) {
+  const container = document.getElementById(containerId);
+
+  container.innerHTML = "";
+
+  stageFixtures.forEach((fixture) => {
+    const card = document.createElement("div");
+    card.classList.add("knockout-card");
+
+    card.innerHTML = `
+    <div class="knockout-match-title">
+    ${fixture.homeTeamName} <br />vs <br />${fixture.awayTeamName}
+    </div>
+
+    <div class="knockout-status">
+    ${fixture.watchTier || "TBD"}
+    <div>
+    `
+
+    container.appendChild(card);
+  })
 }
 
 loadData();

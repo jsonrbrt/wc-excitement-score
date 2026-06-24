@@ -1,3 +1,4 @@
+/* Base */
 body {
   margin: 0;
   font-family: Arial, sans-serif;
@@ -6,11 +7,25 @@ body {
 }
 
 .app-container {
-  max-width: 900px;
+  max-width: 1100px;
   margin: 40px auto;
   padding: 20px;
 }
 
+/* Layout */
+@media (max-width: 900px) {
+  .knockout-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 560px) {
+  .knockout-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Top Matches */
 .top-matches-card h3 {
   margin-top: 0;
 }
@@ -58,13 +73,35 @@ body {
 
 .top-match-score {
   font-weight: 800;
-}
-
-.top-match-score {
-  font-weight: 800;
   font-size: 1.1rem;
 }
 
+/* Knockout */
+.knockout-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+  margin-bottom: 16px;
+}
+
+.knockout-card {
+  background: #111827;
+  border: 1px solid #374151;
+  border-radius: 16px;
+  padding: 18px;
+}
+
+.knockout-match-title {
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.knockout-status {
+  color: #9ca3af;
+  font-size: 14px;
+}
+
+/* Cards */
 .card {
   background: #111827;
   border: 1px solid #1f2937;
@@ -73,6 +110,7 @@ body {
   margin-bottom: 20px;
 }
 
+/* Match Hero */
 .hero-card {
   text-align: center;
 }
@@ -108,12 +146,19 @@ body {
   text-transform: uppercase;
 }
 
-.breakdown-row {
-  display: flex;
-  justify-content: space-between;
-  margin-bottom: 6px;
+#final-score {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-top: 24px;
 }
 
+#actual-excitement {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-top: 12px;
+}
+
+/* Score Breakdown */
 .metric-header {
   display: flex;
   justify-content: space-between;
@@ -143,41 +188,33 @@ body {
   border-radius: 999px;
 }
 
-.info-icon {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 16px;
-  height: 16px;
-  margin-left: 6px;
-  border-radius: 50%;
-  border: 1px solid #94a3b8;
-  color: #94a3b8;
-  font-size: 11px;
-  cursor: help;
-}
-
-.info-icon:hover {
-  color: white;
-  border-color: white;
-}
-
-#final-score {
-  font-size: 2rem;
-  font-weight: 700;
-  margin-top: 24px;
-}
-
-#actual-excitement {
-  font-size: 1.5rem;
-  font-weight: 600;
-  margin-top: 12px;
-}
-
 .metric-scale-labels {
   display: flex;
   justify-content: space-between;
   margin-bottom: 6px;
   font-size: 12px;
   color: #9ca3af;
+}
+
+/* Footer */
+.footer {
+  margin-top: 48px;
+  padding: 24px 0;
+  border-top: 1px solid #334155;
+  text-align: center;
+  color: #94a3b8;
+  font-size: 0.8rem;
+}
+
+.footer p {
+  margin: 8px 0;
+}
+
+.footer a {
+  color: #93c5fd;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  text-decoration: underline;
 }

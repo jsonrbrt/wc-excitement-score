@@ -619,7 +619,10 @@
       "matchImportance": 5,
       "rivalryScore": 5,
       "whyWatch": "England did not look fully-formed just yet against Croatia but still prevailed by two goals. Ghana needed a late goal to win against Panama and did not create a lot of opportunities. Expect England to get another win, even if they don't fully convinced.",
-      "kickoffUTC": "2026-06-23T20:00:00Z"
+      "kickoffUTC": "2026-06-23T20:00:00Z",
+      "status": "completed",
+      "finalScore": "0-0",
+      "actualExcitementScore": null
     },
     {
       "matchId": 46,
@@ -630,7 +633,10 @@
       "matchImportance": 5,
       "rivalryScore": 5,
       "whyWatch": "Is this truly the end for Modric's generation? The 40-year old was overrun by England in the first game, but showed why they can't be taken lightly by pegging The Three Lions twice. They might just have too much for Panama in the end.",
-      "kickoffUTC": "2026-06-23T23:00:00Z"
+      "kickoffUTC": "2026-06-23T23:00:00Z",
+      "status": "completed",
+      "finalScore": "0-1",
+      "actualExcitementScore": null
     },
     {
       "matchId": 47,
@@ -641,7 +647,10 @@
       "matchImportance": 5,
       "rivalryScore": 5,
       "whyWatch": "Roberto Martinez must think of a solution quickly if Portugal wants to avoid an early exit. In Uzbekistan, they will face a resolute defence, so the question is will they persevere with a legend of the game that has not scored in 10 straight games in major tournaments (and registered zero shots on target against DR Congo)?",
-      "kickoffUTC": "2026-06-23T17:00:00Z"
+      "kickoffUTC": "2026-06-23T17:00:00Z",
+      "status": "completed",
+      "finalScore": "5-0",
+      "actualExcitementScore": null
     },
     {
       "matchId": 48,
@@ -652,7 +661,10 @@
       "matchImportance": 5,
       "rivalryScore": 5,
       "whyWatch": "DR Congo opened their campaign with a creditable draw against Portugal. To get a win against Colombia they will need to be better in front of goal, and a lot closer too, as they registered the most shots from outside the box (six out of eight) with only two shots on target. Colombia will look to rely on Luis Diaz once again, who recorded an assist and a goal against Uzbekistan.",
-      "kickoffUTC": "2026-06-24T00:00:00Z"
+      "kickoffUTC": "2026-06-24T00:00:00Z",
+      "status": "completed",
+      "finalScore": "1-0",
+      "actualExcitementScore": null
     },
     {
       "matchId": 49,
@@ -662,6 +674,7 @@
       "awayTeamKey": "brazil",
       "matchImportance": 5,
       "rivalryScore": 5,
+      "whyWatch": "A draw suit both teams, as Scotland would finish with four points and Brazil with five points. The Tartan Army would likely finish as one of the top third-placed teams. Brazil, whether they finish top or second in the group, will face a team from Group F. One thing to watch for is whether Neymar will make his much anticipated return.",
       "kickoffUTC": "2026-06-24T22:00:00Z"
     },
     {
@@ -672,6 +685,7 @@
       "awayTeamKey": "haiti",
       "matchImportance": 3,
       "rivalryScore": 5,
+      "whyWatch": "Haiti is simply playing for pride, hoping to avoid a winless campaign. Morocco is in a similar situation with Brazil, they don't necessarily need to win, and they won't know which Group F team they will be facing in the next round.",
       "kickoffUTC": "2026-06-24T22:00:00Z"
     },
     {
@@ -682,7 +696,11 @@
       "awayTeamKey": "canada",
       "matchImportance": 3,
       "rivalryScore": 5,
-      "kickoffUTC": "2026-06-24T19:00:00Z"
+      "whyWatch": "Canada will be aiming to win the group which they can achieve by a win or a draw. Topping the group also means they will stay in Canada for the Round of 32 and Round of 16.",
+      "kickoffUTC": "2026-06-24T19:00:00Z",
+      "status": "completed",
+      "finalScore": "2-1",
+      "actualExcitementScore": null
     },
     {
       "matchId": 52,
@@ -690,9 +708,13 @@
       "awayTeam": "Qatar",
       "homeTeamKey": "bosnia",
       "awayTeamKey": "qatar",
-      "matchImportance": 3,
+      "matchImportance": 4,
       "rivalryScore": 5,
-      "kickoffUTC": "2026-06-24T19:00:00Z"
+      "whyWatch": "Bosnia needs a win to keep their hopes of progressing to the knockout stage. They will take a lot of encouragement from Canada's performance in the last game and knowing that Qatar will miss two of their starters in defense because of suspensions.",
+      "kickoffUTC": "2026-06-24T19:00:00Z",
+      "status": "completed",
+      "finalScore": "3-1",
+      "actualExcitementScore": null
     },
     {
       "matchId": 53,
@@ -702,6 +724,7 @@
       "awayTeamKey": "mexico",
       "matchImportance": 4,
       "rivalryScore": 5,
+      "whyWatch": "Mexico already clinched top spot of their group and gets to stay home for the first two games of the knockout stage should they make it that far. Czechia needs to win as a draw would only leave them with two points, which won't be enough to make it through.",
       "kickoffUTC": "2026-06-25T01:00:00Z"
     },
     {
@@ -712,6 +735,7 @@
       "awayTeamKey": "south korea",
       "matchImportance": 4,
       "rivalryScore": 5,
+      "whyWatch": "South Korea is in a good position to qualify, needing only to avoid defeat, which will see them through either as a runner-up or in third place. South Africa needs to show more attacking intent than their previous two games if they are to have any chance of progressing.",
       "kickoffUTC": "2026-06-25T01:00:00Z"
     },
     {
@@ -720,8 +744,9 @@
       "awayTeam": "Ivory Coast",
       "homeTeamKey": "cura\u00e7ao",
       "awayTeamKey": "ivory coast",
-      "matchImportance": 5,
+      "matchImportance": 6,
       "rivalryScore": 5,
+      "whyWatch": "Cura\u00e7ao have a very slim hope of progressing after a creditable 0-0 draw against Ecuador. They will need to defeat Ivory Coast with a healthy margin (they are currently on -6 goal difference). Ivory Coast has enough attacking threat and were undone at the end by Germany, and will be determined to make it through the group for the first time in their history.",
       "kickoffUTC": "2026-06-25T20:00:00Z"
     },
     {
@@ -730,8 +755,9 @@
       "awayTeam": "Germany",
       "homeTeamKey": "ecuador",
       "awayTeamKey": "germany",
-      "matchImportance": 5,
+      "matchImportance": 6,
       "rivalryScore": 5,
+      "whyWatch": "It's do or die time for Ecuador, as they need a win to avoid going out in the group stage. The good news is they will be playing a Germany side safe and sound to next stage, which might influence Julian Nagelsmann's team selection.",
       "kickoffUTC": "2026-06-25T20:00:00Z"
     },
     {
@@ -742,6 +768,7 @@
       "awayTeamKey": "sweden",
       "matchImportance": 5,
       "rivalryScore": 5,
+      "whyWatch": "Two teams that knew a draw would be enough to take them through, but it's unlikely either will just play for a draw. A win for either side, depending on the result of Netherlands v Tunisia, will see them top the group and possibly landing a more favorable opponent from Group C.",
       "kickoffUTC": "2026-06-25T23:00:00Z"
     },
     {
@@ -750,8 +777,9 @@
       "awayTeam": "Netherlands",
       "homeTeamKey": "tunisia",
       "awayTeamKey": "netherlands",
-      "matchImportance": 5,
-      "rivalryScore": 5,
+      "matchImportance": 4,
+      "rivalryScore": 4,
+      "whyWatch": "Tunisia has been eliminated and is playing for pride. The Netherlands seemed to have found an attacking combination that works with the trio of Cody Gakpo, Brian Brobbey, and Crysencio Summerville (or Donyell Malen) wreaking havoc in the win against Sweden. Depending on the outcomes in other groups, the Netherlands will aim to win the group and land in the softer side of the bracket (possibly avoiding playing Group C winner, Brazil in the Round of 32 and either France or Norway in the Round of 16)",
       "kickoffUTC": "2026-06-25T23:00:00Z"
     },
     {
@@ -760,8 +788,9 @@
       "awayTeam": "United States",
       "homeTeamKey": "turkey",
       "awayTeamKey": "united states",
-      "matchImportance": 2,
-      "rivalryScore": 5,
+      "matchImportance": 1,
+      "rivalryScore": 3,
+      "whyWatch": "Wikipedia's definition of dead rubber: \"a term used in sporting parlance to describe a match in a series where the series result has already been decided by earlier matches.\"",
       "kickoffUTC": "2026-06-26T02:00:00Z"
     },
     {
@@ -772,6 +801,7 @@
       "awayTeamKey": "australia",
       "matchImportance": 5,
       "rivalryScore": 5,
+      "whyWatch": "When asked about possibly playing for a draw if the score remains goalless with 10 minutes left, Socceroos defender, Jason Geria said that \"It's not in our nature to play for a draw\". If his words are anything to go by, expect Australia to seek a win. Paraguay must avoid defeat as their goal difference might not be good enough to see them through with three points.",
       "kickoffUTC": "2026-06-26T02:00:00Z"
     },
     {
@@ -780,8 +810,9 @@
       "awayTeam": "France",
       "homeTeamKey": "norway",
       "awayTeamKey": "france",
-      "matchImportance": 5,
+      "matchImportance": 6,
       "rivalryScore": 5,
+      "whyWatch": "Mbappe v Haaland, Olise v Odegaard, this is one of the best matchup in the group stage although with little stakes involved. Both teams are already through, the only thing to play for is top spot of the group. The winner of this group will play a third placed teams in the next round, before potentially meeting Germany in the Round of 16.",
       "kickoffUTC": "2026-06-26T19:00:00Z"
     },
     {
@@ -790,8 +821,9 @@
       "awayTeam": "Iraq",
       "homeTeamKey": "senegal",
       "awayTeamKey": "iraq",
-      "matchImportance": 5,
+      "matchImportance": 7,
       "rivalryScore": 5,
+      "whyWatch": "Iraq is not mathematically eliminated just yet, but they will need to win by a significant margin (they currently have a -6 goal difference) and hope for favors elsewhere. Senegal is also in the same boat, they need to win at all cost to avoid elimination.",
       "kickoffUTC": "2026-06-26T19:00:00Z"
     },
     {
@@ -802,6 +834,7 @@
       "awayTeamKey": "iran",
       "matchImportance": 5,
       "rivalryScore": 5,
+      "whyWatch": "After earning their first win in World Cup, Egyp is now poised to go through to the knockout stage, potentially as a group winner if they beat Iran. Iran could also make it through with a draw depending on result elsewhere.",
       "kickoffUTC": "2026-06-27T03:00:00Z"
     },
     {
@@ -810,8 +843,9 @@
       "awayTeam": "Belgium",
       "homeTeamKey": "new zealand",
       "awayTeamKey": "belgium",
-      "matchImportance": 5,
+      "matchImportance": 6,
       "rivalryScore": 5,
+      "whyWatch": "A must win game for The Kiwis to progress to the knockout stage. They have played brilliantly in their first two games, but were undone by a World Class player in Mo Salah in their last game, a 3-1 defeat to Egypt. If there's something that the Belgians lack, it's not World Class players in the attacking end, even if they haven't quite get going yet.",
       "kickoffUTC": "2026-06-27T03:00:00Z"
     },
     {
@@ -822,6 +856,7 @@
       "awayTeamKey": "saudi arabia",
       "matchImportance": 5,
       "rivalryScore": 5,
+      "whyWatch": "Truly the cinderella story of the tournament so far, can Cape Verde stave off elimination and continue their dreamlike journey? Avoid defeat against Saudi Arabia and they potentially will make it to the knockout stage. They will be supported by half a million Cape Verdeans back home and neutrals everywhere in the world.",
       "kickoffUTC": "2026-06-27T00:00:00Z"
     },
     {
@@ -832,6 +867,7 @@
       "awayTeamKey": "spain",
       "matchImportance": 5,
       "rivalryScore": 5,
+      "whyWatch": "A tale of two games for Spain, they dominated proceedings against Cape Verde but couldn't find a goal. Against Saudi Arabia, they dominated proceedings and scored four past them. Uruguay will be a tough opponent, and they will need to win to be assured of a spot in the knockout stage.",
       "kickoffUTC": "2026-06-27T00:00:00Z"
     },
     {
@@ -840,8 +876,9 @@
       "awayTeam": "England",
       "homeTeamKey": "panama",
       "awayTeamKey": "england",
-      "matchImportance": 5,
+      "matchImportance": 2,
       "rivalryScore": 5,
+      "whyWatch": "England did not fully convinced in their first two games. A less-than-convincing performance against already eliminated Panama will definitely raise the alarm for those supporting The Three Lions.",
       "kickoffUTC": "2026-06-27T21:00:00Z"
     },
     {
@@ -850,8 +887,9 @@
       "awayTeam": "Ghana",
       "homeTeamKey": "croatia",
       "awayTeamKey": "ghana",
-      "matchImportance": 5,
+      "matchImportance": 7,
       "rivalryScore": 5,
+      "whyWatch": "Both teams are on three points, and potentially could go through with a draw. They might be keeping an eye on England's result, as a win for either side (in case England slip up), can see them leapfrog The Three Lions.",
       "kickoffUTC": "2026-06-27T21:00:00Z"
     },
     {
@@ -860,8 +898,9 @@
       "awayTeam": "Austria",
       "homeTeamKey": "algeria",
       "awayTeamKey": "austria",
-      "matchImportance": 5,
+      "matchImportance": 4,
       "rivalryScore": 5,
+      "whyWatch": "If it seems like most of the preview for the final games in the group stage starts with \"Both teams know a draw is enough for them\", it is an unfortunate byproduct of a 48-team tournament. That said, Austria and Algeria know that a draw is enough for them to go through.",
       "kickoffUTC": "2026-06-28T02:00:00Z"
     },
     {
@@ -870,8 +909,9 @@
       "awayTeam": "Argentina",
       "homeTeamKey": "jordan",
       "awayTeamKey": "argentina",
-      "matchImportance": 5,
-      "rivalryScore": 5,
+      "matchImportance": 2,
+      "rivalryScore": 3,
+      "whyWatch": "Argentina is already through as group winner and will take on the runner-up of Group H in the next round. Will they give Messi a rest? Or will they give him more opportunities to stretch his lead as the World Cup's all-time leading goalscorer?",
       "kickoffUTC": "2026-06-28T02:00:00Z"
     },
     {
@@ -893,10 +933,12 @@
       "awayTeamKey": "uzbekistan",
       "matchImportance": 5,
       "rivalryScore": 5,
+      "whyWatch": "This is a game where both teams still have a chance mathematically to progress, but they might already know their fate by the time their game kicks off. Uzbekistan must win and hope results elsewhere go their way, and DR Congo needs to win.",
       "kickoffUTC": "2026-06-27T23:30:00Z"
     },
     {
       "matchId": 73,
+      "stage": "Round of 32",
       "homeTeam": "Runner-up Group A",
       "awayTeam": "Runner-up Group B",
       "homeTeamKey": "runner-up_group_a",
@@ -906,6 +948,7 @@
     },
     {
       "matchId": 74,
+      "stage": "Round of 32",
       "homeTeam": "Winner Group E",
       "awayTeam": "3rd Group A/B/C/D/F",
       "homeTeamKey": "winner_group_e",
@@ -915,6 +958,7 @@
     },
     {
       "matchId": 75,
+      "stage": "Round of 32",
       "homeTeam": "Winner Group F",
       "awayTeam": "Runner-up Group C",
       "homeTeamKey": "winner_group_f",
@@ -924,6 +968,7 @@
     },
     {
       "matchId": 76,
+      "stage": "Round of 32",
       "homeTeam": "Winner Group C",
       "awayTeam": "Runner-up Group F",
       "homeTeamKey": "winner_group_c",
@@ -933,6 +978,7 @@
     },
     {
       "matchId": 77,
+      "stage": "Round of 32",
       "homeTeam": "Winner Group I",
       "awayTeam": "3rd Group C/D/F/G/H",
       "homeTeamKey": "winner_group_i",
@@ -942,6 +988,7 @@
     },
     {
       "matchId": 78,
+      "stage": "Round of 32",
       "homeTeam": "Runner-up Group E",
       "awayTeam": "Runner-up Group I",
       "homeTeamKey": "runner-up_group_e",
@@ -951,6 +998,7 @@
     },
     {
       "matchId": 79,
+      "stage": "Round of 32",
       "homeTeam": "Winner Group A",
       "awayTeam": "3rd Group C/E/F/H/I",
       "homeTeamKey": "winner_group_a",
@@ -960,6 +1008,7 @@
     },
     {
       "matchId": 80,
+      "stage": "Round of 32",
       "homeTeam": "Winner Group L",
       "awayTeam": "3rd Group E/H/I/J/K",
       "homeTeamKey": "winner_group_l",
@@ -969,6 +1018,7 @@
     },
     {
       "matchId": 81,
+      "stage": "Round of 32",
       "homeTeam": "Winner Group D",
       "awayTeam": "3rd Group B/E/F/I/J",
       "homeTeamKey": "winner_group_d",
@@ -978,6 +1028,7 @@
     },
     {
       "matchId": 82,
+      "stage": "Round of 32",
       "homeTeam": "Winner Group G",
       "awayTeam": "3rd Group A/E/H/I/J",
       "homeTeamKey": "winner_group_g",
@@ -987,6 +1038,7 @@
     },
     {
       "matchId": 83,
+      "stage": "Round of 32",
       "homeTeam": "Runner-up Group K",
       "awayTeam": "Runner-up Group L",
       "homeTeamKey": "runner-up_group_k",
@@ -996,6 +1048,7 @@
     },
     {
       "matchId": 84,
+      "stage": "Round of 32",
       "homeTeam": "Winner Group H",
       "awayTeam": "Runner-up Group J",
       "homeTeamKey": "winner_group_h",
@@ -1005,6 +1058,7 @@
     },
     {
       "matchId": 85,
+      "stage": "Round of 32",
       "homeTeam": "Winner Group B",
       "awayTeam": "3rd Group E/F/G/I/J",
       "homeTeamKey": "winner_group_b",
@@ -1014,6 +1068,7 @@
     },
     {
       "matchId": 86,
+      "stage": "Round of 32",
       "homeTeam": "Winner Group J",
       "awayTeam": "Runner-up Group H",
       "homeTeamKey": "winner_group_j",
@@ -1023,6 +1078,7 @@
     },
     {
       "matchId": 87,
+      "stage": "Round of 32",
       "homeTeam": "Winner Group K",
       "awayTeam": "3rd Group D/E/I/J/L",
       "homeTeamKey": "winner_group_k",
@@ -1032,6 +1088,7 @@
     },
     {
       "matchId": 88,
+      "stage": "Round of 32",
       "homeTeam": "Runner-up Group D",
       "awayTeam": "Runner-up Group G",
       "homeTeamKey": "runner-up_group_d",
@@ -1041,6 +1098,7 @@
     },
     {
       "matchId": 89,
+      "stage": "Round of 16",
       "homeTeam": "Winner Match 74",
       "awayTeam": "Winner Match 77",
       "homeTeamKey": "winner_match_74",
@@ -1050,6 +1108,7 @@
     },
     {
       "matchId": 90,
+      "stage": "Round of 16",
       "homeTeam": "Winner Match 73",
       "awayTeam": "Winner Match 75",
       "homeTeamKey": "winner_match_73",
@@ -1059,6 +1118,7 @@
     },
     {
       "matchId": 91,
+      "stage": "Round of 16",
       "homeTeam": "Winner Match 76",
       "awayTeam": "Winner Match 78",
       "homeTeamKey": "winner_match_76",
@@ -1068,6 +1128,7 @@
     },
     {
       "matchId": 92,
+      "stage": "Round of 16",
       "homeTeam": "Winner Match 79",
       "awayTeam": "Winner Match 80",
       "homeTeamKey": "winner_match_79",
@@ -1077,6 +1138,7 @@
     },
     {
       "matchId": 93,
+      "stage": "Round of 16",
       "homeTeam": "Winner Match 83",
       "awayTeam": "Winner Match 84",
       "homeTeamKey": "winner_match_83",
@@ -1086,6 +1148,7 @@
     },
     {
       "matchId": 94,
+      "stage": "Round of 16",
       "homeTeam": "Winner Match 81",
       "awayTeam": "Winner Match 82",
       "homeTeamKey": "winner_match_81",
@@ -1095,6 +1158,7 @@
     },
     {
       "matchId": 95,
+      "stage": "Round of 16",
       "homeTeam": "Winner Match 86",
       "awayTeam": "Winner Match 88",
       "homeTeamKey": "winner_match_86",
@@ -1104,6 +1168,7 @@
     },
     {
       "matchId": 96,
+      "stage": "Round of 16",
       "homeTeam": "Winner Match 85",
       "awayTeam": "Winner Match 87",
       "homeTeamKey": "winner_match_85",
@@ -1113,6 +1178,7 @@
     },
     {
       "matchId": 97,
+      "stage": "Quarterfinals",
       "homeTeam": "Winner Match 89",
       "awayTeam": "Winner Match 90",
       "homeTeamKey": "winner_match_89",
@@ -1122,6 +1188,7 @@
     },
     {
       "matchId": 98,
+      "stage": "Quarterfinals",
       "homeTeam": "Winner Match 93",
       "awayTeam": "Winner Match 94",
       "homeTeamKey": "winner_match_93",
@@ -1131,6 +1198,7 @@
     },
     {
       "matchId": 99,
+      "stage": "Quarterfinals",
       "homeTeam": "Winner Match 91",
       "awayTeam": "Winner Match 92",
       "homeTeamKey": "winner_match_91",
@@ -1140,6 +1208,7 @@
     },
     {
       "matchId": 100,
+      "stage": "Quarterfinals",
       "homeTeam": "Winner Match 95",
       "awayTeam": "Winner Match 96",
       "homeTeamKey": "winner_match_95",
@@ -1149,6 +1218,7 @@
     },
     {
       "matchId": 101,
+      "stage": "Semifinals",
       "homeTeam": "Winner Match 97",
       "awayTeam": "Winner Match 98",
       "homeTeamKey": "winner_match_97",
@@ -1158,6 +1228,7 @@
     },
     {
       "matchId": 102,
+      "stage": "Semifinals",
       "homeTeam": "Winner Match 99",
       "awayTeam": "Winner Match 100",
       "homeTeamKey": "winner_match_99",
@@ -1167,6 +1238,7 @@
     },
     {
       "matchId": 103,
+      "stage": "Third Place Playoff",
       "homeTeam": "Loser Match 101",
       "awayTeam": "Loser Match 102",
       "homeTeamKey": "loser_match_101",
@@ -1176,6 +1248,7 @@
     },
     {
       "matchId": 104,
+      "stage": "Final",
       "homeTeam": "Winner Match 101",
       "awayTeam": "Winner Match 102",
       "homeTeamKey": "winner_match_101",
