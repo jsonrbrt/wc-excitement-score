@@ -88,7 +88,16 @@ body {
   background: #111827;
   border: 1px solid #374151;
   border-radius: 16px;
+  cursor: pointer;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
   padding: 18px;
+}
+
+.knockout-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(0,0,0,.25);
 }
 
 .knockout-match-title {
@@ -99,6 +108,11 @@ body {
 .knockout-status {
   color: #9ca3af;
   font-size: 14px;
+}
+
+.knockout-kickoff {
+  font-size: 12px;
+  margin-bottom: 5px;
 }
 
 /* Cards */

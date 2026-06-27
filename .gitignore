@@ -17,3 +17,4 @@ __pycache__/
 # Temporary/testing data
 data/test/
 data/archive/
+data/scored_fixtures_test.json

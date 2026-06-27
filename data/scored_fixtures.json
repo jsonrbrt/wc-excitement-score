@@ -1,39 +1,6 @@
 {
   "fixtures": [
     {
-      "matchId": 71,
-      "homeTeam": "Colombia",
-      "awayTeam": "Portugal",
-      "homeTeamKey": "colombia",
-      "awayTeamKey": "portugal",
-      "matchImportance": 5,
-      "rivalryScore": 5,
-      "kickoffUTC": "2026-06-27T23:30:00Z",
-      "whyWatch": "Depending on how the two teams get on in their first two games, this could be the group decider, can Ronaldo get the one trophy that has eluded him? Or will the star power of Luis Diaz proves too much Portugal?",
-      "homeTeamName": "Colombia",
-      "awayTeamName": "Portugal",
-      "homeElo": 1982,
-      "awayElo": 1986,
-      "homeStarPower": 7,
-      "awayStarPower": 9,
-      "starPlayers": [
-        "Luis Diaz",
-        "Bruno Fernandes",
-        "Cristiano Ronaldo",
-        "Vitinha"
-      ],
-      "excitementScore": 68.7,
-      "watchTier": "Must watch",
-      "scoreBreakdown": {
-        "attackingScore": 8.17,
-        "chaosScore": 3.67,
-        "starPowerScore": 8.0,
-        "competitiveBalance": 9.93,
-        "matchImportance": 5,
-        "rivalryScore": 5
-      }
-    },
-    {
       "matchId": 61,
       "homeTeam": "Norway",
       "awayTeam": "France",
@@ -43,6 +10,9 @@
       "rivalryScore": 5,
       "whyWatch": "Mbappe v Haaland, Olise v Odegaard, this is one of the best matchup in the group stage although with little stakes involved. Both teams are already through, the only thing to play for is top spot of the group. The winner of this group will play a third placed teams in the next round, before potentially meeting Germany in the Round of 16.",
       "kickoffUTC": "2026-06-26T19:00:00Z",
+      "status": "completed",
+      "finalScore": "1-4",
+      "actualExcitementScore": null,
       "homeTeamName": "Norway",
       "awayTeamName": "France",
       "homeElo": 1914,
@@ -58,6 +28,8 @@
         "Michael Olise"
       ],
       "excitementScore": 68.6,
+      "preTournamentScore": 68.6,
+      "tournamentFormScore": null,
       "watchTier": "Must watch",
       "scoreBreakdown": {
         "attackingScore": 10,
@@ -95,6 +67,8 @@
         "Luka Modric"
       ],
       "excitementScore": 67.9,
+      "preTournamentScore": 67.9,
+      "tournamentFormScore": null,
       "watchTier": "Must watch",
       "scoreBreakdown": {
         "attackingScore": 10,
@@ -133,6 +107,8 @@
         "Ismaila Sarr"
       ],
       "excitementScore": 67.8,
+      "preTournamentScore": 67.8,
+      "tournamentFormScore": null,
       "watchTier": "Must watch",
       "scoreBreakdown": {
         "attackingScore": 10,
@@ -171,6 +147,8 @@
         "Ayase Ueda"
       ],
       "excitementScore": 65.6,
+      "preTournamentScore": 65.6,
+      "tournamentFormScore": null,
       "watchTier": "Must watch",
       "scoreBreakdown": {
         "attackingScore": 10,
@@ -179,6 +157,116 @@
         "competitiveBalance": 9.3,
         "matchImportance": 5,
         "rivalryScore": 5
+      }
+    },
+    {
+      "matchId": 71,
+      "homeTeam": "Colombia",
+      "awayTeam": "Portugal",
+      "homeTeamKey": "colombia",
+      "awayTeamKey": "portugal",
+      "matchImportance": 3,
+      "rivalryScore": 3,
+      "kickoffUTC": "2026-06-27T23:30:00Z",
+      "whyWatch": "Colombia is assured to go through to the next round, potentially as a group winner if they avoid defeat against Portugal, who have Cristiano Ronaldo back scoring goals.",
+      "homeTeamName": "Colombia",
+      "awayTeamName": "Portugal",
+      "homeElo": 1982,
+      "awayElo": 1986,
+      "homeStarPower": 7,
+      "awayStarPower": 9,
+      "starPlayers": [
+        "Luis Diaz",
+        "Bruno Fernandes",
+        "Cristiano Ronaldo",
+        "Vitinha"
+      ],
+      "excitementScore": 64.7,
+      "preTournamentScore": 64.7,
+      "tournamentFormScore": null,
+      "watchTier": "Strong watch",
+      "scoreBreakdown": {
+        "attackingScore": 8.17,
+        "chaosScore": 3.67,
+        "starPowerScore": 8.0,
+        "competitiveBalance": 9.93,
+        "matchImportance": 3,
+        "rivalryScore": 3
+      }
+    },
+    {
+      "matchId": 78,
+      "stage": "Round of 32",
+      "homeTeam": "Ivory Coast",
+      "awayTeam": "Norway",
+      "homeTeamKey": "ivory coast",
+      "awayTeamKey": "norway",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-30T17:00:00Z",
+      "homeTeamName": "Ivory Coast",
+      "awayTeamName": "Norway",
+      "homeElo": 1695,
+      "awayElo": 1914,
+      "homeStarPower": 6,
+      "awayStarPower": 8,
+      "starPlayers": [
+        "Yan Diomande",
+        "Franck Kessie",
+        "Nicolas Pepe",
+        "Erling Haaland",
+        "Martin Odegaard"
+      ],
+      "whyWatch": "",
+      "excitementScore": 64.5,
+      "preTournamentScore": 64.5,
+      "tournamentFormScore": null,
+      "watchTier": "Strong watch",
+      "scoreBreakdown": {
+        "attackingScore": 10,
+        "chaosScore": 3.0,
+        "starPowerScore": 7.0,
+        "competitiveBalance": 6.35,
+        "matchImportance": 5,
+        "rivalryScore": 5
+      }
+    },
+    {
+      "matchId": 76,
+      "stage": "Round of 32",
+      "homeTeam": "Brazil",
+      "awayTeam": "Japan",
+      "homeTeamKey": "brazil",
+      "awayTeamKey": "japan",
+      "matchImportance": 7,
+      "rivalryScore": 7,
+      "kickoffUTC": "2026-06-29T17:00:00Z",
+      "homeTeamName": "Brazil",
+      "awayTeamName": "Japan",
+      "homeElo": 1991,
+      "awayElo": 1906,
+      "homeStarPower": 8,
+      "awayStarPower": 7,
+      "starPlayers": [
+        "Gabriel Magalhaes",
+        "Raphinha",
+        "Vinicius Junior",
+        "Ritsu Doan",
+        "Takefusa Kubo",
+        "Ayase Ueda"
+      ],
+      "whyWatch": "",
+      "excitementScore": 64.2,
+      "preTournamentScore": 63.8,
+      "tournamentFormScore": 64.4,
+      "watchTier": "Strong watch",
+      "scoreBreakdown": {
+        "attackingScore": 6.62,
+        "chaosScore": 2.61,
+        "starPowerScore": 7.5,
+        "competitiveBalance": 8.58,
+        "matchImportance": 7,
+        "rivalryScore": 7
       }
     },
     {
@@ -211,6 +299,8 @@
         "Ismaila Sarr"
       ],
       "excitementScore": 63.6,
+      "preTournamentScore": 63.6,
+      "tournamentFormScore": null,
       "watchTier": "Strong watch",
       "scoreBreakdown": {
         "attackingScore": 7.67,
@@ -219,6 +309,42 @@
         "competitiveBalance": 6.73,
         "matchImportance": 8,
         "rivalryScore": 7
+      }
+    },
+    {
+      "matchId": 75,
+      "stage": "Round of 32",
+      "homeTeam": "Netherlands",
+      "awayTeam": "Morocco",
+      "homeTeamKey": "netherlands",
+      "awayTeamKey": "morocco",
+      "matchImportance": 7,
+      "rivalryScore": 6,
+      "kickoffUTC": "2026-06-30T02:00:00Z",
+      "homeTeamName": "Netherlands",
+      "awayTeamName": "Morocco",
+      "homeElo": 1948,
+      "awayElo": 1827,
+      "homeStarPower": 7,
+      "awayStarPower": 6,
+      "starPlayers": [
+        "Cody Gakpo",
+        "Frenkie de Jong",
+        "Virgil van Dijk",
+        "Achraf Hakimi"
+      ],
+      "whyWatch": "",
+      "excitementScore": 63.3,
+      "preTournamentScore": 60.2,
+      "tournamentFormScore": 65.0,
+      "watchTier": "Strong watch",
+      "scoreBreakdown": {
+        "attackingScore": 7.34,
+        "chaosScore": 3.36,
+        "starPowerScore": 6.5,
+        "competitiveBalance": 7.98,
+        "matchImportance": 7,
+        "rivalryScore": 6
       }
     },
     {
@@ -247,6 +373,8 @@
         "Mehdi Taremi"
       ],
       "excitementScore": 62.6,
+      "preTournamentScore": 62.6,
+      "tournamentFormScore": null,
       "watchTier": "Strong watch",
       "scoreBreakdown": {
         "attackingScore": 9.65,
@@ -281,6 +409,8 @@
         "Jackson Irvine"
       ],
       "excitementScore": 61.7,
+      "preTournamentScore": 61.7,
+      "tournamentFormScore": null,
       "watchTier": "Strong watch",
       "scoreBreakdown": {
         "attackingScore": 7.13,
@@ -318,6 +448,8 @@
         "Alexander Isak"
       ],
       "excitementScore": 61.7,
+      "preTournamentScore": 61.7,
+      "tournamentFormScore": null,
       "watchTier": "Strong watch",
       "scoreBreakdown": {
         "attackingScore": 7.83,
@@ -355,6 +487,8 @@
         "Omar Marmoush"
       ],
       "excitementScore": 60.6,
+      "preTournamentScore": 60.6,
+      "tournamentFormScore": null,
       "watchTier": "Strong watch",
       "scoreBreakdown": {
         "attackingScore": 8.85,
@@ -390,6 +524,8 @@
         "Kenan Yildiz"
       ],
       "excitementScore": 60.1,
+      "preTournamentScore": 60.1,
+      "tournamentFormScore": null,
       "watchTier": "Strong watch",
       "scoreBreakdown": {
         "attackingScore": 7.97,
@@ -410,6 +546,9 @@
       "rivalryScore": 5,
       "whyWatch": "It's do or die time for Ecuador, as they need a win to avoid going out in the group stage. The good news is they will be playing a Germany side safe and sound to next stage, which might influence Julian Nagelsmann's team selection.",
       "kickoffUTC": "2026-06-25T20:00:00Z",
+      "status": "completed",
+      "finalScore": "2-1",
+      "actualExcitementScore": null,
       "homeTeamName": "Ecuador",
       "awayTeamName": "Germany",
       "homeElo": 1938,
@@ -424,6 +563,8 @@
         "Florian Wirtz"
       ],
       "excitementScore": 60.0,
+      "preTournamentScore": 60.0,
+      "tournamentFormScore": null,
       "watchTier": "Strong watch",
       "scoreBreakdown": {
         "attackingScore": 5.08,
@@ -444,6 +585,9 @@
       "rivalryScore": 5,
       "whyWatch": "A tale of two games for Spain, they dominated proceedings against Cape Verde but couldn't find a goal. Against Saudi Arabia, they dominated proceedings and scored four past them. Uruguay will be a tough opponent, and they will need to win to be assured of a spot in the knockout stage.",
       "kickoffUTC": "2026-06-27T00:00:00Z",
+      "status": "completed",
+      "finalScore": "0-1",
+      "actualExcitementScore": null,
       "homeTeamName": "Uruguay",
       "awayTeamName": "Spain",
       "homeElo": 1892,
@@ -460,6 +604,8 @@
         "Lamine Yamal"
       ],
       "excitementScore": 60.0,
+      "preTournamentScore": 60.0,
+      "tournamentFormScore": null,
       "watchTier": "Strong watch",
       "scoreBreakdown": {
         "attackingScore": 5.4,
@@ -467,6 +613,78 @@
         "starPowerScore": 8.0,
         "competitiveBalance": 5.58,
         "matchImportance": 5,
+        "rivalryScore": 5
+      }
+    },
+    {
+      "matchId": 77,
+      "stage": "Round of 32",
+      "homeTeam": "France",
+      "awayTeam": "Sweden",
+      "homeTeamKey": "france",
+      "awayTeamKey": "sweden",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-30T21:00:00Z",
+      "homeTeamName": "France",
+      "awayTeamName": "Sweden",
+      "homeElo": 2063,
+      "awayElo": 1712,
+      "homeStarPower": 9,
+      "awayStarPower": 7,
+      "starPlayers": [
+        "Ousmane Dembele",
+        "Desire Doue",
+        "Kylian Mbappe",
+        "Michael Olise",
+        "Viktor Gyokeres",
+        "Alexander Isak"
+      ],
+      "whyWatch": "",
+      "excitementScore": 60.0,
+      "preTournamentScore": 60.0,
+      "tournamentFormScore": 60.0,
+      "watchTier": "Strong watch",
+      "scoreBreakdown": {
+        "attackingScore": 7.29,
+        "chaosScore": 3.76,
+        "starPowerScore": 8.0,
+        "competitiveBalance": 4.15,
+        "matchImportance": 5,
+        "rivalryScore": 5
+      }
+    },
+    {
+      "matchId": 69,
+      "homeTeam": "Algeria",
+      "awayTeam": "Austria",
+      "homeTeamKey": "algeria",
+      "awayTeamKey": "austria",
+      "matchImportance": 6,
+      "rivalryScore": 5,
+      "whyWatch": "If it seems like most of the preview for the final games in the group stage starts with \"Both teams know a draw is enough for them\", it is an unfortunate byproduct of a 48-team tournament. That said, Austria and Algeria know that a draw is enough for them to go through.",
+      "kickoffUTC": "2026-06-28T02:00:00Z",
+      "homeTeamName": "Algeria",
+      "awayTeamName": "Austria",
+      "homeElo": 1760,
+      "awayElo": 1830,
+      "homeStarPower": 5,
+      "awayStarPower": 6,
+      "starPlayers": [
+        "Riyad Mahrez",
+        "David Alaba",
+        "Konrad Laimer"
+      ],
+      "excitementScore": 59.9,
+      "preTournamentScore": 59.9,
+      "tournamentFormScore": null,
+      "watchTier": "Background watch",
+      "scoreBreakdown": {
+        "attackingScore": 8.22,
+        "chaosScore": 2.05,
+        "starPowerScore": 5.5,
+        "competitiveBalance": 8.83,
+        "matchImportance": 6,
         "rivalryScore": 5
       }
     },
@@ -499,6 +717,8 @@
         "Nicolas Pepe"
       ],
       "excitementScore": 59.7,
+      "preTournamentScore": 59.7,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 7.08,
@@ -519,6 +739,9 @@
       "rivalryScore": 5,
       "whyWatch": "Two teams that knew a draw would be enough to take them through, but it's unlikely either will just play for a draw. A win for either side, depending on the result of Netherlands v Tunisia, will see them top the group and possibly landing a more favorable opponent from Group C.",
       "kickoffUTC": "2026-06-25T23:00:00Z",
+      "status": "completed",
+      "finalScore": "1-1",
+      "actualExcitementScore": null,
       "homeTeamName": "Japan",
       "awayTeamName": "Sweden",
       "homeElo": 1906,
@@ -533,6 +756,8 @@
         "Alexander Isak"
       ],
       "excitementScore": 59.4,
+      "preTournamentScore": 59.4,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 7.17,
@@ -567,6 +792,8 @@
         "Patrik Schick"
       ],
       "excitementScore": 58.9,
+      "preTournamentScore": 58.9,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 6.58,
@@ -602,6 +829,8 @@
         "Omar Marmoush"
       ],
       "excitementScore": 58.7,
+      "preTournamentScore": 58.7,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 10,
@@ -638,6 +867,8 @@
         "Abdukodir Khusanov"
       ],
       "excitementScore": 58.3,
+      "preTournamentScore": 58.3,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 8.32,
@@ -673,6 +904,8 @@
         "Martin Odegaard"
       ],
       "excitementScore": 57.9,
+      "preTournamentScore": 57.9,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 10,
@@ -680,38 +913,6 @@
         "starPowerScore": 5.5,
         "competitiveBalance": 5.07,
         "matchImportance": 5,
-        "rivalryScore": 5
-      }
-    },
-    {
-      "matchId": 69,
-      "homeTeam": "Algeria",
-      "awayTeam": "Austria",
-      "homeTeamKey": "algeria",
-      "awayTeamKey": "austria",
-      "matchImportance": 4,
-      "rivalryScore": 5,
-      "whyWatch": "If it seems like most of the preview for the final games in the group stage starts with \"Both teams know a draw is enough for them\", it is an unfortunate byproduct of a 48-team tournament. That said, Austria and Algeria know that a draw is enough for them to go through.",
-      "kickoffUTC": "2026-06-28T02:00:00Z",
-      "homeTeamName": "Algeria",
-      "awayTeamName": "Austria",
-      "homeElo": 1760,
-      "awayElo": 1830,
-      "homeStarPower": 5,
-      "awayStarPower": 6,
-      "starPlayers": [
-        "Riyad Mahrez",
-        "David Alaba",
-        "Konrad Laimer"
-      ],
-      "excitementScore": 57.9,
-      "watchTier": "Background watch",
-      "scoreBreakdown": {
-        "attackingScore": 8.22,
-        "chaosScore": 2.05,
-        "starPowerScore": 5.5,
-        "competitiveBalance": 8.83,
-        "matchImportance": 4,
         "rivalryScore": 5
       }
     },
@@ -725,6 +926,9 @@
       "rivalryScore": 5,
       "whyWatch": "A must win game for The Kiwis to progress to the knockout stage. They have played brilliantly in their first two games, but were undone by a World Class player in Mo Salah in their last game, a 3-1 defeat to Egypt. If there's something that the Belgians lack, it's not World Class players in the attacking end, even if they haven't quite get going yet.",
       "kickoffUTC": "2026-06-27T03:00:00Z",
+      "status": "completed",
+      "finalScore": "1-5",
+      "actualExcitementScore": null,
       "homeTeamName": "New Zealand",
       "awayTeamName": "Belgium",
       "homeElo": 1562,
@@ -738,6 +942,8 @@
         "Romelu Lukaku"
       ],
       "excitementScore": 57.4,
+      "preTournamentScore": 57.4,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 10,
@@ -769,6 +975,8 @@
         "Antoine Semenyo"
       ],
       "excitementScore": 57.0,
+      "preTournamentScore": 57.0,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 9.33,
@@ -776,6 +984,44 @@
         "starPowerScore": 6.5,
         "competitiveBalance": 3.32,
         "matchImportance": 7,
+        "rivalryScore": 5
+      }
+    },
+    {
+      "matchId": 74,
+      "stage": "Round of 32",
+      "homeTeam": "Germany",
+      "awayTeam": "Paraguay",
+      "homeTeamKey": "germany",
+      "awayTeamKey": "paraguay",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-29T21:30:00Z",
+      "homeTeamName": "Germany",
+      "awayTeamName": "Paraguay",
+      "homeElo": 1932,
+      "awayElo": 1833,
+      "homeStarPower": 9,
+      "awayStarPower": 6,
+      "starPlayers": [
+        "Kai Havertz",
+        "Joshua Kimmich",
+        "Jamal Musiala",
+        "Florian Wirtz",
+        "Miguel Almiron",
+        "Julio Enciso"
+      ],
+      "whyWatch": "",
+      "excitementScore": 57.0,
+      "preTournamentScore": 56.2,
+      "tournamentFormScore": 57.5,
+      "watchTier": "Background watch",
+      "scoreBreakdown": {
+        "attackingScore": 5.37,
+        "chaosScore": 4.43,
+        "starPowerScore": 7.5,
+        "competitiveBalance": 8.35,
+        "matchImportance": 5,
         "rivalryScore": 5
       }
     },
@@ -803,6 +1049,8 @@
         "Luka Modric"
       ],
       "excitementScore": 56.5,
+      "preTournamentScore": 56.5,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 8.67,
@@ -839,6 +1087,8 @@
         "Julio Enciso"
       ],
       "excitementScore": 56.4,
+      "preTournamentScore": 56.4,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 5.33,
@@ -877,6 +1127,8 @@
         "Konrad Laimer"
       ],
       "excitementScore": 56.2,
+      "preTournamentScore": 56.2,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 7.5,
@@ -914,6 +1166,8 @@
         "Antoine Semenyo"
       ],
       "excitementScore": 56.2,
+      "preTournamentScore": 56.2,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 8.5,
@@ -921,6 +1175,40 @@
         "starPowerScore": 7.5,
         "competitiveBalance": 1.48,
         "matchImportance": 5,
+        "rivalryScore": 5
+      }
+    },
+    {
+      "matchId": 81,
+      "stage": "Round of 32",
+      "homeTeam": "United States",
+      "awayTeam": "Bosnia and Herzegovina",
+      "homeTeamKey": "united states",
+      "awayTeamKey": "bosnia",
+      "matchImportance": 6,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-07-02T00:00:00Z",
+      "homeTeamName": "United States",
+      "awayTeamName": "Bosnia and Herzegovina",
+      "homeElo": 1726,
+      "awayElo": 1595,
+      "homeStarPower": 7,
+      "awayStarPower": 5,
+      "starPlayers": [
+        "Christian Pulisic",
+        "Edin Dzeko"
+      ],
+      "whyWatch": "",
+      "excitementScore": 56.2,
+      "preTournamentScore": 57.2,
+      "tournamentFormScore": 55.6,
+      "watchTier": "Background watch",
+      "scoreBreakdown": {
+        "attackingScore": 5.15,
+        "chaosScore": 4.49,
+        "starPowerScore": 6.0,
+        "competitiveBalance": 7.82,
+        "matchImportance": 6,
         "rivalryScore": 5
       }
     },
@@ -946,6 +1234,8 @@
         "Hannibal Mejri"
       ],
       "excitementScore": 56.1,
+      "preTournamentScore": 56.1,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 5.17,
@@ -982,6 +1272,8 @@
         "Yoanne Wissa"
       ],
       "excitementScore": 56.0,
+      "preTournamentScore": 56.0,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 7.8,
@@ -1016,6 +1308,8 @@
         "Chris Wood"
       ],
       "excitementScore": 55.9,
+      "preTournamentScore": 55.9,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 10,
@@ -1051,6 +1345,8 @@
         "Achraf Hakimi"
       ],
       "excitementScore": 55.5,
+      "preTournamentScore": 55.5,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 5.83,
@@ -1086,6 +1382,8 @@
         "Musa Al-Taamari"
       ],
       "excitementScore": 55.4,
+      "preTournamentScore": 55.4,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 8.0,
@@ -1106,6 +1404,9 @@
       "rivalryScore": 5,
       "whyWatch": "A draw suit both teams, as Scotland would finish with four points and Brazil with five points. The Tartan Army would likely finish as one of the top third-placed teams. Brazil, whether they finish top or second in the group, will face a team from Group F. One thing to watch for is whether Neymar will make his much anticipated return.",
       "kickoffUTC": "2026-06-24T22:00:00Z",
+      "status": "completed",
+      "finalScore": "0-3",
+      "actualExcitementScore": null,
       "homeTeamName": "Scotland",
       "awayTeamName": "Brazil",
       "homeElo": 1782,
@@ -1120,6 +1421,8 @@
         "Vinicius Junior"
       ],
       "excitementScore": 55.4,
+      "preTournamentScore": 55.4,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 5.83,
@@ -1154,6 +1457,8 @@
         "Riyad Mahrez"
       ],
       "excitementScore": 55.1,
+      "preTournamentScore": 55.1,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 6.88,
@@ -1189,6 +1494,8 @@
         "Scott McTominay"
       ],
       "excitementScore": 55.0,
+      "preTournamentScore": 55.0,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 7.0,
@@ -1209,6 +1516,9 @@
       "rivalryScore": 3,
       "whyWatch": "Wikipedia's definition of dead rubber: \"a term used in sporting parlance to describe a match in a series where the series result has already been decided by earlier matches.\"",
       "kickoffUTC": "2026-06-26T02:00:00Z",
+      "status": "completed",
+      "finalScore": "3-2",
+      "actualExcitementScore": null,
       "homeTeamName": "Turkey",
       "awayTeamName": "United States",
       "homeElo": 1910,
@@ -1221,6 +1531,8 @@
         "Christian Pulisic"
       ],
       "excitementScore": 55.0,
+      "preTournamentScore": 55.0,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 7.17,
@@ -1229,6 +1541,41 @@
         "competitiveBalance": 6.93,
         "matchImportance": 1,
         "rivalryScore": 3
+      }
+    },
+    {
+      "matchId": 88,
+      "stage": "Round of 32",
+      "homeTeam": "Australia",
+      "awayTeam": "Egypt",
+      "homeTeamKey": "australia",
+      "awayTeamKey": "egypt",
+      "matchImportance": 5,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-07-03T18:00:00Z",
+      "homeTeamName": "Australia",
+      "awayTeamName": "Egypt",
+      "homeElo": 1777,
+      "awayElo": 1696,
+      "homeStarPower": 5,
+      "awayStarPower": 7,
+      "starPlayers": [
+        "Jackson Irvine",
+        "Mohamed Salah",
+        "Omar Marmoush"
+      ],
+      "whyWatch": "",
+      "excitementScore": 54.9,
+      "preTournamentScore": 54.9,
+      "tournamentFormScore": null,
+      "watchTier": "Background watch",
+      "scoreBreakdown": {
+        "attackingScore": 6.82,
+        "chaosScore": 1.42,
+        "starPowerScore": 6.0,
+        "competitiveBalance": 8.65,
+        "matchImportance": 5,
+        "rivalryScore": 5
       }
     },
     {
@@ -1241,6 +1588,9 @@
       "rivalryScore": 5,
       "whyWatch": "Mexico already clinched top spot of their group and gets to stay home for the first two games of the knockout stage should they make it that far. Czechia needs to win as a draw would only leave them with two points, which won't be enough to make it through.",
       "kickoffUTC": "2026-06-25T01:00:00Z",
+      "status": "completed",
+      "finalScore": "0-3",
+      "actualExcitementScore": null,
       "homeTeamName": "Czechia",
       "awayTeamName": "Mexico",
       "homeElo": 1740,
@@ -1254,6 +1604,8 @@
         "Gilberto Mora"
       ],
       "excitementScore": 54.5,
+      "preTournamentScore": 54.5,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 6.5,
@@ -1288,6 +1640,8 @@
         "Ronwen Williams"
       ],
       "excitementScore": 54.4,
+      "preTournamentScore": 54.4,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 5.83,
@@ -1308,6 +1662,9 @@
       "rivalryScore": 4,
       "whyWatch": "Tunisia has been eliminated and is playing for pride. The Netherlands seemed to have found an attacking combination that works with the trio of Cody Gakpo, Brian Brobbey, and Crysencio Summerville (or Donyell Malen) wreaking havoc in the win against Sweden. Depending on the outcomes in other groups, the Netherlands will aim to win the group and land in the softer side of the bracket (possibly avoiding playing Group C winner, Brazil in the Round of 32 and either France or Norway in the Round of 16)",
       "kickoffUTC": "2026-06-25T23:00:00Z",
+      "status": "completed",
+      "finalScore": "1-3",
+      "actualExcitementScore": null,
       "homeTeamName": "Tunisia",
       "awayTeamName": "Netherlands",
       "homeElo": 1628,
@@ -1321,6 +1678,8 @@
         "Virgil van Dijk"
       ],
       "excitementScore": 54.3,
+      "preTournamentScore": 54.3,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 8.67,
@@ -1341,6 +1700,9 @@
       "rivalryScore": 5,
       "whyWatch": "After earning their first win in World Cup, Egyp is now poised to go through to the knockout stage, potentially as a group winner if they beat Iran. Iran could also make it through with a draw depending on result elsewhere.",
       "kickoffUTC": "2026-06-27T03:00:00Z",
+      "status": "completed",
+      "finalScore": "1-1",
+      "actualExcitementScore": null,
       "homeTeamName": "Egypt",
       "awayTeamName": "Iran",
       "homeElo": 1696,
@@ -1353,6 +1715,8 @@
         "Mehdi Taremi"
       ],
       "excitementScore": 54.2,
+      "preTournamentScore": 54.2,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 6.5,
@@ -1388,6 +1752,8 @@
         "Alphonso Davies"
       ],
       "excitementScore": 54.1,
+      "preTournamentScore": 54.1,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 8.0,
@@ -1408,6 +1774,9 @@
       "rivalryScore": 5,
       "whyWatch": "Cura\u00e7ao have a very slim hope of progressing after a creditable 0-0 draw against Ecuador. They will need to defeat Ivory Coast with a healthy margin (they are currently on -6 goal difference). Ivory Coast has enough attacking threat and were undone at the end by Germany, and will be determined to make it through the group for the first time in their history.",
       "kickoffUTC": "2026-06-25T20:00:00Z",
+      "status": "completed",
+      "finalScore": "0-2",
+      "actualExcitementScore": null,
       "homeTeamName": "Cura\u00e7ao",
       "awayTeamName": "Ivory Coast",
       "homeElo": 1434,
@@ -1422,6 +1791,8 @@
         "Nicolas Pepe"
       ],
       "excitementScore": 54.1,
+      "preTournamentScore": 54.1,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 8.0,
@@ -1456,6 +1827,8 @@
         "Edin Dzeko"
       ],
       "excitementScore": 53.2,
+      "preTournamentScore": 53.2,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 7.33,
@@ -1492,6 +1865,8 @@
         "Son Heung-min"
       ],
       "excitementScore": 53.0,
+      "preTournamentScore": 53.0,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 5.75,
@@ -1528,6 +1903,8 @@
         "Ayase Ueda"
       ],
       "excitementScore": 53.0,
+      "preTournamentScore": 53.0,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 8.0,
@@ -1564,6 +1941,8 @@
         "Achraf Hakimi"
       ],
       "excitementScore": 52.5,
+      "preTournamentScore": 52.5,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 4.33,
@@ -1601,6 +1980,8 @@
         "Riyad Mahrez"
       ],
       "excitementScore": 52.5,
+      "preTournamentScore": 52.5,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 6.38,
@@ -1638,6 +2019,8 @@
         "Salem Al-Dawsari"
       ],
       "excitementScore": 52.5,
+      "preTournamentScore": 52.5,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 4.73,
@@ -1673,6 +2056,8 @@
         "Julio Enciso"
       ],
       "excitementScore": 52.2,
+      "preTournamentScore": 52.2,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 4.5,
@@ -1693,6 +2078,9 @@
       "rivalryScore": 5,
       "whyWatch": "When asked about possibly playing for a draw if the score remains goalless with 10 minutes left, Socceroos defender, Jason Geria said that \"It's not in our nature to play for a draw\". If his words are anything to go by, expect Australia to seek a win. Paraguay must avoid defeat as their goal difference might not be good enough to see them through with three points.",
       "kickoffUTC": "2026-06-26T02:00:00Z",
+      "status": "completed",
+      "finalScore": "0-0",
+      "actualExcitementScore": null,
       "homeTeamName": "Paraguay",
       "awayTeamName": "Australia",
       "homeElo": 1833,
@@ -1705,6 +2093,8 @@
         "Jackson Irvine"
       ],
       "excitementScore": 51.3,
+      "preTournamentScore": 51.3,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 5.3,
@@ -1712,6 +2102,40 @@
         "starPowerScore": 5.5,
         "competitiveBalance": 9.07,
         "matchImportance": 5,
+        "rivalryScore": 5
+      }
+    },
+    {
+      "matchId": 73,
+      "stage": "Round of 32",
+      "homeTeam": "South Africa",
+      "awayTeam": "Canada",
+      "homeTeamKey": "south africa",
+      "awayTeamKey": "canada",
+      "matchImportance": 6,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-06-28T19:00:00Z",
+      "homeTeamName": "South Africa",
+      "awayTeamName": "Canada",
+      "homeElo": 1518,
+      "awayElo": 1788,
+      "homeStarPower": 5,
+      "awayStarPower": 5,
+      "starPlayers": [
+        "Ronwen Williams",
+        "Alphonso Davies"
+      ],
+      "whyWatch": "",
+      "excitementScore": 51.3,
+      "preTournamentScore": 50.1,
+      "tournamentFormScore": 51.9,
+      "watchTier": "Background watch",
+      "scoreBreakdown": {
+        "attackingScore": 5.81,
+        "chaosScore": 3.05,
+        "starPowerScore": 5.0,
+        "competitiveBalance": 5.5,
+        "matchImportance": 6,
         "rivalryScore": 5
       }
     },
@@ -1740,6 +2164,8 @@
         "Edin Dzeko"
       ],
       "excitementScore": 51.1,
+      "preTournamentScore": 51.1,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 7.0,
@@ -1771,6 +2197,8 @@
         "Michael Murillo"
       ],
       "excitementScore": 50.7,
+      "preTournamentScore": 50.7,
+      "tournamentFormScore": null,
       "watchTier": "Background watch",
       "scoreBreakdown": {
         "attackingScore": 7.0,
@@ -1807,6 +2235,8 @@
         "Moises Caicedo"
       ],
       "excitementScore": 49.6,
+      "preTournamentScore": 49.6,
+      "tournamentFormScore": null,
       "watchTier": "Skippable unless you support them",
       "scoreBreakdown": {
         "attackingScore": 4.67,
@@ -1838,6 +2268,8 @@
         "Abdukodir Khusanov"
       ],
       "excitementScore": 49.4,
+      "preTournamentScore": 49.4,
+      "tournamentFormScore": null,
       "watchTier": "Skippable unless you support them",
       "scoreBreakdown": {
         "attackingScore": 5.12,
@@ -1872,6 +2304,8 @@
         "Bukayo Saka"
       ],
       "excitementScore": 49.0,
+      "preTournamentScore": 49.0,
+      "tournamentFormScore": null,
       "watchTier": "Skippable unless you support them",
       "scoreBreakdown": {
         "attackingScore": 7.83,
@@ -1892,6 +2326,9 @@
       "rivalryScore": 5,
       "whyWatch": "Iraq is not mathematically eliminated just yet, but they will need to win by a significant margin (they currently have a -6 goal difference) and hope for favors elsewhere. Senegal is also in the same boat, they need to win at all cost to avoid elimination.",
       "kickoffUTC": "2026-06-26T19:00:00Z",
+      "status": "completed",
+      "finalScore": "0-5",
+      "actualExcitementScore": null,
       "homeTeamName": "Senegal",
       "awayTeamName": "Iraq",
       "homeElo": 1867,
@@ -1906,6 +2343,8 @@
         "Aymen Hussein"
       ],
       "excitementScore": 48.8,
+      "preTournamentScore": 48.8,
+      "tournamentFormScore": null,
       "watchTier": "Skippable unless you support them",
       "scoreBreakdown": {
         "attackingScore": 5.88,
@@ -1922,8 +2361,8 @@
       "awayTeam": "Argentina",
       "homeTeamKey": "jordan",
       "awayTeamKey": "argentina",
-      "matchImportance": 2,
-      "rivalryScore": 3,
+      "matchImportance": 1,
+      "rivalryScore": 2,
       "whyWatch": "Argentina is already through as group winner and will take on the runner-up of Group H in the next round. Will they give Messi a rest? Or will they give him more opportunities to stretch his lead as the World Cup's all-time leading goalscorer?",
       "kickoffUTC": "2026-06-28T02:00:00Z",
       "homeTeamName": "Jordan",
@@ -1940,14 +2379,16 @@
         "Lionel Messi"
       ],
       "excitementScore": 48.8,
+      "preTournamentScore": 48.8,
+      "tournamentFormScore": null,
       "watchTier": "Skippable unless you support them",
       "scoreBreakdown": {
         "attackingScore": 6.17,
         "chaosScore": 2.25,
         "starPowerScore": 6.5,
         "competitiveBalance": 2.77,
-        "matchImportance": 2,
-        "rivalryScore": 3
+        "matchImportance": 1,
+        "rivalryScore": 2
       }
     },
     {
@@ -1974,6 +2415,8 @@
         "Luis Diaz"
       ],
       "excitementScore": 48.6,
+      "preTournamentScore": 48.6,
+      "tournamentFormScore": null,
       "watchTier": "Skippable unless you support them",
       "scoreBreakdown": {
         "attackingScore": 5.48,
@@ -1994,6 +2437,9 @@
       "rivalryScore": 5,
       "whyWatch": "Truly the cinderella story of the tournament so far, can Cape Verde stave off elimination and continue their dreamlike journey? Avoid defeat against Saudi Arabia and they potentially will make it to the knockout stage. They will be supported by half a million Cape Verdeans back home and neutrals everywhere in the world.",
       "kickoffUTC": "2026-06-27T00:00:00Z",
+      "status": "completed",
+      "finalScore": "0-0",
+      "actualExcitementScore": null,
       "homeTeamName": "Cape Verde",
       "awayTeamName": "Saudi Arabia",
       "homeElo": 1578,
@@ -2005,6 +2451,8 @@
         "Salem Al-Dawsari"
       ],
       "excitementScore": 48.1,
+      "preTournamentScore": 48.1,
+      "tournamentFormScore": null,
       "watchTier": "Skippable unless you support them",
       "scoreBreakdown": {
         "attackingScore": 4.0,
@@ -2025,6 +2473,9 @@
       "rivalryScore": 5,
       "whyWatch": "South Korea is in a good position to qualify, needing only to avoid defeat, which will see them through either as a runner-up or in third place. South Africa needs to show more attacking intent than their previous two games if they are to have any chance of progressing.",
       "kickoffUTC": "2026-06-25T01:00:00Z",
+      "status": "completed",
+      "finalScore": "1-0",
+      "actualExcitementScore": null,
       "homeTeamName": "South Africa",
       "awayTeamName": "South Korea",
       "homeElo": 1518,
@@ -2036,6 +2487,8 @@
         "Son Heung-min"
       ],
       "excitementScore": 48.0,
+      "preTournamentScore": 48.0,
+      "tournamentFormScore": null,
       "watchTier": "Skippable unless you support them",
       "scoreBreakdown": {
         "attackingScore": 5.08,
@@ -2074,6 +2527,8 @@
         "Leandro Bacuna"
       ],
       "excitementScore": 47.2,
+      "preTournamentScore": 47.2,
+      "tournamentFormScore": null,
       "watchTier": "Skippable unless you support them",
       "scoreBreakdown": {
         "attackingScore": 8.42,
@@ -2110,6 +2565,8 @@
         "Wilson Isidor"
       ],
       "excitementScore": 47.0,
+      "preTournamentScore": 47.0,
+      "tournamentFormScore": null,
       "watchTier": "Skippable unless you support them",
       "scoreBreakdown": {
         "attackingScore": 5.5,
@@ -2147,6 +2604,8 @@
         "Aymen Hussein"
       ],
       "excitementScore": 46.6,
+      "preTournamentScore": 46.6,
+      "tournamentFormScore": null,
       "watchTier": "Skippable unless you support them",
       "scoreBreakdown": {
         "attackingScore": 7.22,
@@ -2181,6 +2640,8 @@
         "Yoanne Wissa"
       ],
       "excitementScore": 46.4,
+      "preTournamentScore": 46.4,
+      "tournamentFormScore": null,
       "watchTier": "Skippable unless you support them",
       "scoreBreakdown": {
         "attackingScore": 4.97,
@@ -2188,6 +2649,43 @@
         "starPowerScore": 6.0,
         "competitiveBalance": 4.5,
         "matchImportance": 5,
+        "rivalryScore": 5
+      }
+    },
+    {
+      "matchId": 86,
+      "stage": "Round of 32",
+      "homeTeam": "Argentina",
+      "awayTeam": "Cape Verde",
+      "homeTeamKey": "argentina",
+      "awayTeamKey": "cape verde",
+      "matchImportance": 9,
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-07-03T22:00:00Z",
+      "homeTeamName": "Argentina",
+      "awayTeamName": "Cape Verde",
+      "homeElo": 2114,
+      "awayElo": 1578,
+      "homeStarPower": 9,
+      "awayStarPower": 3,
+      "starPlayers": [
+        "Julian Alvarez",
+        "Enzo Fernandez",
+        "Lautaro Martinez",
+        "Lionel Messi",
+        "Dailon Livramento"
+      ],
+      "whyWatch": "",
+      "excitementScore": 46.0,
+      "preTournamentScore": 46.0,
+      "tournamentFormScore": null,
+      "watchTier": "Skippable unless you support them",
+      "scoreBreakdown": {
+        "attackingScore": 5.5,
+        "chaosScore": 2.33,
+        "starPowerScore": 6.0,
+        "competitiveBalance": 1.07,
+        "matchImportance": 9,
         "rivalryScore": 5
       }
     },
@@ -2217,6 +2715,8 @@
         "Ronwen Williams"
       ],
       "excitementScore": 45.6,
+      "preTournamentScore": 45.6,
+      "tournamentFormScore": null,
       "watchTier": "Skippable unless you support them",
       "scoreBreakdown": {
         "attackingScore": 5.0,
@@ -2251,6 +2751,8 @@
         "Akram Afif"
       ],
       "excitementScore": 45.5,
+      "preTournamentScore": 45.5,
+      "tournamentFormScore": null,
       "watchTier": "Skippable unless you support them",
       "scoreBreakdown": {
         "attackingScore": 3.67,
@@ -2271,6 +2773,9 @@
       "rivalryScore": 5,
       "whyWatch": "Haiti is simply playing for pride, hoping to avoid a winless campaign. Morocco is in a similar situation with Brazil, they don't necessarily need to win, and they won't know which Group F team they will be facing in the next round.",
       "kickoffUTC": "2026-06-24T22:00:00Z",
+      "status": "completed",
+      "finalScore": "4-2",
+      "actualExcitementScore": null,
       "homeTeamName": "Morocco",
       "awayTeamName": "Haiti",
       "homeElo": 1827,
@@ -2282,6 +2787,8 @@
         "Wilson Isidor"
       ],
       "excitementScore": 45.1,
+      "preTournamentScore": 45.1,
+      "tournamentFormScore": null,
       "watchTier": "Skippable unless you support them",
       "scoreBreakdown": {
         "attackingScore": 5.5,
@@ -2318,6 +2825,8 @@
         "Federico Valverde"
       ],
       "excitementScore": 45.0,
+      "preTournamentScore": 45.0,
+      "tournamentFormScore": null,
       "watchTier": "Skippable unless you support them",
       "scoreBreakdown": {
         "attackingScore": 3.33,
@@ -2355,6 +2864,8 @@
         "Dailon Livramento"
       ],
       "excitementScore": 45.0,
+      "preTournamentScore": 45.0,
+      "tournamentFormScore": null,
       "watchTier": "Skippable unless you support them",
       "scoreBreakdown": {
         "attackingScore": 6.07,
@@ -2389,6 +2900,8 @@
         "Akram Afif"
       ],
       "excitementScore": 43.8,
+      "preTournamentScore": 43.8,
+      "tournamentFormScore": null,
       "watchTier": "Skippable unless you support them",
       "scoreBreakdown": {
         "attackingScore": 4.67,
@@ -2425,6 +2938,8 @@
         "Dailon Livramento"
       ],
       "excitementScore": 43.8,
+      "preTournamentScore": 43.8,
+      "tournamentFormScore": null,
       "watchTier": "Skippable unless you support them",
       "scoreBreakdown": {
         "attackingScore": 4.67,
@@ -2460,6 +2975,8 @@
         "Granit Xhaka"
       ],
       "excitementScore": 39.8,
+      "preTournamentScore": 39.8,
+      "tournamentFormScore": null,
       "watchTier": "Skippable unless you support them",
       "scoreBreakdown": {
         "attackingScore": 4.33,
@@ -2495,6 +3012,8 @@
         "Leandro Bacuna"
       ],
       "excitementScore": 39.1,
+      "preTournamentScore": 39.1,
+      "tournamentFormScore": null,
       "watchTier": "Skippable unless you support them",
       "scoreBreakdown": {
         "attackingScore": 6.0,
@@ -2506,124 +3025,17 @@
       }
     },
     {
-      "matchId": 73,
-      "stage": "Round of 32",
-      "homeTeam": "Runner-up Group A",
-      "awayTeam": "Runner-up Group B",
-      "homeTeamKey": "runner-up_group_a",
-      "awayTeamKey": "runner-up_group_b",
-      "matchImportance": 5,
-      "rivalryScore": 5,
-      "homeTeamName": "Runner-up Group A",
-      "awayTeamName": "Runner-up Group B",
-      "excitementScore": null,
-      "watchTier": "TBD",
-      "scoreBreakdown": null,
-      "starPlayers": [],
-      "whyWatch": "",
-      "status": "tbd"
-    },
-    {
-      "matchId": 74,
-      "stage": "Round of 32",
-      "homeTeam": "Winner Group E",
-      "awayTeam": "3rd Group A/B/C/D/F",
-      "homeTeamKey": "winner_group_e",
-      "awayTeamKey": "3rd_group_a/b/c/d/f",
-      "matchImportance": 5,
-      "rivalryScore": 5,
-      "homeTeamName": "Winner Group E",
-      "awayTeamName": "3rd Group A/B/C/D/F",
-      "excitementScore": null,
-      "watchTier": "TBD",
-      "scoreBreakdown": null,
-      "starPlayers": [],
-      "whyWatch": "",
-      "status": "tbd"
-    },
-    {
-      "matchId": 75,
-      "stage": "Round of 32",
-      "homeTeam": "Winner Group F",
-      "awayTeam": "Runner-up Group C",
-      "homeTeamKey": "winner_group_f",
-      "awayTeamKey": "runner-up_group_c",
-      "matchImportance": 5,
-      "rivalryScore": 5,
-      "homeTeamName": "Winner Group F",
-      "awayTeamName": "Runner-up Group C",
-      "excitementScore": null,
-      "watchTier": "TBD",
-      "scoreBreakdown": null,
-      "starPlayers": [],
-      "whyWatch": "",
-      "status": "tbd"
-    },
-    {
-      "matchId": 76,
-      "stage": "Round of 32",
-      "homeTeam": "Winner Group C",
-      "awayTeam": "Runner-up Group F",
-      "homeTeamKey": "winner_group_c",
-      "awayTeamKey": "runner-up_group_f",
-      "matchImportance": 5,
-      "rivalryScore": 5,
-      "homeTeamName": "Winner Group C",
-      "awayTeamName": "Runner-up Group F",
-      "excitementScore": null,
-      "watchTier": "TBD",
-      "scoreBreakdown": null,
-      "starPlayers": [],
-      "whyWatch": "",
-      "status": "tbd"
-    },
-    {
-      "matchId": 77,
-      "stage": "Round of 32",
-      "homeTeam": "Winner Group I",
-      "awayTeam": "3rd Group C/D/F/G/H",
-      "homeTeamKey": "winner_group_i",
-      "awayTeamKey": "3rd_group_c/d/f/g/h",
-      "matchImportance": 5,
-      "rivalryScore": 5,
-      "homeTeamName": "Winner Group I",
-      "awayTeamName": "3rd Group C/D/F/G/H",
-      "excitementScore": null,
-      "watchTier": "TBD",
-      "scoreBreakdown": null,
-      "starPlayers": [],
-      "whyWatch": "",
-      "status": "tbd"
-    },
-    {
-      "matchId": 78,
-      "stage": "Round of 32",
-      "homeTeam": "Runner-up Group E",
-      "awayTeam": "Runner-up Group I",
-      "homeTeamKey": "runner-up_group_e",
-      "awayTeamKey": "runner-up_group_i",
-      "matchImportance": 5,
-      "rivalryScore": 5,
-      "homeTeamName": "Runner-up Group E",
-      "awayTeamName": "Runner-up Group I",
-      "excitementScore": null,
-      "watchTier": "TBD",
-      "scoreBreakdown": null,
-      "starPlayers": [],
-      "whyWatch": "",
-      "status": "tbd"
-    },
-    {
       "matchId": 79,
       "stage": "Round of 32",
-      "homeTeam": "Winner Group A",
-      "awayTeam": "3rd Group C/E/F/H/I",
-      "homeTeamKey": "winner_group_a",
-      "awayTeamKey": "3rd_group_c/e/f/h/i",
+      "homeTeam": "Mexico",
+      "awayTeam": "3rd Group C/E",
+      "homeTeamKey": "mexico",
+      "awayTeamKey": "3rd_group_c/e",
       "matchImportance": 5,
       "rivalryScore": 5,
-      "homeTeamName": "Winner Group A",
-      "awayTeamName": "3rd Group C/E/F/H/I",
+      "kickoffUTC": "2026-07-01T02:00:00Z",
+      "homeTeamName": "Mexico",
+      "awayTeamName": "3rd Group C/E",
       "excitementScore": null,
       "watchTier": "TBD",
       "scoreBreakdown": null,
@@ -2635,31 +3047,14 @@
       "matchId": 80,
       "stage": "Round of 32",
       "homeTeam": "Winner Group L",
-      "awayTeam": "3rd Group E/H/I/J/K",
+      "awayTeam": "3rd Group I/J/K",
       "homeTeamKey": "winner_group_l",
-      "awayTeamKey": "3rd_group_e/h/i/j/k",
+      "awayTeamKey": "3rd_group_i/j/k",
       "matchImportance": 5,
       "rivalryScore": 5,
+      "kickoffUTC": "2026-07-01T16:00:00Z",
       "homeTeamName": "Winner Group L",
-      "awayTeamName": "3rd Group E/H/I/J/K",
-      "excitementScore": null,
-      "watchTier": "TBD",
-      "scoreBreakdown": null,
-      "starPlayers": [],
-      "whyWatch": "",
-      "status": "tbd"
-    },
-    {
-      "matchId": 81,
-      "stage": "Round of 32",
-      "homeTeam": "Winner Group D",
-      "awayTeam": "3rd Group B/E/F/I/J",
-      "homeTeamKey": "winner_group_d",
-      "awayTeamKey": "3rd_group_b/e/f/i/j",
-      "matchImportance": 5,
-      "rivalryScore": 5,
-      "homeTeamName": "Winner Group D",
-      "awayTeamName": "3rd Group B/E/F/I/J",
+      "awayTeamName": "3rd Group I/J/K",
       "excitementScore": null,
       "watchTier": "TBD",
       "scoreBreakdown": null,
@@ -2670,14 +3065,15 @@
     {
       "matchId": 82,
       "stage": "Round of 32",
-      "homeTeam": "Winner Group G",
-      "awayTeam": "3rd Group A/E/H/I/J",
-      "homeTeamKey": "winner_group_g",
-      "awayTeamKey": "3rd_group_a/e/h/i/j",
+      "homeTeam": "Belgium",
+      "awayTeam": "3rd Group A/I/J",
+      "homeTeamKey": "belgium",
+      "awayTeamKey": "3rd_group_a/i/j",
       "matchImportance": 5,
       "rivalryScore": 5,
-      "homeTeamName": "Winner Group G",
-      "awayTeamName": "3rd Group A/E/H/I/J",
+      "kickoffUTC": "2026-07-01T20:00:00Z",
+      "homeTeamName": "Belgium",
+      "awayTeamName": "3rd Group A/I/J",
       "excitementScore": null,
       "watchTier": "TBD",
       "scoreBreakdown": null,
@@ -2694,6 +3090,7 @@
       "awayTeamKey": "runner-up_group_l",
       "matchImportance": 5,
       "rivalryScore": 5,
+      "kickoffUTC": "2026-07-02T23:00:00Z",
       "homeTeamName": "Runner-up Group K",
       "awayTeamName": "Runner-up Group L",
       "excitementScore": null,
@@ -2706,13 +3103,14 @@
     {
       "matchId": 84,
       "stage": "Round of 32",
-      "homeTeam": "Winner Group H",
+      "homeTeam": "Spain",
       "awayTeam": "Runner-up Group J",
-      "homeTeamKey": "winner_group_h",
+      "homeTeamKey": "spain",
       "awayTeamKey": "runner-up_group_j",
       "matchImportance": 5,
       "rivalryScore": 5,
-      "homeTeamName": "Winner Group H",
+      "kickoffUTC": "2026-07-02T19:00:00Z",
+      "homeTeamName": "Spain",
       "awayTeamName": "Runner-up Group J",
       "excitementScore": null,
       "watchTier": "TBD",
@@ -2724,32 +3122,15 @@
     {
       "matchId": 85,
       "stage": "Round of 32",
-      "homeTeam": "Winner Group B",
-      "awayTeam": "3rd Group E/F/G/I/J",
-      "homeTeamKey": "winner_group_b",
-      "awayTeamKey": "3rd_group_e/f/g/i/j",
+      "homeTeam": "Switzerland",
+      "awayTeam": "3rd Group G/J",
+      "homeTeamKey": "switzerland",
+      "awayTeamKey": "3rd_group_g/j",
       "matchImportance": 5,
       "rivalryScore": 5,
-      "homeTeamName": "Winner Group B",
-      "awayTeamName": "3rd Group E/F/G/I/J",
-      "excitementScore": null,
-      "watchTier": "TBD",
-      "scoreBreakdown": null,
-      "starPlayers": [],
-      "whyWatch": "",
-      "status": "tbd"
-    },
-    {
-      "matchId": 86,
-      "stage": "Round of 32",
-      "homeTeam": "Winner Group J",
-      "awayTeam": "Runner-up Group H",
-      "homeTeamKey": "winner_group_j",
-      "awayTeamKey": "runner-up_group_h",
-      "matchImportance": 5,
-      "rivalryScore": 5,
-      "homeTeamName": "Winner Group J",
-      "awayTeamName": "Runner-up Group H",
+      "kickoffUTC": "2026-07-03T03:00:00Z",
+      "homeTeamName": "Switzerland",
+      "awayTeamName": "3rd Group G/J",
       "excitementScore": null,
       "watchTier": "TBD",
       "scoreBreakdown": null,
@@ -2761,31 +3142,14 @@
       "matchId": 87,
       "stage": "Round of 32",
       "homeTeam": "Winner Group K",
-      "awayTeam": "3rd Group D/E/I/J/L",
+      "awayTeam": "3rd Group E/I/L",
       "homeTeamKey": "winner_group_k",
-      "awayTeamKey": "3rd_group_d/e/i/j/l",
+      "awayTeamKey": "3rd_group_e/i/l",
       "matchImportance": 5,
       "rivalryScore": 5,
+      "kickoffUTC": "2026-07-04T01:30:00Z",
       "homeTeamName": "Winner Group K",
-      "awayTeamName": "3rd Group D/E/I/J/L",
-      "excitementScore": null,
-      "watchTier": "TBD",
-      "scoreBreakdown": null,
-      "starPlayers": [],
-      "whyWatch": "",
-      "status": "tbd"
-    },
-    {
-      "matchId": 88,
-      "stage": "Round of 32",
-      "homeTeam": "Runner-up Group D",
-      "awayTeam": "Runner-up Group G",
-      "homeTeamKey": "runner-up_group_d",
-      "awayTeamKey": "runner-up_group_g",
-      "matchImportance": 5,
-      "rivalryScore": 5,
-      "homeTeamName": "Runner-up Group D",
-      "awayTeamName": "Runner-up Group G",
+      "awayTeamName": "3rd Group E/I/L",
       "excitementScore": null,
       "watchTier": "TBD",
       "scoreBreakdown": null,

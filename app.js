@@ -58,6 +58,7 @@ async function loadData() {
   console.log(fixtures[0]);
   populateDropdown();
   renderTopMatches();
+  renderTopKnockoutStageMatches();
   renderKnockoutStage();
   renderMatch(chronologicalFixtures[0]);
 }
@@ -135,7 +136,12 @@ function renderTopMatches() {
 
   topMatchesContainer.innerHTML = "";
 
-  topFixtures.slice(0, 10).forEach((fixture, index) => {
+  const groupStageTopFixtures = fixtures
+    .filter((fixture) => fixture.stage === "Group Stage" || !fixture.stage)
+    .filter((fixture) => fixture.excitementScore !== null)
+    .sort((a, b) => b.excitementScore - a.excitementScore);
+
+  groupStageTopFixtures.slice(0, 10).forEach((fixture, index) => {
     const resultText =
       fixture.status === "completed" && fixture.finalScore
         ? `FT ${fixture.finalScore}`
@@ -168,6 +174,63 @@ function renderTopMatches() {
   });
 }
 
+function renderTopKnockoutStageMatches() {
+  const topKnockoutStageMatchesContainer = document.getElementById(
+    "top-knockout-matches",
+  );
+
+  topKnockoutStageMatchesContainer.innerHTML = "";
+
+  const knockoutStages = [
+    "Round of 32",
+    "Round of 16",
+    "Quarterfinals",
+    "Semifinals",
+    "Third Place Playoff",
+    "Final"
+  ]
+
+  const knockoutTopFixtures = fixtures
+    .filter(
+      (fixture) =>
+        knockoutStages.includes(fixture.stage) &&
+        fixture.excitementScore !== null,
+    )
+    .sort((a, b) => b.excitementScore - a.excitementScore);
+
+  knockoutTopFixtures.slice(0, 5).forEach((fixture, index) => {
+    const resultText =
+      fixture.status === "completed" && fixture.finalScore
+        ? `FT ${fixture.finalScore}`
+        : fixture.watchTier;
+
+    const item = document.createElement("button");
+
+    item.classList.add("top-match-item");
+    item.value = fixture.matchId;
+
+    item.innerHTML = `
+    <span class="top-match-rank">#${index + 1}</span>
+    <span class="top-match-name">
+      ${fixture.homeTeamName} vs ${fixture.awayTeamName}
+    </span>
+    <span class="top-match-meta">
+      ${resultText}
+    </span>
+    <span class="top-match-score">${fixture.excitementScore}</span>
+    `;
+
+    item.addEventListener("click", () => {
+      renderMatch(fixture);
+
+      const select = document.getElementById("fixture-select");
+      select.value = fixture.matchId;
+    });
+
+    topKnockoutStageMatchesContainer.appendChild(item);
+  });
+}
+
 function renderMatch(selectedFixture) {
   if (!selectedFixture) return;
   const matchName = document.getElementById("match-name");
@@ -181,10 +244,12 @@ function renderMatch(selectedFixture) {
   const calendarButton = document.getElementById("calendar-button");
 
   matchName.textContent = `${selectedFixture.homeTeamName} vs ${selectedFixture.awayTeamName}`;
-  score.textContent = `Excitement Score: ${selectedFixture.excitementScore}`;
+  score.textContent = selectedFixture.excitementScore
+    ? `Excitement Score: ${selectedFixture.excitementScore}`
+    : "Excitement Score: TBD";
   watchTier.textContent = `Watchability: ${selectedFixture.watchTier}`;
   starPlayers.textContent = `${selectedFixture.starPlayers?.join(", ") || "Coming Soon"}`;
-  whyWatch.textContent = `${selectedFixture.whyWatch || "Check back after 6/23"}`;
+  whyWatch.textContent = `${selectedFixture.whyWatch || "Check back after 6/27"}`;
 
   if (selectedFixture.kickoffUTC) {
     const kickoff = new Date(selectedFixture.kickoffUTC);
@@ -250,16 +315,14 @@ function renderMatch(selectedFixture) {
 
   if (selectedFixture.status === "completed") {
     finalScore.textContent = `Final Score: ${selectedFixture.finalScore}`;
-    //actualExcitement.textContent = `Actual Excitement: ${selectedFixture.actualExcitementScore}`;
   } else {
     finalScore.textContent = "Final Score: Not played yet";
-    //actualExcitement.textContent = "TBC";
   }
 }
 
 function renderKnockoutStage() {
   const roundOf32 = fixtures.filter(
-    fixture => fixture.stage === "Round of 32"
+    (fixture) => fixture.stage === "Round of 32",
   );
   const roundOf16 = fixtures.filter(
     (fixture) => fixture.stage === "Round of 16",
@@ -276,22 +339,51 @@ function renderKnockoutCards(stageFixtures, containerId) {
 
   container.innerHTML = "";
 
-  stageFixtures.forEach((fixture) => {
+  const sortedStageFixtures = [...stageFixtures].sort((a, b) => {
+    return new Date(a.kickoffUTC) - new Date(b.kickoffUTC);
+  });
+
+  sortedStageFixtures.forEach((fixture) => {
     const card = document.createElement("div");
     card.classList.add("knockout-card");
 
+    let kickoffText = "Kickoff TBA";
+
+    if (fixture.kickoffUTC) {
+      const kickoff = new Date(fixture.kickoffUTC);
+
+      kickoffText = kickoff.toLocaleString([], {
+        weekday: "short",
+        month: "short",
+        day: "numeric",
+        hour: "numeric",
+        minute: "2-digit",
+      });
+    }
+
     card.innerHTML = `
+    <div class="knockout-kickoff">
+    ${kickoffText}
+    </div>
+
     <div class="knockout-match-title">
     ${fixture.homeTeamName} <br />vs <br />${fixture.awayTeamName}
     </div>
 
     <div class="knockout-status">
     ${fixture.watchTier || "TBD"}
-    <div>
-    `
+    </div>
+    `;
+
+    card.addEventListener("click", () => {
+      renderMatch(fixture);
+      document.getElementById("match-details").scrollIntoView({
+        behavior: "smooth",
+      });
+    });
 
     container.appendChild(card);
-  })
+  });
 }
 
 loadData();

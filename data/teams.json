@@ -8,7 +8,15 @@
     "eloRank": 1,
     "starPowerScore": 9,
     "starPlayers": ["Dani Olmo", "Pedri", "Rodri", "Lamine Yamal"],
-    "rivalryScoreDefault": 5
+    "rivalryScoreDefault": 5,
+    "wcGoalsForPerMatch": 1.66,
+    "wcGoalsAgainstPerMatch": 0.0,
+    "wcShotsPerMatch": 18.33,
+    "wcShotsOnTargetPerMatch": 5.33,
+    "wcShotsAgainstPerMatch": 4.66,
+    "wcShotsOnTargetAgainstPerMatch": 1.0,
+    "wcXg": 1.75,
+    "wcXgA": 0.18
   },
   "germany": {
     "teamName": "Germany",
@@ -24,7 +32,15 @@
       "Jamal Musiala",
       "Florian Wirtz"
     ],
-    "rivalryScoreDefault": 5
+    "rivalryScoreDefault": 5,
+    "wcGoalsForPerMatch": 3.33,
+    "wcGoalsAgainstPerMatch": 1.33,
+    "wcShotsPerMatch": 17.66,
+    "wcShotsOnTargetPerMatch": 7.33,
+    "wcShotsAgainstPerMatch": 8.0,
+    "wcShotsOnTargetAgainstPerMatch": 2.33,
+    "wcXg": 2.25,
+    "wcXgA": 0.96
   },
   "france": {
     "teamName": "France",
@@ -40,7 +56,15 @@
       "Kylian Mbappe",
       "Michael Olise"
     ],
-    "rivalryScoreDefault": 5
+    "rivalryScoreDefault": 5,
+    "wcGoalsForPerMatch": 3.33,
+    "wcGoalsAgainstPerMatch": 0.66,
+    "wcShotsPerMatch": 16.0,
+    "wcShotsOnTargetPerMatch": 7.33,
+    "wcShotsAgainstPerMatch": 6.66,
+    "wcShotsOnTargetAgainstPerMatch": 2.0,
+    "wcXg": 1.98,
+    "wcXgA": 0.96
   },
   "england": {
     "teamName": "England",
@@ -78,7 +102,15 @@
     "eloRank": 5,
     "starPowerScore": 8,
     "starPlayers": ["Gabriel Magalhaes", "Raphinha", "Vinicius Junior"],
-    "rivalryScoreDefault": 5
+    "rivalryScoreDefault": 5,
+    "wcGoalsForPerMatch": 2.33,
+    "wcGoalsAgainstPerMatch": 0.33,
+    "wcShotsPerMatch": 13.66,
+    "wcShotsOnTargetPerMatch": 6.33,
+    "wcShotsAgainstPerMatch": 11.66,
+    "wcShotsOnTargetAgainstPerMatch": 3.66,
+    "wcXg": 2.45,
+    "wcXgA": 0.88
   },
   "argentina": {
     "teamName": "Argentina",
@@ -116,7 +148,15 @@
     "eloRank": 8,
     "starPowerScore": 7,
     "starPlayers": ["Cody Gakpo", "Frenkie de Jong", "Virgil van Dijk"],
-    "rivalryScoreDefault": 5
+    "rivalryScoreDefault": 5,
+    "wcGoalsForPerMatch": 3.3,
+    "wcGoalsAgainstPerMatch": 1.3,
+    "wcShotsPerMatch": 13.3,
+    "wcShotsOnTargetPerMatch": 6.7,
+    "wcShotsAgainstPerMatch": 12.0,
+    "wcShotsOnTargetAgainstPerMatch": 5.0,
+    "wcXg": 1.75,
+    "wcXgA": 0.74
   },
   "belgium": {
     "teamName": "Belgium",
@@ -127,7 +167,15 @@
     "eloRank": 15,
     "starPowerScore": 7,
     "starPlayers": ["Kevin De Bruyne", "Jeremy Doku", "Romelu Lukaku"],
-    "rivalryScoreDefault": 5
+    "rivalryScoreDefault": 5,
+    "wcGoalsForPerMatch": 2.0,
+    "wcGoalsAgainstPerMatch": 0.66,
+    "wcShotsPerMatch": 24.33,
+    "wcShotsOnTargetPerMatch": 6.66,
+    "wcShotsAgainstPerMatch": 9.0,
+    "wcShotsOnTargetAgainstPerMatch": 2.66,
+    "wcXg": 2.27,
+    "wcXgA": 0.65
   },
   "colombia": {
     "teamName": "Colombia",
@@ -149,7 +197,15 @@
     "eloRank": 9,
     "starPowerScore": 7,
     "starPlayers": ["Moises Caicedo"],
-    "rivalryScoreDefault": 5
+    "rivalryScoreDefault": 5,
+    "wcGoalsForPerMatch": 0.66,
+    "wcGoalsAgainstPerMatch": 0.66,
+    "wcShotsPerMatch": 15.33,
+    "wcShotsOnTargetPerMatch": 6.33,
+    "wcShotsAgainstPerMatch": 12.0,
+    "wcShotsOnTargetAgainstPerMatch": 3.33,
+    "wcXg": 1.70,
+    "wcXgA": 0.89
   },
   "mexico": {
     "teamName": "Mexico",
@@ -160,7 +216,15 @@
     "eloRank": 18,
     "starPowerScore": 6,
     "starPlayers": ["Santiago Gimenez", "Raul Jimenez", "Gilberto Mora"],
-    "rivalryScoreDefault": 5
+    "rivalryScoreDefault": 5,
+    "wcGoalsForPerMatch": 2.0,
+    "wcGoalsAgainstPerMatch": 0.0,
+    "wcShotsPerMatch": 11.66,
+    "wcShotsOnTargetPerMatch": 4.33,
+    "wcShotsAgainstPerMatch": 8.33,
+    "wcShotsOnTargetAgainstPerMatch": 1.66,
+    "wcXg": 1.24,
+    "wcXgA": 0.50
   },
   "south africa": {
     "teamName": "South Africa",
@@ -171,7 +235,15 @@
     "eloRank": 80,
     "starPowerScore": 5,
     "starPlayers": ["Ronwen Williams"],
-    "rivalryScoreDefault": 5
+    "rivalryScoreDefault": 5,
+    "wcGoalsForPerMatch": 0.66,
+    "wcGoalsAgainstPerMatch": 1.0,
+    "wcShotsPerMatch": 11.0,
+    "wcShotsOnTargetPerMatch": 3.3,
+    "wcShotsAgainstPerMatch": 12.66,
+    "wcShotsOnTargetAgainstPerMatch": 3.3,
+    "wcXg": 0.87,
+    "wcXgA": 1.12
   },
   "south korea": {
     "teamName": "South Korea",
@@ -204,7 +276,15 @@
     "eloRank": 25,
     "starPowerScore": 5,
     "starPlayers": ["Alphonso Davies"],
-    "rivalryScoreDefault": 5
+    "rivalryScoreDefault": 5,
+    "wcGoalsForPerMatch": 2.66,
+    "wcGoalsAgainstPerMatch": 1.0,
+    "wcShotsPerMatch": 19.33,
+    "wcShotsOnTargetPerMatch": 7.0,
+    "wcShotsAgainstPerMatch": 5.33,
+    "wcShotsOnTargetAgainstPerMatch": 2.33,
+    "wcXg": 2.50,
+    "wcXgA": 0.76
   },
   "bosnia": {
     "teamName": "Bosnia and Herzegovina",
@@ -215,7 +295,15 @@
     "eloRank": 65,
     "starPowerScore": 5,
     "starPlayers": ["Edin Dzeko"],
-    "rivalryScoreDefault": 5
+    "rivalryScoreDefault": 5,
+    "wcGoalsForPerMatch": 1.66,
+    "wcGoalsAgainstPerMatch": 2.0,
+    "wcShotsPerMatch": 9.0,
+    "wcShotsOnTargetPerMatch": 3.66,
+    "wcShotsAgainstPerMatch": 11.66,
+    "wcShotsOnTargetAgainstPerMatch": 4.66,
+    "wcXg": 0.62,
+    "wcXgA": 1.35
   },
   "switzerland": {
     "teamName": "Switzerland",
@@ -226,7 +314,15 @@
     "eloRank": 17,
     "starPowerScore": 6,
     "starPlayers": ["Manuel Akanji", "Granit Xhaka"],
-    "rivalryScoreDefault": 5
+    "rivalryScoreDefault": 5,
+    "wcGoalsForPerMatch": 2.33,
+    "wcGoalsAgainstPerMatch": 1.0,
+    "wcShotsPerMatch": 15.0,
+    "wcShotsOnTargetPerMatch": 6.0,
+    "wcShotsAgainstPerMatch": 8.0,
+    "wcShotsOnTargetAgainstPerMatch": 4.33,
+    "wcXg": 2.12,
+    "wcXgA": 0.83
   },
   "qatar": {
     "teamName": "Qatar",
@@ -248,7 +344,15 @@
     "eloRank": 24,
     "starPowerScore": 6,
     "starPlayers": ["Achraf Hakimi"],
-    "rivalryScoreDefault": 5
+    "rivalryScoreDefault": 5,
+    "wcGoalsForPerMatch": 2.0,
+    "wcGoalsAgainstPerMatch": 1.0,
+    "wcShotsPerMatch": 16.0,
+    "wcShotsOnTargetPerMatch": 5.3,
+    "wcShotsAgainstPerMatch": 9.0,
+    "wcShotsOnTargetAgainstPerMatch": 2.3,
+    "wcXg": 2.04,
+    "wcXgA": 0.81
   },
   "scotland": {
     "teamName": "Scotland",
@@ -281,7 +385,15 @@
     "eloRank": 49,
     "starPowerScore": 6,
     "starPlayers": ["Yan Diomande", "Franck Kessie", "Nicolas Pepe"],
-    "rivalryScoreDefault": 5
+    "rivalryScoreDefault": 5,
+    "wcGoalsForPerMatch": 1.33,
+    "wcGoalsAgainstPerMatch": 0.66,
+    "wcShotsPerMatch": 10.33,
+    "wcShotsOnTargetPerMatch": 3.0,
+    "wcShotsAgainstPerMatch": 13.0,
+    "wcShotsOnTargetAgainstPerMatch": 3.33,
+    "wcXg": 1.35,
+    "wcXgA": 1.13
   },
   "cura\u00e7ao": {
     "teamName": "Cura\u00e7ao",
@@ -303,7 +415,15 @@
     "eloRank": 14,
     "starPowerScore": 7,
     "starPlayers": ["Ritsu Doan", "Takefusa Kubo", "Ayase Ueda"],
-    "rivalryScoreDefault": 5
+    "rivalryScoreDefault": 5,
+    "wcGoalsForPerMatch": 2.66,
+    "wcGoalsAgainstPerMatch": 1.0,
+    "wcShotsPerMatch": 9.66,
+    "wcShotsOnTargetPerMatch": 3.66,
+    "wcShotsAgainstPerMatch": 7.66,
+    "wcShotsOnTargetAgainstPerMatch": 3.66,
+    "wcXg": 1.30,
+    "wcXgA": 0.49
   },
   "cape verde": {
     "teamName": "Cape Verde",
@@ -314,7 +434,15 @@
     "eloRank": 68,
     "starPowerScore": 3,
     "starPlayers": ["Dailon Livramento"],
-    "rivalryScoreDefault": 5
+    "rivalryScoreDefault": 5,
+    "wcGoalsForPerMatch": 0.66,
+    "wcGoalsAgainstPerMatch": 0.66,
+    "wcShotsPerMatch": 11.0,
+    "wcShotsOnTargetPerMatch": 2.33,
+    "wcShotsAgainstPerMatch": 17.0,
+    "wcShotsOnTargetAgainstPerMatch": 4.0,
+    "wcXg": 0.82,
+    "wcXgA": 1.60
   },
   "senegal": {
     "teamName": "Senegal",
@@ -330,7 +458,15 @@
       "Edouard Mendy",
       "Ismaila Sarr"
     ],
-    "rivalryScoreDefault": 5
+    "rivalryScoreDefault": 5,
+    "wcGoalsForPerMatch": 2.66,
+    "wcGoalsAgainstPerMatch": 2.0,
+    "wcShotsPerMatch": 16.66,
+    "wcShotsOnTargetPerMatch": 6.0,
+    "wcShotsAgainstPerMatch": 10.0,
+    "wcShotsOnTargetAgainstPerMatch": 5.33,
+    "wcXg": 1.75,
+    "wcXgA": 1.37
   },
   "sweden": {
     "teamName": "Sweden",
@@ -341,7 +477,15 @@
     "eloRank": 43,
     "starPowerScore": 7,
     "starPlayers": ["Viktor Gyokeres", "Alexander Isak"],
-    "rivalryScoreDefault": 5
+    "rivalryScoreDefault": 5,
+    "wcGoalsForPerMatch": 2.33,
+    "wcGoalsAgainstPerMatch": 2.33,
+    "wcShotsPerMatch": 13.33,
+    "wcShotsOnTargetPerMatch": 6.66,
+    "wcShotsAgainstPerMatch": 8.0,
+    "wcShotsOnTargetAgainstPerMatch": 4.0,
+    "wcXg": 0.99,
+    "wcXgA": 1.36
   },
   "tunisia": {
     "teamName": "Tunisia",
@@ -517,7 +661,15 @@
     "eloRank": 38,
     "starPowerScore": 7,
     "starPlayers": ["Christian Pulisic"],
-    "rivalryScoreDefault": 5
+    "rivalryScoreDefault": 5,
+    "wcGoalsForPerMatch": 2.66,
+    "wcGoalsAgainstPerMatch": 1.33,
+    "wcShotsPerMatch": 14.66,
+    "wcShotsOnTargetPerMatch": 5.0,
+    "wcShotsAgainstPerMatch": 7.66,
+    "wcShotsOnTargetAgainstPerMatch": 2.0,
+    "wcXg": 1.50,
+    "wcXgA": 1.36
   },
   "paraguay": {
     "teamName": "Paraguay",
@@ -528,7 +680,15 @@
     "eloRank": 22,
     "starPowerScore": 6,
     "starPlayers": ["Miguel Almiron", "Julio Enciso"],
-    "rivalryScoreDefault": 5
+    "rivalryScoreDefault": 5,
+    "wcGoalsForPerMatch": 0.66,
+    "wcGoalsAgainstPerMatch": 1.33,
+    "wcShotsPerMatch": 7.66,
+    "wcShotsOnTargetPerMatch": 1.66,
+    "wcShotsAgainstPerMatch": 20.0,
+    "wcShotsOnTargetAgainstPerMatch": 5.33,
+    "wcXg": 0.37,
+    "wcXgA": 1.39
   },
   "turkey": {
     "teamName": "Turkey",
@@ -550,6 +710,14 @@
     "eloRank": 28,
     "starPowerScore": 5,
     "starPlayers": ["Jackson Irvine"],
-    "rivalryScoreDefault": 5
+    "rivalryScoreDefault": 5,
+    "wcGoalsForPerMatch": 0.66,
+    "wcGoalsAgainstPerMatch": 0.66,
+    "wcShotsPerMatch": 8.66,
+    "wcShotsOnTargetPerMatch": 3.66,
+    "wcShotsAgainstPerMatch": 15.66,
+    "wcShotsOnTargetAgainstPerMatch": 4.0,
+    "wcXg": 0.7,
+    "wcXgA": 0.9
   }
 }
