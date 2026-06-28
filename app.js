@@ -187,8 +187,8 @@ function renderTopKnockoutStageMatches() {
     "Quarterfinals",
     "Semifinals",
     "Third Place Playoff",
-    "Final"
-  ]
+    "Final",
+  ];
 
   const knockoutTopFixtures = fixtures
     .filter(
@@ -242,12 +242,19 @@ function renderMatch(selectedFixture) {
   const finalScore = document.getElementById("final-score");
   const actualExcitement = document.getElementById("actual-excitement");
   const calendarButton = document.getElementById("calendar-button");
+  const storylineElement = document.getElementById("storyline-score");
+  const storylineList = document.getElementById("storyline-list");
+  const storylineStars = "⭐️".repeat(selectedFixture.storylineScore || 0);
 
   matchName.textContent = `${selectedFixture.homeTeamName} vs ${selectedFixture.awayTeamName}`;
   score.textContent = selectedFixture.excitementScore
     ? `Excitement Score: ${selectedFixture.excitementScore}`
     : "Excitement Score: TBD";
   watchTier.textContent = `Watchability: ${selectedFixture.watchTier}`;
+  storylineElement.textContent = storylineStars;
+  storylineList.innerHTML = selectedFixture.storylines?.length
+    ? selectedFixture.storylines.map((story) => `<li>${story}</li>`).join("")
+    : "";
   starPlayers.textContent = `${selectedFixture.starPlayers?.join(", ") || "Coming Soon"}`;
   whyWatch.textContent = `${selectedFixture.whyWatch || "Check back after 6/27"}`;
 

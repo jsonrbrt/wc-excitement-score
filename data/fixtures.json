@@ -927,7 +927,10 @@
       "matchImportance": 2,
       "rivalryScore": 5,
       "whyWatch": "England did not fully convinced in their first two games. A less-than-convincing performance against already eliminated Panama will definitely raise the alarm for those supporting The Three Lions.",
-      "kickoffUTC": "2026-06-27T21:00:00Z"
+      "kickoffUTC": "2026-06-27T21:00:00Z",
+      "status": "completed",
+      "finalScore": "0-2",
+      "actualExcitementScore": null
     },
     {
       "matchId": 68,
@@ -938,7 +941,10 @@
       "matchImportance": 7,
       "rivalryScore": 5,
       "whyWatch": "Both teams are on three points, and potentially could go through with a draw. They might be keeping an eye on England's result, as a win for either side (in case England slip up), can see them leapfrog The Three Lions.",
-      "kickoffUTC": "2026-06-27T21:00:00Z"
+      "kickoffUTC": "2026-06-27T21:00:00Z",
+      "status": "completed",
+      "finalScore": "2-1",
+      "actualExcitementScore": null
     },
     {
       "matchId": 69,
@@ -949,7 +955,10 @@
       "matchImportance": 6,
       "rivalryScore": 5,
       "whyWatch": "If it seems like most of the preview for the final games in the group stage starts with \"Both teams know a draw is enough for them\", it is an unfortunate byproduct of a 48-team tournament. That said, Austria and Algeria know that a draw is enough for them to go through.",
-      "kickoffUTC": "2026-06-28T02:00:00Z"
+      "kickoffUTC": "2026-06-28T02:00:00Z",
+      "status": "completed",
+      "finalScore": "3-3",
+      "actualExcitementScore": null
     },
     {
       "matchId": 70,
@@ -960,7 +969,10 @@
       "matchImportance": 1,
       "rivalryScore": 2,
       "whyWatch": "Argentina is already through as group winner and will take on the runner-up of Group H in the next round. Will they give Messi a rest? Or will they give him more opportunities to stretch his lead as the World Cup's all-time leading goalscorer?",
-      "kickoffUTC": "2026-06-28T02:00:00Z"
+      "kickoffUTC": "2026-06-28T02:00:00Z",
+      "status": "completed",
+      "finalScore": "1-3",
+      "actualExcitementScore": null
     },
     {
       "matchId": 71,
@@ -971,7 +983,10 @@
       "matchImportance": 3,
       "rivalryScore": 3,
       "kickoffUTC": "2026-06-27T23:30:00Z",
-      "whyWatch": "Colombia is assured to go through to the next round, potentially as a group winner if they avoid defeat against Portugal, who have Cristiano Ronaldo back scoring goals."
+      "whyWatch": "Colombia is assured to go through to the next round, potentially as a group winner if they avoid defeat against Portugal, who have Cristiano Ronaldo back scoring goals.",
+      "status": "completed",
+      "finalScore": "0-0",
+      "actualExcitementScore": null
     },
     {
       "matchId": 72,
@@ -982,7 +997,10 @@
       "matchImportance": 5,
       "rivalryScore": 5,
       "whyWatch": "This is a game where both teams still have a chance mathematically to progress, but they might already know their fate by the time their game kicks off. Uzbekistan must win and hope results elsewhere go their way, and DR Congo needs to win.",
-      "kickoffUTC": "2026-06-27T23:30:00Z"
+      "kickoffUTC": "2026-06-27T23:30:00Z",
+      "status": "completed",
+      "finalScore": "3-1",
+      "actualExcitementScore": null
     },
     {
       "matchId": 73,
@@ -993,7 +1011,10 @@
       "awayTeamKey": "canada",
       "matchImportance": 6,
       "rivalryScore": 5,
-      "kickoffUTC": "2026-06-28T19:00:00Z"
+      "whyWatch": "Both sides should fancy their chances of progressing to the next round. Canada, playing away from home for the first time in this World Cup, won't be without Ismael Kone who suffered a horrendous injury against Qatar, but will probably have Alphonso Davies back.",
+      "kickoffUTC": "2026-06-28T19:00:00Z",
+      "storylineScore": 2,
+      "storylines": ["Canada missing Kone and home field advantage"]
     },
     {
       "matchId": 74,
@@ -1002,9 +1023,12 @@
       "awayTeam": "Paraguay",
       "homeTeamKey": "germany",
       "awayTeamKey": "paraguay",
-      "matchImportance": 5,
+      "matchImportance": 6,
       "rivalryScore": 5,
-      "kickoffUTC": "2026-06-29T21:30:00Z"
+      "whyWatch": "Was that loss against Ecuador a sign of a team knowing they are safe and sound through to the knockout stage or is there a sign for concern? Either way, Germany will need to figure out their gameplan quickly against another South American opposition.",
+      "kickoffUTC": "2026-06-29T21:30:00Z",
+      "storylineScore": 2,
+      "storylines": ["Is Germany for real?"]
     },
     {
       "matchId": 75,
@@ -1015,7 +1039,13 @@
       "awayTeamKey": "morocco",
       "matchImportance": 7,
       "rivalryScore": 6,
-      "kickoffUTC": "2026-06-30T02:00:00Z"
+      "whyWatch": "Only France and Germany scored as many goals as De Oranje in the group stage, but the knockout stage is a more cagey affair. Can the trio of Gakpo, Brobbey, and Malen unlock the Moroccan defense?",
+      "kickoffUTC": "2026-06-30T02:00:00Z",
+      "storylineScore": 3,
+      "storylines": [
+        "Three members of the Moroccan team were born in the Netherlands",
+        "Can the Netherlands continue their red-hot attack in the knockout rounds?"
+      ]
     },
     {
       "matchId": 76,
@@ -1026,7 +1056,13 @@
       "awayTeamKey": "japan",
       "matchImportance": 7,
       "rivalryScore": 7,
-      "kickoffUTC": "2026-06-29T17:00:00Z"
+      "whyWatch": "Slowly but surely this Brazil team is kicking into gear. They will be up against a formidable opponent in Japan, who will be desperate to finally earn a win in the knockout stage of the World Cup.",
+      "kickoffUTC": "2026-06-29T17:00:00Z",
+      "storylineScore": 3,
+      "storylines": [
+        "Is Brazil actually good?",
+        "Japan seeking first knockout stage win in their World Cup history"
+      ]
     },
     {
       "matchId": 77,
@@ -1035,9 +1071,12 @@
       "awayTeam": "Sweden",
       "homeTeamKey": "france",
       "awayTeamKey": "sweden",
-      "matchImportance": 5,
+      "matchImportance": 6,
       "rivalryScore": 5,
-      "kickoffUTC": "2026-06-30T21:00:00Z"
+      "whyWatch": "The only thing capable of stopping France at the World Cup has been thunderstorm. Sweden will be hoping to keep the game close for as long as possible and will be hoping that Isak, Gyokeres, and Elanga can hurt the France defense.",
+      "kickoffUTC": "2026-06-30T21:00:00Z",
+      "storylineScore": 2,
+      "storylines": ["Who will score more goals, Dembele or Mbappe?"]
     },
     {
       "matchId": 78,
@@ -1046,31 +1085,50 @@
       "awayTeam": "Norway",
       "homeTeamKey": "ivory coast",
       "awayTeamKey": "norway",
-      "matchImportance": 5,
+      "matchImportance": 6,
       "rivalryScore": 5,
-      "kickoffUTC": "2026-06-30T17:00:00Z"
+      "whyWatch": "Both teams will be confident of securing a spot in the last 16, but Norway have the added benefit of resting their starters. Haaland will be the player to watch for a Norway side that possess the fourth highest conversion rate in this tournament (22.86%).",
+      "kickoffUTC": "2026-06-30T17:00:00Z",
+      "storylineScore": 2,
+      "storylines": [
+        "Ivory Coast will want to continue flying the flag for Africa",
+        "Norway rested most of their starters in the last game, so will be fresh for this game"
+      ]
     },
     {
       "matchId": 79,
       "stage": "Round of 32",
       "homeTeam": "Mexico",
-      "awayTeam": "3rd Group C/E",
+      "awayTeam": "Ecuador",
       "homeTeamKey": "mexico",
-      "awayTeamKey": "3rd_group_c/e",
-      "matchImportance": 5,
+      "awayTeamKey": "ecuador",
+      "matchImportance": 6,
       "rivalryScore": 5,
-      "kickoffUTC": "2026-07-01T02:00:00Z"
+      "whyWatch": "Mexico will be desperate to break a 40-year drought of never winning a match in the knockout stage, with seven straight eliminations in the round of 16 between 1994 to 2018. They have benefited from a weak group and now will face a real test in Ecuador, who finally showed some signs of life in their win against Germany.",
+      "kickoffUTC": "2026-07-01T02:00:00Z",
+      "storylineScore": 3,
+      "storylines": [
+        "Mexico seeking a first knockout stage win since 1986",
+        "Home support advantage for El Tri",
+        "Did Ecuador finally turn a page after winning against Germany?"
+      ]
     },
     {
       "matchId": 80,
       "stage": "Round of 32",
-      "homeTeam": "Winner Group L",
-      "awayTeam": "3rd Group I/J/K",
-      "homeTeamKey": "winner_group_l",
-      "awayTeamKey": "3rd_group_i/j/k",
-      "matchImportance": 5,
+      "homeTeam": "England",
+      "awayTeam": "DR Congo",
+      "homeTeamKey": "england",
+      "awayTeamKey": "dr congo",
+      "matchImportance": 6,
       "rivalryScore": 5,
-      "kickoffUTC": "2026-07-01T16:00:00Z"
+      "whyWatch": "England got the job done and qualified for the knockout stage with a straightforward win against Panama. Against DR Congo, they will be hoping to have the Declan Rice back in the starting lineup.",
+      "kickoffUTC": "2026-07-01T16:00:00Z",
+      "storylineScore": 2,
+      "storylines": [
+        "England faced the least amount of shots in the group stage (12)",
+        "DR Congo took the second least amount of shots (15) among teams that qualifies to the knockout stage"
+      ]
     },
     {
       "matchId": 81,
@@ -1081,51 +1139,74 @@
       "awayTeamKey": "bosnia",
       "matchImportance": 6,
       "rivalryScore": 5,
-      "kickoffUTC": "2026-07-02T00:00:00Z"
+      "whyWatch": "Will USA marches on? Or will Bosnia and Herzegovina play the spoiler? Bosnia does not carry a lot of offensive threat (0.07 xG per shot), so they will be determine to keep it tight in the back before launching a counter attack.",
+      "kickoffUTC": "2026-07-02T00:00:00Z",
+      "storylineScore": 3,
+      "storylines": [
+        "Home support advantage",
+        "One-time US international Esmir Bajraktarević will be hoping to knockout the country of his birth"
+      ]
     },
     {
       "matchId": 82,
       "stage": "Round of 32",
       "homeTeam": "Belgium",
-      "awayTeam": "3rd Group A/I/J",
+      "awayTeam": "Senegal",
       "homeTeamKey": "belgium",
-      "awayTeamKey": "3rd_group_a/i/j",
-      "matchImportance": 5,
+      "awayTeamKey": "senegal",
+      "matchImportance": 6,
       "rivalryScore": 5,
-      "kickoffUTC": "2026-07-01T20:00:00Z"
+      "whyWatch": "Two teams that scored five goals in the last game of the group stage to progress to the Round of 32. The question will be, if that was real sign of progress or more of a case of desperation and poor oppositions?",
+      "kickoffUTC": "2026-07-01T20:00:00Z",
+      "storylineScore": 3,
+      "storylines": [
+        "Last hurrah for each Golden Generations? (De Bruyne, Lukaku, Mane, Koulibaly, and Gueye)"
+      ]
     },
     {
       "matchId": 83,
       "stage": "Round of 32",
-      "homeTeam": "Runner-up Group K",
-      "awayTeam": "Runner-up Group L",
-      "homeTeamKey": "runner-up_group_k",
-      "awayTeamKey": "runner-up_group_l",
-      "matchImportance": 5,
+      "homeTeam": "Portugal",
+      "awayTeam": "Croatia",
+      "homeTeamKey": "portugal",
+      "awayTeamKey": "croatia",
+      "matchImportance": 6,
       "rivalryScore": 5,
-      "kickoffUTC": "2026-07-02T23:00:00Z"
+      "whyWatch": "It's unfair to simplify these matchup as a game between two fourty somethings in Luka Modric and Cristiano Ronaldo. But this will be someone's final World Cup game, this could sneakily be the best game of the whole round.",
+      "kickoffUTC": "2026-07-02T23:00:00Z",
+      "storylineScore": 4,
+      "storylines": [
+        "The Expendables: Ronaldo v Modric",
+        "Potential World Cup farewell for one legend"
+      ]
     },
     {
       "matchId": 84,
       "stage": "Round of 32",
       "homeTeam": "Spain",
-      "awayTeam": "Runner-up Group J",
+      "awayTeam": "Austria",
       "homeTeamKey": "spain",
-      "awayTeamKey": "runner-up_group_j",
-      "matchImportance": 5,
+      "awayTeamKey": "austria",
+      "matchImportance": 6,
       "rivalryScore": 5,
-      "kickoffUTC": "2026-07-02T19:00:00Z"
+      "whyWatch": "Spain finished their group stage with a win, but it cost them two players as Yeremy Pino and Nico Williams suffered injuries. Austria were on the brink of elimination until a last-gasp goal from Sasa Kalajdzic. They will not shy away from this challenge.",
+      "kickoffUTC": "2026-07-02T19:00:00Z",
+      "storylineScore": 2,
+      "storylines": ["Spain dealing with injuries (Pino, Williams)"]
     },
     {
       "matchId": 85,
       "stage": "Round of 32",
       "homeTeam": "Switzerland",
-      "awayTeam": "3rd Group G/J",
+      "awayTeam": "Algeria",
       "homeTeamKey": "switzerland",
-      "awayTeamKey": "3rd_group_g/j",
+      "awayTeamKey": "algeria",
       "matchImportance": 5,
       "rivalryScore": 5,
-      "kickoffUTC": "2026-07-03T03:00:00Z"
+      "whyWatch": "After drawing against Qatar 1-1 in their opening game, Switzerland found their shooting boot, putting four past Bosnia and then defeating Canada (thus sending the Canadians to LA instead of staying in Vancouver). They have the sixth-best xG per shot (0.14). Algeria will be looking to Riyad Mahrez and Houssem Aouar to provide inspiration in attack.",
+      "kickoffUTC": "2026-07-03T03:00:00Z",
+      "storylineScore": 2,
+      "storylines": ["Back-to-back games against Alps opposition for Algeria"]
     },
     {
       "matchId": 86,
@@ -1134,20 +1215,34 @@
       "awayTeam": "Cape Verde",
       "homeTeamKey": "argentina",
       "awayTeamKey": "cape verde",
-      "matchImportance": 9,
+      "matchImportance": 8,
       "rivalryScore": 5,
-      "kickoffUTC": "2026-07-03T22:00:00Z"
+      "whyWatch": "A David v Goliath match between the World Cup debutant and the defending champions. Almost nobody thought Cape Verde will make it through to the group stage, but they fought valiantly in shutting down Spain, coming from behind to earn a point against Uruguay, before nearly winning their game against Saudi Arabia. A Cape Verde win will be the ultimate upset, but they know they have won the support of all the neutrals.",
+      "kickoffUTC": "2026-07-03T22:00:00Z",
+      "storylineScore": 5,
+      "storylines": [
+        "Defending champions",
+        "World Cup debutants",
+        "Underdog story",
+        "Vozinha v Messi"
+      ]
     },
     {
       "matchId": 87,
       "stage": "Round of 32",
-      "homeTeam": "Winner Group K",
-      "awayTeam": "3rd Group E/I/L",
-      "homeTeamKey": "winner_group_k",
-      "awayTeamKey": "3rd_group_e/i/l",
-      "matchImportance": 5,
+      "homeTeam": "Colombia",
+      "awayTeam": "Ghana",
+      "homeTeamKey": "colombia",
+      "awayTeamKey": "ghana",
+      "matchImportance": 6,
       "rivalryScore": 5,
-      "kickoffUTC": "2026-07-04T01:30:00Z"
+      "whyWatch": "Colombia emerged from their group unbeaten and are certainly a team to keep an eye on. Their next opponent will not be a cakewalk, Ghana qualified to the knockout stage on the back of their strong defense, conceding only two goals. Their 0.07 xGA (Expected Goals Against) per shot, is joint third-best in the tournament so far.",
+      "kickoffUTC": "2026-07-04T01:30:00Z",
+      "storylineScore": 3,
+      "storylines": [
+        "Dark horse candidate in Colombia",
+        "Ghana have a strong defense"
+      ]
     },
     {
       "matchId": 88,
@@ -1158,7 +1253,14 @@
       "awayTeamKey": "egypt",
       "matchImportance": 5,
       "rivalryScore": 5,
-      "kickoffUTC": "2026-07-03T18:00:00Z"
+      "whyWatch": "In Mo Salah, Egypt will always have a decisive chance to win a game. They will fancy their chances against Australia, who also should fancy their chance against Egypt. The Socceroos conceded an alarming number of shots in the group stage (second-highest among teams that made the knockout stage), which will be music to Salah's ears.",
+      "kickoffUTC": "2026-07-03T18:00:00Z",
+      "storylineScore": 3,
+      "storylines": [
+        "How far can Mo Salah go?",
+        "Evenly matched teams",
+        "Australia's defense is not the strongers"
+      ]
     },
     {
       "matchId": 89,

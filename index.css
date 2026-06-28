@@ -160,6 +160,37 @@ body {
   text-transform: uppercase;
 }
 
+#storyline-section {
+  margin: 24px 0;
+  text-align: center;
+}
+
+#storyline-title {
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #9ca3af;
+  margin-bottom: 6px;
+}
+
+#storyline-score {
+  font-size: 1.6rem;
+  margin-bottom: 16px;
+}
+
+#storyline-list {
+  margin: 0 auto;
+  padding-left: 20px;
+  max-width: 600px;
+  text-align: left;
+  color: #d1d5db;
+  line-height: 1.6;
+}
+
+#storyline-list li {
+  margin-bottom: 8px;
+}
+
 #final-score {
   font-size: 2rem;
   font-weight: 700;

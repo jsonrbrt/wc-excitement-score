@@ -80,7 +80,15 @@
       "Declan Rice",
       "Bukayo Saka"
     ],
-    "rivalryScoreDefault": 5
+    "rivalryScoreDefault": 5,
+    "wcGoalsForPerMatch": 2.0,
+    "wcGoalsAgainstPerMatch": 0.66,
+    "wcShotsPerMatch": 19.33,
+    "wcShotsOnTargetPerMatch": 6.66,
+    "wcShotsAgainstPerMatch": 8.33,
+    "wcShotsOnTargetAgainstPerMatch": 2.66,
+    "wcXg": 2.04,
+    "wcXgA": 0.51
   },
   "croatia": {
     "teamName": "Croatia",
@@ -91,7 +99,15 @@
     "eloRank": 12,
     "starPowerScore": 7,
     "starPlayers": ["Luka Modric"],
-    "rivalryScoreDefault": 5
+    "rivalryScoreDefault": 5,
+    "wcGoalsForPerMatch": 1.66,
+    "wcGoalsAgainstPerMatch": 1.66,
+    "wcShotsPerMatch": 8.0,
+    "wcShotsOnTargetPerMatch": 3.66,
+    "wcShotsAgainstPerMatch": 12.0,
+    "wcShotsOnTargetAgainstPerMatch": 4.33,
+    "wcXg": 0.92,
+    "wcXgA": 1.46
   },
   "brazil": {
     "teamName": "Brazil",
@@ -126,7 +142,15 @@
       "Lautaro Martinez",
       "Lionel Messi"
     ],
-    "rivalryScoreDefault": 5
+    "rivalryScoreDefault": 5,
+    "wcGoalsForPerMatch": 2.66,
+    "wcGoalsAgainstPerMatch": 0.33,
+    "wcShotsPerMatch": 11.33,
+    "wcShotsOnTargetPerMatch": 5.0,
+    "wcShotsAgainstPerMatch": 6.0,
+    "wcShotsOnTargetAgainstPerMatch": 0.66,
+    "wcXg": 1.91,
+    "wcXgA": 0.53
   },
   "portugal": {
     "teamName": "Portugal",
@@ -137,7 +161,15 @@
     "eloRank": 6,
     "starPowerScore": 9,
     "starPlayers": ["Bruno Fernandes", "Cristiano Ronaldo", "Vitinha"],
-    "rivalryScoreDefault": 5
+    "rivalryScoreDefault": 5,
+    "wcGoalsForPerMatch": 2.0,
+    "wcGoalsAgainstPerMatch": 0.33,
+    "wcShotsPerMatch": 12.33,
+    "wcShotsOnTargetPerMatch": 4.0,
+    "wcShotsAgainstPerMatch": 13.0,
+    "wcShotsOnTargetAgainstPerMatch": 3.33,
+    "wcXg": 1.39,
+    "wcXgA": 0.93
   },
   "netherlands": {
     "teamName": "Netherlands",
@@ -186,7 +218,15 @@
     "eloRank": 7,
     "starPowerScore": 7,
     "starPlayers": ["Luis Diaz"],
-    "rivalryScoreDefault": 5
+    "rivalryScoreDefault": 5,
+    "wcGoalsForPerMatch": 1.33,
+    "wcGoalsAgainstPerMatch": 0.33,
+    "wcShotsPerMatch": 19.66,
+    "wcShotsOnTargetPerMatch": 6.33,
+    "wcShotsAgainstPerMatch": 9.33,
+    "wcShotsOnTargetAgainstPerMatch": 1.66,
+    "wcXg": 1.43,
+    "wcXgA": 0.82
   },
   "ecuador": {
     "teamName": "Ecuador",
@@ -204,7 +244,7 @@
     "wcShotsOnTargetPerMatch": 6.33,
     "wcShotsAgainstPerMatch": 12.0,
     "wcShotsOnTargetAgainstPerMatch": 3.33,
-    "wcXg": 1.70,
+    "wcXg": 1.7,
     "wcXgA": 0.89
   },
   "mexico": {
@@ -224,7 +264,7 @@
     "wcShotsAgainstPerMatch": 8.33,
     "wcShotsOnTargetAgainstPerMatch": 1.66,
     "wcXg": 1.24,
-    "wcXgA": 0.50
+    "wcXgA": 0.5
   },
   "south africa": {
     "teamName": "South Africa",
@@ -283,7 +323,7 @@
     "wcShotsOnTargetPerMatch": 7.0,
     "wcShotsAgainstPerMatch": 5.33,
     "wcShotsOnTargetAgainstPerMatch": 2.33,
-    "wcXg": 2.50,
+    "wcXg": 2.5,
     "wcXgA": 0.76
   },
   "bosnia": {
@@ -422,7 +462,7 @@
     "wcShotsOnTargetPerMatch": 3.66,
     "wcShotsAgainstPerMatch": 7.66,
     "wcShotsOnTargetAgainstPerMatch": 3.66,
-    "wcXg": 1.30,
+    "wcXg": 1.3,
     "wcXgA": 0.49
   },
   "cape verde": {
@@ -442,7 +482,7 @@
     "wcShotsAgainstPerMatch": 17.0,
     "wcShotsOnTargetAgainstPerMatch": 4.0,
     "wcXg": 0.82,
-    "wcXgA": 1.60
+    "wcXgA": 1.6
   },
   "senegal": {
     "teamName": "Senegal",
@@ -529,7 +569,15 @@
     "eloRank": 81,
     "starPowerScore": 6,
     "starPlayers": ["Antoine Semenyo"],
-    "rivalryScoreDefault": 5
+    "rivalryScoreDefault": 5,
+    "wcGoalsForPerMatch": 0.66,
+    "wcGoalsAgainstPerMatch": 0.66,
+    "wcShotsPerMatch": 5.0,
+    "wcShotsOnTargetPerMatch": 1.33,
+    "wcShotsAgainstPerMatch": 12.66,
+    "wcShotsOnTargetAgainstPerMatch": 3.66,
+    "wcXg": 0.68,
+    "wcXgA": 0.83
   },
   "panama": {
     "teamName": "Panama",
@@ -551,7 +599,15 @@
     "eloRank": 55,
     "starPowerScore": 5,
     "starPlayers": ["Yoanne Wissa"],
-    "rivalryScoreDefault": 5
+    "rivalryScoreDefault": 5,
+    "wcGoalsForPerMatch": 1.33,
+    "wcGoalsAgainstPerMatch": 1.0,
+    "wcShotsPerMatch": 11.33,
+    "wcShotsOnTargetPerMatch": 2.33,
+    "wcShotsAgainstPerMatch": 10.0,
+    "wcShotsOnTargetAgainstPerMatch": 3.66,
+    "wcXg": 1.14,
+    "wcXgA": 0.61
   },
   "uzbekistan": {
     "teamName": "Uzbekistan",
@@ -573,7 +629,15 @@
     "eloRank": 32,
     "starPowerScore": 5,
     "starPlayers": ["Riyad Mahrez"],
-    "rivalryScoreDefault": 5
+    "rivalryScoreDefault": 5,
+    "wcGoalsForPerMatch": 1.66,
+    "wcGoalsAgainstPerMatch": 2.33,
+    "wcShotsPerMatch": 12.0,
+    "wcShotsOnTargetPerMatch": 4.33,
+    "wcShotsAgainstPerMatch": 9.33,
+    "wcShotsOnTargetAgainstPerMatch": 4.33,
+    "wcXg": 1.29,
+    "wcXgA": 1.12
   },
   "austria": {
     "teamName": "Austria",
@@ -584,7 +648,15 @@
     "eloRank": 23,
     "starPowerScore": 6,
     "starPlayers": ["David Alaba", "Konrad Laimer"],
-    "rivalryScoreDefault": 5
+    "rivalryScoreDefault": 5,
+    "wcGoalsForPerMatch": 2.0,
+    "wcGoalsAgainstPerMatch": 2.0,
+    "wcShotsPerMatch": 9.0,
+    "wcShotsOnTargetPerMatch": 2.66,
+    "wcShotsAgainstPerMatch": 11.66,
+    "wcShotsOnTargetAgainstPerMatch": 4.66,
+    "wcXg": 1.23,
+    "wcXgA": 1.49
   },
   "jordan": {
     "teamName": "Jordan",
@@ -606,7 +678,15 @@
     "eloRank": 11,
     "starPowerScore": 8,
     "starPlayers": ["Erling Haaland", "Martin Odegaard"],
-    "rivalryScoreDefault": 5
+    "rivalryScoreDefault": 5,
+    "wcGoalsForPerMatch": 2.66,
+    "wcGoalsAgainstPerMatch": 2.33,
+    "wcShotsPerMatch": 11.66,
+    "wcShotsOnTargetPerMatch": 5.33,
+    "wcShotsAgainstPerMatch": 15.0,
+    "wcShotsOnTargetAgainstPerMatch": 4.66,
+    "wcXg": 2.14,
+    "wcXgA": 1.34
   },
   "iraq": {
     "teamName": "Iraq",
@@ -628,7 +708,15 @@
     "eloRank": 48,
     "starPowerScore": 7,
     "starPlayers": ["Mohamed Salah", "Omar Marmoush"],
-    "rivalryScoreDefault": 5
+    "rivalryScoreDefault": 5,
+    "wcGoalsForPerMatch": 1.66,
+    "wcGoalsAgainstPerMatch": 1.0,
+    "wcShotsPerMatch": 16.0,
+    "wcShotsOnTargetPerMatch": 4.33,
+    "wcShotsAgainstPerMatch": 13.0,
+    "wcShotsOnTargetAgainstPerMatch": 4.0,
+    "wcXg": 1.26,
+    "wcXgA": 1.52
   },
   "new zealand": {
     "teamName": "New Zealand",
@@ -668,7 +756,7 @@
     "wcShotsOnTargetPerMatch": 5.0,
     "wcShotsAgainstPerMatch": 7.66,
     "wcShotsOnTargetAgainstPerMatch": 2.0,
-    "wcXg": 1.50,
+    "wcXg": 1.5,
     "wcXgA": 1.36
   },
   "paraguay": {
