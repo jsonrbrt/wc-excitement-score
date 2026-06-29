@@ -388,7 +388,7 @@
       "matchImportance": 7,
       "rivalryScore": 6,
       "whyWatch": "Only France and Germany scored as many goals as De Oranje in the group stage, but the knockout stage is a more cagey affair. Can the trio of Gakpo, Brobbey, and Malen unlock the Moroccan defense?",
-      "kickoffUTC": "2026-06-30T02:00:00Z",
+      "kickoffUTC": "2026-06-30T01:00:00Z",
       "storylineScore": 3,
       "storylines": [
         "Three members of the Moroccan team were born in the Netherlands",
@@ -1036,7 +1036,7 @@
       "matchImportance": 6,
       "rivalryScore": 5,
       "whyWatch": "Was that loss against Ecuador a sign of a team knowing they are safe and sound through to the knockout stage or is there a sign for concern? Either way, Germany will need to figure out their gameplan quickly against another South American opposition.",
-      "kickoffUTC": "2026-06-29T21:30:00Z",
+      "kickoffUTC": "2026-06-29T20:30:00Z",
       "storylineScore": 2,
       "storylines": [
         "Is Germany for real?"
@@ -1590,7 +1590,7 @@
       "matchImportance": 5,
       "rivalryScore": 5,
       "whyWatch": "After drawing against Qatar 1-1 in their opening game, Switzerland found their shooting boot, putting four past Bosnia and then defeating Canada (thus sending the Canadians to LA instead of staying in Vancouver). They have the sixth-best xG per shot (0.14). Algeria will be looking to Riyad Mahrez and Houssem Aouar to provide inspiration in attack.",
-      "kickoffUTC": "2026-07-03T03:00:00Z",
+      "kickoffUTC": "2026-07-03T02:00:00Z",
       "storylineScore": 2,
       "storylines": [
         "Back-to-back games against Alps opposition for Algeria"
@@ -2344,7 +2344,7 @@
       "matchImportance": 6,
       "rivalryScore": 5,
       "whyWatch": "Mexico will be desperate to break a 40-year drought of never winning a match in the knockout stage, with seven straight eliminations in the round of 16 between 1994 to 2018. They have benefited from a weak group and now will face a real test in Ecuador, who finally showed some signs of life in their win against Germany.",
-      "kickoffUTC": "2026-07-01T02:00:00Z",
+      "kickoffUTC": "2026-07-01T01:00:00Z",
       "storylineScore": 3,
       "storylines": [
         "Mexico seeking a first knockout stage win since 1986",
@@ -2510,6 +2510,9 @@
       "storylines": [
         "Canada missing Kone and home field advantage"
       ],
+      "status": "completed",
+      "finalScore": "0-1",
+      "actualExcitementScore": null,
       "homeTeamName": "South Africa",
       "awayTeamName": "Canada",
       "homeElo": 1518,
