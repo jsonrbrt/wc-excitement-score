@@ -1031,7 +1031,10 @@
       "whyWatch": "Was that loss against Ecuador a sign of a team knowing they are safe and sound through to the knockout stage or is there a sign for concern? Either way, Germany will need to figure out their gameplan quickly against another South American opposition.",
       "kickoffUTC": "2026-06-29T20:30:00Z",
       "storylineScore": 2,
-      "storylines": ["Is Germany for real?"]
+      "storylines": ["Is Germany for real?"],
+      "status": "completed",
+      "finalScore": "1-1 (Paraguay won 4-3 on Pens)",
+      "actualExcitementScore": null
     },
     {
       "matchId": 75,
@@ -1048,7 +1051,10 @@
       "storylines": [
         "Three members of the Moroccan team were born in the Netherlands",
         "Can the Netherlands continue their red-hot attack in the knockout rounds?"
-      ]
+      ],
+      "status": "completed",
+      "finalScore": "1-1 (Morocco won 3-2 on Pens)",
+      "actualExcitementScore": null
     },
     {
       "matchId": 76,
@@ -1065,7 +1071,10 @@
       "storylines": [
         "Is Brazil actually good?",
         "Japan seeking first knockout stage win in their World Cup history"
-      ]
+      ],
+      "status": "completed",
+      "finalScore": "2-1",
+      "actualExcitementScore": null
     },
     {
       "matchId": 77,
@@ -1079,7 +1088,10 @@
       "whyWatch": "The only thing capable of stopping France at the World Cup has been thunderstorm. Sweden will be hoping to keep the game close for as long as possible and will be hoping that Isak, Gyokeres, and Elanga can hurt the France defense.",
       "kickoffUTC": "2026-06-30T21:00:00Z",
       "storylineScore": 2,
-      "storylines": ["Who will score more goals, Dembele or Mbappe?"]
+      "storylines": ["Who will score more goals, Dembele or Mbappe?"],
+      "status": "completed",
+      "finalScore": "3-0",
+      "actualExcitementScore": null
     },
     {
       "matchId": 78,
@@ -1096,7 +1108,10 @@
       "storylines": [
         "Ivory Coast will want to continue flying the flag for Africa",
         "Norway rested most of their starters in the last game, so will be fresh for this game"
-      ]
+      ],
+      "status": "completed",
+      "finalScore": "1-2",
+      "actualExcitementScore": null
     },
     {
       "matchId": 79,
@@ -1114,7 +1129,10 @@
         "Mexico seeking a first knockout stage win since 1986",
         "Home support advantage for El Tri",
         "Did Ecuador finally turn a page after winning against Germany?"
-      ]
+      ],
+      "status": "completed",
+      "finalScore": "2-0",
+      "actualExcitementScore": null
     },
     {
       "matchId": 80,
@@ -1268,42 +1286,46 @@
     {
       "matchId": 89,
       "stage": "Round of 16",
-      "homeTeam": "Winner Match 74",
-      "awayTeam": "Winner Match 77",
-      "homeTeamKey": "winner_match_74",
-      "awayTeamKey": "winner_match_77",
+      "homeTeam": "Paraguay",
+      "awayTeam": "France",
+      "homeTeamKey": "paraguay",
+      "awayTeamKey": "france",
       "matchImportance": 5,
-      "rivalryScore": 5
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-07-04T21:00:00Z"
     },
     {
       "matchId": 90,
       "stage": "Round of 16",
-      "homeTeam": "Winner Match 73",
-      "awayTeam": "Winner Match 75",
-      "homeTeamKey": "winner_match_73",
-      "awayTeamKey": "winner_match_75",
+      "homeTeam": "Canada",
+      "awayTeam": "Morocco",
+      "homeTeamKey": "canada",
+      "awayTeamKey": "morocco",
       "matchImportance": 5,
-      "rivalryScore": 5
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-07-04T17:00:00Z"
     },
     {
       "matchId": 91,
       "stage": "Round of 16",
-      "homeTeam": "Winner Match 76",
-      "awayTeam": "Winner Match 78",
-      "homeTeamKey": "winner_match_76",
-      "awayTeamKey": "winner_match_78",
+      "homeTeam": "Brazil",
+      "awayTeam": "Norway",
+      "homeTeamKey": "brazil",
+      "awayTeamKey": "norway",
       "matchImportance": 5,
-      "rivalryScore": 5
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-07-05T20:00:00Z"
     },
     {
       "matchId": 92,
       "stage": "Round of 16",
-      "homeTeam": "Winner Match 79",
+      "homeTeam": "Mexico",
       "awayTeam": "Winner Match 80",
-      "homeTeamKey": "winner_match_79",
+      "homeTeamKey": "mexico",
       "awayTeamKey": "winner_match_80",
       "matchImportance": 5,
-      "rivalryScore": 5
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-07-06T00:00:00Z"
     },
     {
       "matchId": 93,
@@ -1313,7 +1335,8 @@
       "homeTeamKey": "winner_match_83",
       "awayTeamKey": "winner_match_84",
       "matchImportance": 5,
-      "rivalryScore": 5
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-07-06T19:00:00Z"
     },
     {
       "matchId": 94,
@@ -1323,7 +1346,8 @@
       "homeTeamKey": "winner_match_81",
       "awayTeamKey": "winner_match_82",
       "matchImportance": 5,
-      "rivalryScore": 5
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-07-07T00:00:00Z"
     },
     {
       "matchId": 95,
@@ -1333,7 +1357,8 @@
       "homeTeamKey": "winner_match_86",
       "awayTeamKey": "winner_match_88",
       "matchImportance": 5,
-      "rivalryScore": 5
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-07-07T16:00:00Z"
     },
     {
       "matchId": 96,
@@ -1343,7 +1368,8 @@
       "homeTeamKey": "winner_match_85",
       "awayTeamKey": "winner_match_87",
       "matchImportance": 5,
-      "rivalryScore": 5
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-07-07T20:00:00Z"
     },
     {
       "matchId": 97,
@@ -1353,7 +1379,8 @@
       "homeTeamKey": "winner_match_89",
       "awayTeamKey": "winner_match_90",
       "matchImportance": 5,
-      "rivalryScore": 5
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-07-09T20:00:00Z"
     },
     {
       "matchId": 98,
@@ -1363,7 +1390,8 @@
       "homeTeamKey": "winner_match_93",
       "awayTeamKey": "winner_match_94",
       "matchImportance": 5,
-      "rivalryScore": 5
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-07-10T19:00:00Z"
     },
     {
       "matchId": 99,
@@ -1373,7 +1401,8 @@
       "homeTeamKey": "winner_match_91",
       "awayTeamKey": "winner_match_92",
       "matchImportance": 5,
-      "rivalryScore": 5
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-07-11T21:00:00Z"
     },
     {
       "matchId": 100,
@@ -1383,7 +1412,8 @@
       "homeTeamKey": "winner_match_95",
       "awayTeamKey": "winner_match_96",
       "matchImportance": 5,
-      "rivalryScore": 5
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-07-12T01:00:00Z"
     },
     {
       "matchId": 101,
@@ -1393,7 +1423,8 @@
       "homeTeamKey": "winner_match_97",
       "awayTeamKey": "winner_match_98",
       "matchImportance": 5,
-      "rivalryScore": 5
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-07-14T19:00:00Z"
     },
     {
       "matchId": 102,
@@ -1403,7 +1434,8 @@
       "homeTeamKey": "winner_match_99",
       "awayTeamKey": "winner_match_100",
       "matchImportance": 5,
-      "rivalryScore": 5
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-07-15T19:00:00Z"
     },
     {
       "matchId": 103,
@@ -1413,7 +1445,8 @@
       "homeTeamKey": "loser_match_101",
       "awayTeamKey": "loser_match_102",
       "matchImportance": 5,
-      "rivalryScore": 5
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-07-18T21:00:00Z"
     },
     {
       "matchId": 104,
@@ -1423,7 +1456,8 @@
       "homeTeamKey": "winner_match_101",
       "awayTeamKey": "winner_match_102",
       "matchImportance": 5,
-      "rivalryScore": 5
+      "rivalryScore": 5,
+      "kickoffUTC": "2026-07-19T19:00:00Z"
     }
   ]
 }
