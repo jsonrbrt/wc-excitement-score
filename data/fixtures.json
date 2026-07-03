@@ -1149,7 +1149,10 @@
       "storylines": [
         "England faced the least amount of shots in the group stage (12)",
         "DR Congo took the second least amount of shots (15) among teams that qualifies to the knockout stage"
-      ]
+      ],
+      "status": "completed",
+      "finalScore": "2-1",
+      "actualExcitementScore": null
     },
     {
       "matchId": 81,
@@ -1166,7 +1169,10 @@
       "storylines": [
         "Home support advantage",
         "One-time US international Esmir Bajraktarević will be hoping to knockout the country of his birth"
-      ]
+      ],
+      "status": "completed",
+      "finalScore": "2-0",
+      "actualExcitementScore": null
     },
     {
       "matchId": 82,
@@ -1182,7 +1188,10 @@
       "storylineScore": 3,
       "storylines": [
         "Last hurrah for each Golden Generations? (De Bruyne, Lukaku, Mane, Koulibaly, and Gueye)"
-      ]
+      ],
+      "status": "completed",
+      "finalScore": "3-2 (After Extra Time)",
+      "actualExcitementScore": null
     },
     {
       "matchId": 83,
@@ -1199,7 +1208,10 @@
       "storylines": [
         "The Expendables: Ronaldo v Modric",
         "Potential World Cup farewell for one legend"
-      ]
+      ],
+      "status": "completed",
+      "finalScore": "2-1",
+      "actualExcitementScore": null
     },
     {
       "matchId": 84,
@@ -1213,7 +1225,10 @@
       "whyWatch": "Spain finished their group stage with a win, but it cost them two players as Yeremy Pino and Nico Williams suffered injuries. Austria were on the brink of elimination until a last-gasp goal from Sasa Kalajdzic. They will not shy away from this challenge.",
       "kickoffUTC": "2026-07-02T19:00:00Z",
       "storylineScore": 2,
-      "storylines": ["Spain dealing with injuries (Pino, Williams)"]
+      "storylines": ["Spain dealing with injuries (Pino, Williams)"],
+      "status": "completed",
+      "finalScore": "3-0",
+      "actualExcitementScore": null
     },
     {
       "matchId": 85,

@@ -179,6 +179,9 @@
       "storylines": [
         "Last hurrah for each Golden Generations? (De Bruyne, Lukaku, Mane, Koulibaly, and Gueye)"
       ],
+      "status": "completed",
+      "finalScore": "3-2 (After Extra Time)",
+      "actualExcitementScore": null,
       "homeTeamName": "Belgium",
       "awayTeamName": "Senegal",
       "homeElo": 1893,
@@ -351,6 +354,9 @@
         "The Expendables: Ronaldo v Modric",
         "Potential World Cup farewell for one legend"
       ],
+      "status": "completed",
+      "finalScore": "2-1",
+      "actualExcitementScore": null,
       "homeTeamName": "Portugal",
       "awayTeamName": "Croatia",
       "homeElo": 1986,
@@ -1290,6 +1296,9 @@
       "storylines": [
         "Spain dealing with injuries (Pino, Williams)"
       ],
+      "status": "completed",
+      "finalScore": "3-0",
+      "actualExcitementScore": null,
       "homeTeamName": "Spain",
       "awayTeamName": "Austria",
       "homeElo": 2157,
@@ -1494,6 +1503,9 @@
         "Home support advantage",
         "One-time US international Esmir Bajraktarevi\u0107 will be hoping to knockout the country of his birth"
       ],
+      "status": "completed",
+      "finalScore": "2-0",
+      "actualExcitementScore": null,
       "homeTeamName": "United States",
       "awayTeamName": "Bosnia and Herzegovina",
       "homeElo": 1726,
@@ -2438,6 +2450,9 @@
         "England faced the least amount of shots in the group stage (12)",
         "DR Congo took the second least amount of shots (15) among teams that qualifies to the knockout stage"
       ],
+      "status": "completed",
+      "finalScore": "2-1",
+      "actualExcitementScore": null,
       "homeTeamName": "England",
       "awayTeamName": "DR Congo",
       "homeElo": 2021,
