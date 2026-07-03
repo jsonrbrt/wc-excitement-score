@@ -25,6 +25,15 @@ body {
   }
 }
 
+/* Title section */
+.title {
+  text-align: center;
+}
+
+.subtitle {
+  text-align: center;
+}
+
 /* Top Matches */
 .top-matches-card h3 {
   margin-top: 0;

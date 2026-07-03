@@ -194,7 +194,8 @@ function renderTopKnockoutStageMatches() {
     .filter(
       (fixture) =>
         knockoutStages.includes(fixture.stage) &&
-        fixture.excitementScore !== null,
+        fixture.excitementScore !== null &&
+        fixture.status === "scheduled",
     )
     .sort((a, b) => b.excitementScore - a.excitementScore);
 
@@ -339,6 +340,7 @@ function renderKnockoutStage() {
   );
 
   renderKnockoutCards(roundOf32, "round-of-32");
+  renderKnockoutCards(roundOf16, "round-of-16");
 }
 
 function renderKnockoutCards(stageFixtures, containerId) {
@@ -378,7 +380,7 @@ function renderKnockoutCards(stageFixtures, containerId) {
     </div>
 
     <div class="knockout-status">
-    ${fixture.watchTier || "TBD"}
+    ${fixture.finalScore || fixture.watchTier}
     </div>
     `;
 
