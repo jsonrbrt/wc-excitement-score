@@ -1265,7 +1265,9 @@
         "Underdog story",
         "Vozinha v Messi"
       ],
-      "status": "scheduled"
+      "status": "completed",
+      "finalScore": "3-2 (After Extra Time)",
+      "actualExcitementScore": null
     },
     {
       "matchId": 87,
@@ -1283,7 +1285,9 @@
         "Dark horse candidate in Colombia",
         "Ghana have a strong defense"
       ],
-      "status": "scheduled"
+      "status": "completed",
+      "finalScore": "1-0",
+      "actualExcitementScore": null
     },
     {
       "matchId": 88,
@@ -1302,7 +1306,9 @@
         "Evenly matched teams",
         "Australia's defense is not the strongers"
       ],
-      "status": "scheduled"
+      "status": "completed",
+      "finalScore": "1-1 (Egypt win 4-2 on penalties)",
+      "actualExcitementScore": null
     },
     {
       "matchId": 89,
@@ -1314,7 +1320,9 @@
       "matchImportance": 6,
       "rivalryScore": 5,
       "kickoffUTC": "2026-07-04T21:00:00Z",
-      "status": "scheduled"
+      "status": "completed",
+      "finalScore": "0-1",
+      "actualExcitementScore": null
     },
     {
       "matchId": 90,
@@ -1326,7 +1334,9 @@
       "matchImportance": 7,
       "rivalryScore": 6,
       "kickoffUTC": "2026-07-04T17:00:00Z",
-      "status": "scheduled"
+      "status": "completed",
+      "finalScore": "0-3",
+      "actualExcitementScore": null
     },
     {
       "matchId": 91,
@@ -1338,7 +1348,9 @@
       "matchImportance": 7,
       "rivalryScore": 6,
       "kickoffUTC": "2026-07-05T20:00:00Z",
-      "status": "scheduled"
+      "status": "completed",
+      "finalScore": "1-2",
+      "actualExcitementScore": null
     },
     {
       "matchId": 92,
@@ -1350,7 +1362,9 @@
       "matchImportance": 7,
       "rivalryScore": 6,
       "kickoffUTC": "2026-07-06T00:00:00Z",
-      "status": "scheduled"
+      "status": "completed",
+      "finalScore": "2-3",
+      "actualExcitementScore": null
     },
     {
       "matchId": 93,
@@ -1379,10 +1393,10 @@
     {
       "matchId": 95,
       "stage": "Round of 16",
-      "homeTeam": "Winner Match 86",
-      "awayTeam": "Winner Match 88",
-      "homeTeamKey": "winner_match_86",
-      "awayTeamKey": "winner_match_88",
+      "homeTeam": "Argentina",
+      "awayTeam": "Egypt",
+      "homeTeamKey": "argentina",
+      "awayTeamKey": "egypt",
       "matchImportance": 5,
       "rivalryScore": 5,
       "kickoffUTC": "2026-07-07T16:00:00Z",
@@ -1392,9 +1406,9 @@
       "matchId": 96,
       "stage": "Round of 16",
       "homeTeam": "Switzerland",
-      "awayTeam": "Winner Match 87",
+      "awayTeam": "Colombia",
       "homeTeamKey": "switzerland",
-      "awayTeamKey": "winner_match_87",
+      "awayTeamKey": "colombia",
       "matchImportance": 5,
       "rivalryScore": 5,
       "kickoffUTC": "2026-07-07T20:00:00Z",
@@ -1403,10 +1417,10 @@
     {
       "matchId": 97,
       "stage": "Quarterfinals",
-      "homeTeam": "Winner Match 89",
-      "awayTeam": "Winner Match 90",
-      "homeTeamKey": "winner_match_89",
-      "awayTeamKey": "winner_match_90",
+      "homeTeam": "France",
+      "awayTeam": "Morocco",
+      "homeTeamKey": "france",
+      "awayTeamKey": "morocco",
       "matchImportance": 5,
       "rivalryScore": 5,
       "kickoffUTC": "2026-07-09T20:00:00Z"
@@ -1425,10 +1439,10 @@
     {
       "matchId": 99,
       "stage": "Quarterfinals",
-      "homeTeam": "Winner Match 91",
-      "awayTeam": "Winner Match 92",
-      "homeTeamKey": "winner_match_91",
-      "awayTeamKey": "winner_match_92",
+      "homeTeam": "Norway",
+      "awayTeam": "England",
+      "homeTeamKey": "norway",
+      "awayTeamKey": "england",
       "matchImportance": 5,
       "rivalryScore": 5,
       "kickoffUTC": "2026-07-11T21:00:00Z"
