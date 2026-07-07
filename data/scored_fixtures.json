@@ -7,9 +7,15 @@
       "awayTeam": "Norway",
       "homeTeamKey": "brazil",
       "awayTeamKey": "norway",
-      "matchImportance": 7,
+      "matchImportance": 8,
       "rivalryScore": 6,
+      "whyWatch": "Brazil turned a one-goal deficit into a win against Japan, but they will need to be on their best against Norway, with Erling Braut Haaland looking menacing. Should be a cracking game.",
       "kickoffUTC": "2026-07-05T20:00:00Z",
+      "storylineScore": 3,
+      "storylines": [
+        "How will Brazil cope against a team blessed with attacking riches?",
+        "An epic showdown between Gabriel Magalhaes and Erling Haaland"
+      ],
       "status": "completed",
       "finalScore": "1-2",
       "actualExcitementScore": null,
@@ -26,19 +32,16 @@
         "Erling Haaland",
         "Martin Odegaard"
       ],
-      "whyWatch": "",
-      "storylineScore": null,
-      "storylines": [],
-      "excitementScore": 69.6,
-      "preTournamentScore": 71.7,
-      "tournamentFormScore": 68.4,
+      "excitementScore": 70.9,
+      "preTournamentScore": 72.7,
+      "tournamentFormScore": 69.9,
       "watchTier": "Must watch",
       "scoreBreakdown": {
         "attackingScore": 7.17,
         "chaosScore": 4.08,
         "starPowerScore": 8.0,
         "competitiveBalance": 8.72,
-        "matchImportance": 7,
+        "matchImportance": 8,
         "rivalryScore": 6
       }
     },
@@ -51,8 +54,15 @@
       "awayTeamKey": "spain",
       "matchImportance": 7,
       "rivalryScore": 7,
+      "whyWatch": "With Cristiano Ronaldo confirming this will be his last World Cup, will it galvanize the squad to bring the only major trophy missing from his collection? Spain has looked solid but did not face a lot of resistance against Austria. Can they continue to dominate possession while being forced to defend against Portugal's attacks?",
       "kickoffUTC": "2026-07-06T19:00:00Z",
-      "status": "scheduled",
+      "storylineScore": 3,
+      "storylines": [
+        "Will Roberto Martinez be willing to drop Ronaldo from the start?"
+      ],
+      "status": "completed",
+      "finalScore": "0-1",
+      "actualExcitementScore": null,
       "homeTeamName": "Portugal",
       "awayTeamName": "Spain",
       "homeElo": 1986,
@@ -68,9 +78,6 @@
         "Rodri",
         "Lamine Yamal"
       ],
-      "whyWatch": "",
-      "storylineScore": null,
-      "storylines": [],
       "excitementScore": 69.0,
       "preTournamentScore": 71.9,
       "tournamentFormScore": 67.5,
@@ -124,6 +131,50 @@
         "competitiveBalance": 7.52,
         "matchImportance": 6,
         "rivalryScore": 5
+      }
+    },
+    {
+      "matchId": 94,
+      "stage": "Round of 16",
+      "homeTeam": "United States",
+      "awayTeam": "Belgium",
+      "homeTeamKey": "united states",
+      "awayTeamKey": "belgium",
+      "matchImportance": 8,
+      "rivalryScore": 8,
+      "whyWatch": "Before the game, the US is still considered favorite to go through despite the absence of star forward Folarin Balogun because of a red card in the game against Bosnia. But thanks to a timely intervention from the head of state, Balogun's suspension is lifted, and he will play. This game has now reached a red-hot fever in the rivalry scale because of off-the-pitch factors.",
+      "kickoffUTC": "2026-07-07T00:00:00Z",
+      "storylineScore": 5,
+      "storylines": [
+        "Belgium out to prove that there's life in them even if they feel a sense of injustice",
+        "How will the controversy around Folarin Balogun's overturned suspension affect US's preparation?"
+      ],
+      "status": "completed",
+      "finalScore": "1-4",
+      "actualExcitementScore": null,
+      "homeTeamName": "United States",
+      "awayTeamName": "Belgium",
+      "homeElo": 1726,
+      "awayElo": 1893,
+      "homeStarPower": 7,
+      "awayStarPower": 7,
+      "starPlayers": [
+        "Christian Pulisic",
+        "Kevin De Bruyne",
+        "Jeremy Doku",
+        "Romelu Lukaku"
+      ],
+      "excitementScore": 68.5,
+      "preTournamentScore": 70.4,
+      "tournamentFormScore": 67.5,
+      "watchTier": "Must watch",
+      "scoreBreakdown": {
+        "attackingScore": 7.03,
+        "chaosScore": 3.45,
+        "starPowerScore": 7.0,
+        "competitiveBalance": 7.22,
+        "matchImportance": 8,
+        "rivalryScore": 8
       }
     },
     {
@@ -675,6 +726,47 @@
       }
     },
     {
+      "matchId": 96,
+      "stage": "Round of 16",
+      "homeTeam": "Switzerland",
+      "awayTeam": "Colombia",
+      "homeTeamKey": "switzerland",
+      "awayTeamKey": "colombia",
+      "matchImportance": 8,
+      "rivalryScore": 6,
+      "whyWatch": "The two dark horses face off for a spot in the quarterfinal. The Swiss will rely on two in-form attackers in the form of Breel Embolo and Johan Manzambi. Colombia have registered 20 or more shots in their last three matches but has only scored two goals, yet they have also kept a clean in their last three matches. This will be an interesting duel.",
+      "kickoffUTC": "2026-07-07T20:00:00Z",
+      "storylineScore": 3,
+      "storylines": [
+        "Can Switzerland break down Colombia's defense?",
+        "Can Colombia convert their chances?"
+      ],
+      "status": "scheduled",
+      "homeTeamName": "Switzerland",
+      "awayTeamName": "Colombia",
+      "homeElo": 1891,
+      "awayElo": 1982,
+      "homeStarPower": 6,
+      "awayStarPower": 7,
+      "starPlayers": [
+        "Manuel Akanji",
+        "Granit Xhaka",
+        "Luis Diaz"
+      ],
+      "excitementScore": 61.7,
+      "preTournamentScore": 60.3,
+      "tournamentFormScore": 62.4,
+      "watchTier": "Strong watch",
+      "scoreBreakdown": {
+        "attackingScore": 6.48,
+        "chaosScore": 2.31,
+        "starPowerScore": 6.5,
+        "competitiveBalance": 8.48,
+        "matchImportance": 8,
+        "rivalryScore": 6
+      }
+    },
+    {
       "matchId": 77,
       "stage": "Round of 32",
       "homeTeam": "France",
@@ -720,24 +812,26 @@
       }
     },
     {
-      "matchId": 94,
-      "stage": "Round of 16",
-      "homeTeam": "United States",
+      "matchId": 98,
+      "stage": "Quarterfinals",
+      "homeTeam": "Spain",
       "awayTeam": "Belgium",
-      "homeTeamKey": "united states",
+      "homeTeamKey": "spain",
       "awayTeamKey": "belgium",
       "matchImportance": 5,
       "rivalryScore": 5,
-      "kickoffUTC": "2026-07-07T00:00:00Z",
-      "status": "scheduled",
-      "homeTeamName": "United States",
+      "kickoffUTC": "2026-07-10T19:00:00Z",
+      "homeTeamName": "Spain",
       "awayTeamName": "Belgium",
-      "homeElo": 1726,
+      "homeElo": 2157,
       "awayElo": 1893,
-      "homeStarPower": 7,
+      "homeStarPower": 9,
       "awayStarPower": 7,
       "starPlayers": [
-        "Christian Pulisic",
+        "Dani Olmo",
+        "Pedri",
+        "Rodri",
+        "Lamine Yamal",
         "Kevin De Bruyne",
         "Jeremy Doku",
         "Romelu Lukaku"
@@ -745,15 +839,15 @@
       "whyWatch": "",
       "storylineScore": null,
       "storylines": [],
-      "excitementScore": 61.5,
-      "preTournamentScore": 64.4,
+      "excitementScore": 61.4,
+      "preTournamentScore": 63.9,
       "tournamentFormScore": 60.0,
       "watchTier": "Strong watch",
       "scoreBreakdown": {
-        "attackingScore": 7.03,
-        "chaosScore": 3.45,
-        "starPowerScore": 7.0,
-        "competitiveBalance": 7.22,
+        "attackingScore": 7.55,
+        "chaosScore": 2.04,
+        "starPowerScore": 8.0,
+        "competitiveBalance": 5.6,
         "matchImportance": 5,
         "rivalryScore": 5
       }
@@ -929,9 +1023,15 @@
       "awayTeam": "Egypt",
       "homeTeamKey": "argentina",
       "awayTeamKey": "egypt",
-      "matchImportance": 5,
-      "rivalryScore": 5,
+      "matchImportance": 7,
+      "rivalryScore": 6,
+      "whyWatch": "Argentina has been cruising throughout the tournament until they meet the surprise package that is Cape Verde. Argentina were content to sit on their one-goal lead, which cost them as The Blue Sharks equalized in the second half. Argentina went in front again in extra time, but Sidny Lopes Cabral then scored potentially the goal of the tournament with a curling effort. Argentina eventually prevailed, but Mo Salah and co should take notice that Argetina are far from invilnerable.",
       "kickoffUTC": "2026-07-07T16:00:00Z",
+      "storylineScore": 3,
+      "storylines": [
+        "Salah v Messi, who will prevail?",
+        "Cape Verde showed that Argentina is vulnerable, can Egypt take advantage?"
+      ],
       "status": "scheduled",
       "homeTeamName": "Argentina",
       "awayTeamName": "Egypt",
@@ -947,9 +1047,6 @@
         "Mohamed Salah",
         "Omar Marmoush"
       ],
-      "whyWatch": "",
-      "storylineScore": null,
-      "storylines": [],
       "excitementScore": 60.0,
       "preTournamentScore": 60.0,
       "tournamentFormScore": 60.0,
@@ -959,8 +1056,8 @@
         "chaosScore": 2.71,
         "starPowerScore": 8.0,
         "competitiveBalance": 3.03,
-        "matchImportance": 5,
-        "rivalryScore": 5
+        "matchImportance": 7,
+        "rivalryScore": 6
       }
     },
     {
@@ -1011,7 +1108,13 @@
       "awayTeamKey": "morocco",
       "matchImportance": 7,
       "rivalryScore": 6,
+      "whyWatch": "This is the furthest Canada has advanced in the World Cup, can they continue the feel-good story by progressing to the quarterfinals? They will need Alphonso Davies to be fit and firing to have a chance.",
       "kickoffUTC": "2026-07-04T17:00:00Z",
+      "storylineScore": 3,
+      "storylines": [
+        "Is Alphonso Davies fit?",
+        "Can Morocco show that their run to the semifinal four years ago wasn't a fluke?"
+      ],
       "status": "completed",
       "finalScore": "0-3",
       "actualExcitementScore": null,
@@ -1025,9 +1128,6 @@
         "Alphonso Davies",
         "Achraf Hakimi"
       ],
-      "whyWatch": "",
-      "storylineScore": null,
-      "storylines": [],
       "excitementScore": 59.9,
       "preTournamentScore": 56.5,
       "tournamentFormScore": 61.8,
@@ -1138,7 +1238,13 @@
       "awayTeamKey": "england",
       "matchImportance": 7,
       "rivalryScore": 6,
+      "whyWatch": "Perhaps England's sternest test so far in the World Cup, Mexico are on a high buoyed by home advantage and the altitude. They will be extra motivated to make the quarterfinals of the World Cup for the first time since last hosting the tournament four decades ago.",
       "kickoffUTC": "2026-07-06T00:00:00Z",
+      "storylineScore": 4,
+      "storylines": [
+        "Can Mexico break the curse and advance to the quarterfinals of the World Cup for the first time since 1986?",
+        "How will England cope with the atmosphere of the Azteca and the altitude?"
+      ],
       "status": "completed",
       "finalScore": "2-3",
       "actualExcitementScore": null,
@@ -1157,9 +1263,6 @@
         "Declan Rice",
         "Bukayo Saka"
       ],
-      "whyWatch": "",
-      "storylineScore": null,
-      "storylines": [],
       "excitementScore": 59.6,
       "preTournamentScore": 59.8,
       "tournamentFormScore": 59.5,
@@ -1578,44 +1681,6 @@
       }
     },
     {
-      "matchId": 96,
-      "stage": "Round of 16",
-      "homeTeam": "Switzerland",
-      "awayTeam": "Colombia",
-      "homeTeamKey": "switzerland",
-      "awayTeamKey": "colombia",
-      "matchImportance": 5,
-      "rivalryScore": 5,
-      "kickoffUTC": "2026-07-07T20:00:00Z",
-      "status": "scheduled",
-      "homeTeamName": "Switzerland",
-      "awayTeamName": "Colombia",
-      "homeElo": 1891,
-      "awayElo": 1982,
-      "homeStarPower": 6,
-      "awayStarPower": 7,
-      "starPlayers": [
-        "Manuel Akanji",
-        "Granit Xhaka",
-        "Luis Diaz"
-      ],
-      "whyWatch": "",
-      "storylineScore": null,
-      "storylines": [],
-      "excitementScore": 56.7,
-      "preTournamentScore": 56.3,
-      "tournamentFormScore": 56.9,
-      "watchTier": "Background watch",
-      "scoreBreakdown": {
-        "attackingScore": 6.48,
-        "chaosScore": 2.31,
-        "starPowerScore": 6.5,
-        "competitiveBalance": 8.48,
-        "matchImportance": 5,
-        "rivalryScore": 5
-      }
-    },
-    {
       "matchId": 46,
       "homeTeam": "Panama",
       "awayTeam": "Croatia",
@@ -1702,7 +1767,12 @@
       "awayTeamKey": "france",
       "matchImportance": 6,
       "rivalryScore": 5,
+      "whyWatch": "Paraguay will be looking to shock another European giant by absorbing the pressure, slowing down the game with fouls and theatrics. That works against Germany, will it work against the two-time chapms? France have looked impervious so far in the tournament.",
       "kickoffUTC": "2026-07-04T21:00:00Z",
+      "storylineScore": 3,
+      "storylines": [
+        "How will France react to Paraguay's constant-fouling tactic?"
+      ],
       "status": "completed",
       "finalScore": "0-1",
       "actualExcitementScore": null,
@@ -1720,9 +1790,6 @@
         "Kylian Mbappe",
         "Michael Olise"
       ],
-      "whyWatch": "",
-      "storylineScore": null,
-      "storylines": [],
       "excitementScore": 56.4,
       "preTournamentScore": 56.2,
       "tournamentFormScore": 56.5,
@@ -3973,25 +4040,6 @@
         "matchImportance": 6,
         "rivalryScore": 3
       }
-    },
-    {
-      "matchId": 98,
-      "stage": "Quarterfinals",
-      "homeTeam": "Winner Match 93",
-      "awayTeam": "Winner Match 94",
-      "homeTeamKey": "winner_match_93",
-      "awayTeamKey": "winner_match_94",
-      "matchImportance": 5,
-      "rivalryScore": 5,
-      "kickoffUTC": "2026-07-10T19:00:00Z",
-      "homeTeamName": "Winner Match 93",
-      "awayTeamName": "Winner Match 94",
-      "excitementScore": null,
-      "watchTier": "TBD",
-      "scoreBreakdown": null,
-      "starPlayers": [],
-      "whyWatch": "",
-      "status": "tbd"
     },
     {
       "matchId": 100,
