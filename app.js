@@ -341,6 +341,7 @@ function renderKnockoutStage() {
 
   renderKnockoutCards(roundOf32, "round-of-32");
   renderKnockoutCards(roundOf16, "round-of-16");
+  renderKnockoutCards(quarterfinals, "quarterfinals");
 }
 
 function renderKnockoutCards(stageFixtures, containerId) {

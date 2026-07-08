@@ -1443,7 +1443,9 @@
         "Salah v Messi, who will prevail?",
         "Cape Verde showed that Argentina is vulnerable, can Egypt take advantage?"
       ],
-      "status": "scheduled"
+      "status": "completed",
+      "finalScore": "3-2",
+      "actualExcitementScore": null
     },
     {
       "matchId": 96,
@@ -1458,9 +1460,12 @@
       "kickoffUTC": "2026-07-07T20:00:00Z",
       "storylineScore": 3,
       "storylines": [
-        "Can Switzerland break down Colombia's defense?", "Can Colombia convert their chances?"
+        "Can Switzerland break down Colombia's defense?",
+        "Can Colombia convert their chances?"
       ],
-      "status": "scheduled"
+      "status": "completed",
+      "finalScore": "0-0 (Switzerland win 4-3 on penalties)",
+      "actualExcitementScore": null
     },
     {
       "matchId": 97,
@@ -1469,9 +1474,10 @@
       "awayTeam": "Morocco",
       "homeTeamKey": "france",
       "awayTeamKey": "morocco",
-      "matchImportance": 5,
-      "rivalryScore": 5,
-      "kickoffUTC": "2026-07-09T20:00:00Z"
+      "matchImportance": 8,
+      "rivalryScore": 7,
+      "kickoffUTC": "2026-07-09T20:00:00Z",
+      "status": "scheduled"
     },
     {
       "matchId": 98,
@@ -1480,9 +1486,10 @@
       "awayTeam": "Belgium",
       "homeTeamKey": "spain",
       "awayTeamKey": "belgium",
-      "matchImportance": 5,
-      "rivalryScore": 5,
-      "kickoffUTC": "2026-07-10T19:00:00Z"
+      "matchImportance": 8,
+      "rivalryScore": 6,
+      "kickoffUTC": "2026-07-10T19:00:00Z",
+      "status": "scheduled"
     },
     {
       "matchId": 99,
@@ -1491,20 +1498,22 @@
       "awayTeam": "England",
       "homeTeamKey": "norway",
       "awayTeamKey": "england",
-      "matchImportance": 5,
-      "rivalryScore": 5,
-      "kickoffUTC": "2026-07-11T21:00:00Z"
+      "matchImportance": 8,
+      "rivalryScore": 6,
+      "kickoffUTC": "2026-07-11T21:00:00Z",
+      "status": "scheduled"
     },
     {
       "matchId": 100,
       "stage": "Quarterfinals",
-      "homeTeam": "Winner Match 95",
-      "awayTeam": "Winner Match 96",
-      "homeTeamKey": "winner_match_95",
-      "awayTeamKey": "winner_match_96",
-      "matchImportance": 5,
+      "homeTeam": "Argentina",
+      "awayTeam": "Switzerland",
+      "homeTeamKey": "argentina",
+      "awayTeamKey": "switzerland",
+      "matchImportance": 8,
       "rivalryScore": 5,
-      "kickoffUTC": "2026-07-12T01:00:00Z"
+      "kickoffUTC": "2026-07-12T01:00:00Z",
+      "status": "scheduled"
     },
     {
       "matchId": 101,
